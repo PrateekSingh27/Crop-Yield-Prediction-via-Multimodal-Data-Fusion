@@ -1,0 +1,33 @@
+CROP YIELD PREDICTION VIA MULTIMODAL DATA FUSION - HOW TO RUN (Windows)
+=====================================================================
+
+1) Install Python 3.12 (once)
+   https://www.python.org/downloads/  -> during install TICK "Add python.exe to PATH"
+
+2) Unzip this folder anywhere (e.g. Desktop).
+
+3) Double-click  setup.bat   (first time only, needs internet, ~3-5 min)
+   It creates .venv, installs packages, builds the dataset and trains the models.
+
+4) Double-click  run.bat
+   The dashboard opens at  http://localhost:8000
+   API docs:               http://localhost:8000/docs
+   Stop the app: close the window or press Ctrl+C.
+
+After setup, run.bat works OFFLINE (good for the exam hall).
+
+Inside this folder:
+- docs/Crop_Yield_Fusion_PBL_Presentation.pptx               -> presentation (college PBL template, 13 slides)
+- docs/PBL_Report_Crop_Yield_Multimodal_Fusion.docx / .pdf      -> PBL report (college format)
+- docs/VIVA_GUIDE.md                                          -> viva Q&A
+- notebooks/crop_yield_walkthrough.ipynb                      -> full pipeline with outputs
+- reports/figures/                                            -> charts for report/PPT
+
+Optional - real NASA weather (needs internet):
+   .venv\Scripts\python -m cropyield.nasa_power
+   .venv\Scripts\python -m cropyield.build_dataset --weather nasa
+   .venv\Scripts\python -m cropyield.train
+
+Problems?
+- "python not found": reinstall Python with "Add to PATH" ticked, then run setup.bat again.
+- Port 8000 busy: close other apps using it, or edit run.bat to use --port 8001.
