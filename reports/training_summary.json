@@ -1,0 +1,83 @@
+{
+  "trained_at": "2026-11-21T09:38:27",
+  "data_source": {
+    "weather": "synthetic",
+    "satellite": "simulated NDVI composites",
+    "soil": "simulated Soil-Health-Card style samples",
+    "yield": "simulated"
+  },
+  "rows": 440,
+  "districts": 32,
+  "states": 11,
+  "crops": [
+    "Rice",
+    "Wheat"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "features": [
+    "ndvi_early",
+    "ndvi_mid",
+    "ndvi_peak",
+    "ndvi_late",
+    "ndvi_growth_slope",
+    "ndvi_senescence",
+    "ndvi_auc",
+    "rainfall_mm",
+    "rainfall_cv",
+    "flowering_rainfall_mm",
+    "dry_spell_days",
+    "tmax_mean_c",
+    "tmin_mean_c",
+    "solar_radiation_mj",
+    "rh_mean_pct",
+    "gdd",
+    "heat_stress_days",
+    "temp_range_c",
+    "soil_ph",
+    "soil_n_kg_ha",
+    "soil_oc_pct",
+    "sand_pct",
+    "silt_pct",
+    "clay_pct",
+    "rainfall_x_soil_n",
+    "crop_is_rice"
+  ],
+  "n_features": 26,
+  "best_model_overall": "LightGBM",
+  "deployed_model": "LightGBM",
+  "deployed_metrics": {
+    "RMSE": 0.37228466695893553,
+    "MAE": 0.2897496586330735,
+    "R2": 0.8219782880807923,
+    "MAPE_pct": 9.694323006622806
+  },
+  "fused_vs_best_single_r2_gain": 0.12245754495182704,
+  "late_fusion_weights": {
+    "Satellite": 0.5210978770343901,
+    "Weather": 0.30305602678574806,
+    "Soil": 0.3162861040066357
+  },
+  "prediction_interval_80": {
+    "Rice": {
+      "lower": -0.45613327284411614,
+      "upper": 0.535693235445959
+    },
+    "Wheat": {
+      "lower": -0.42954194250989436,
+      "upper": 0.40888840796360704
+    }
+  },
+  "training_seconds": 54.4
+}

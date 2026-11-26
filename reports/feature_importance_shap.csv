@@ -1,0 +1,27 @@
+feature,mean_abs_shap,modality,label
+ndvi_auc,0.25275383946299035,Satellite,Seasonal NDVI integral
+heat_stress_days,0.16867519068224848,Weather,Heat-stress days (sensitive stage)
+ndvi_mid,0.09747792625996347,Satellite,Mid-season NDVI
+gdd,0.09681336847557287,Weather,Growing degree days
+sand_pct,0.0658914921813058,Soil,Sand
+soil_oc_pct,0.06514383867758382,Soil,Organic carbon
+ndvi_peak,0.05706279002331117,Satellite,Peak-season NDVI
+soil_ph,0.04690426349721013,Soil,Soil pH
+ndvi_late,0.04534035042799076,Satellite,Late-season NDVI
+rainfall_x_soil_n,0.043327431299037836,Cross-modal,Rainfall × soil N interaction
+ndvi_growth_slope,0.042132610294113124,Satellite,NDVI green-up slope
+soil_n_kg_ha,0.04107007170515513,Soil,Available nitrogen
+solar_radiation_mj,0.03133481775109814,Weather,Solar radiation
+ndvi_senescence,0.027978840146653562,Satellite,NDVI senescence drop
+dry_spell_days,0.02405642723342168,Weather,Longest dry spell
+temp_range_c,0.023222460512014084,Weather,Diurnal temperature range
+rainfall_mm,0.020382321446027946,Weather,Seasonal rainfall
+rh_mean_pct,0.019184779872919947,Weather,Mean relative humidity
+ndvi_early,0.01730231747765747,Satellite,Early-season NDVI
+flowering_rainfall_mm,0.01614394946623259,Weather,Rainfall at flowering
+silt_pct,0.015517349613449947,Soil,Silt
+clay_pct,0.013789341418022088,Soil,Clay
+tmax_mean_c,0.012280561620979,Weather,Mean max temperature
+rainfall_cv,0.011568377530938872,Weather,Weekly rainfall variability (CV)
+tmin_mean_c,0.005904655385918159,Weather,Mean min temperature
+crop_is_rice,0.0,Context,Crop = Rice

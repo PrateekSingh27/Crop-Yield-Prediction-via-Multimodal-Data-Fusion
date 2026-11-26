@@ -1,0 +1,2641 @@
+district,state,crop,year,actual,predicted,model
+Ludhiana,Punjab,Wheat,2014,4.427,4.471600969035968,Ridge Regression
+Ludhiana,Punjab,Rice,2014,3.882,3.726644263281968,Ridge Regression
+Patiala,Punjab,Wheat,2014,4.861,4.989137530376334,Ridge Regression
+Patiala,Punjab,Rice,2014,3.661,4.427659783486403,Ridge Regression
+Amritsar,Punjab,Wheat,2014,4.492,4.583795458382294,Ridge Regression
+Amritsar,Punjab,Rice,2014,3.523,4.197563785894342,Ridge Regression
+Karnal,Haryana,Wheat,2014,4.015,4.521801790763986,Ridge Regression
+Karnal,Haryana,Rice,2014,3.241,3.9912554802902984,Ridge Regression
+Hisar,Haryana,Wheat,2014,3.329,3.479169111772895,Ridge Regression
+Faridabad,Haryana,Wheat,2014,3.975,4.362967954734718,Ridge Regression
+Jaipur,Rajasthan,Wheat,2014,2.814,3.1833887591376286,Ridge Regression
+Kota,Rajasthan,Wheat,2014,2.888,2.648313424102157,Ridge Regression
+Ajmer,Rajasthan,Wheat,2014,2.265,2.877054577729144,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2014,2.584,3.019005104430063,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2014,2.606,3.1159579759978357,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2014,2.344,2.71662926934856,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2014,1.868,2.751958042907543,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2014,2.589,2.8125747570014132,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2014,2.56,2.7572817305426196,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2014,2.519,3.043950627439135,Ridge Regression
+Nashik,Maharashtra,Wheat,2014,1.5,1.8228298077649365,Ridge Regression
+Pune,Maharashtra,Rice,2014,2.245,2.523350658348742,Ridge Regression
+Nagpur,Maharashtra,Rice,2014,3.055,2.510152885250551,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2014,2.728,3.1519601007012876,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2014,2.323,2.6094560629383086,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2014,2.175,2.6135796853773745,Ridge Regression
+Mysuru,Karnataka,Rice,2014,3.326,3.6042020995591124,Ridge Regression
+Dharwad,Karnataka,Wheat,2014,1.645,1.6266931830650149,Ridge Regression
+Belagavi,Karnataka,Rice,2014,3.492,3.9053978058565035,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2014,3.112,3.454241784020934,Ridge Regression
+Madurai,Tamil Nadu,Rice,2014,2.969,3.1179644847502757,Ridge Regression
+Salem,Tamil Nadu,Rice,2014,3.195,3.910912969656093,Ridge Regression
+Patna,Bihar,Wheat,2014,2.331,2.73735308462384,Ridge Regression
+Patna,Bihar,Rice,2014,2.64,3.1878445723158877,Ridge Regression
+Gaya,Bihar,Wheat,2014,2.477,2.4959308398723605,Ridge Regression
+Gaya,Bihar,Rice,2014,2.803,3.1757585074937147,Ridge Regression
+Purnia,Bihar,Wheat,2014,2.807,2.8563222360931566,Ridge Regression
+Purnia,Bihar,Rice,2014,2.02,2.3412467091596625,Ridge Regression
+Raipur,Chhattisgarh,Rice,2014,2.789,2.392993975758736,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2014,2.832,3.0839172684403717,Ridge Regression
+Ludhiana,Punjab,Wheat,2015,4.554,4.160427363768568,Ridge Regression
+Ludhiana,Punjab,Rice,2015,3.789,4.150685445868337,Ridge Regression
+Patiala,Punjab,Wheat,2015,3.372,3.9147764582785016,Ridge Regression
+Patiala,Punjab,Rice,2015,3.775,4.280686267733426,Ridge Regression
+Amritsar,Punjab,Wheat,2015,4.688,4.73923470056162,Ridge Regression
+Amritsar,Punjab,Rice,2015,3.135,3.54820497262401,Ridge Regression
+Karnal,Haryana,Wheat,2015,3.613,4.1458971440739,Ridge Regression
+Karnal,Haryana,Rice,2015,3.437,4.039098363093362,Ridge Regression
+Hisar,Haryana,Wheat,2015,3.477,3.5764566604464894,Ridge Regression
+Faridabad,Haryana,Wheat,2015,3.93,3.6927791949873408,Ridge Regression
+Jaipur,Rajasthan,Wheat,2015,2.64,2.890504466981511,Ridge Regression
+Kota,Rajasthan,Wheat,2015,2.451,2.789989995407738,Ridge Regression
+Ajmer,Rajasthan,Wheat,2015,2.224,2.5486039404763954,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2015,3.552,3.2822049995372375,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2015,3.853,3.1628001751891013,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2015,4.097,3.0416499623614,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2015,2.669,2.766596331977237,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2015,3.551,3.5163748177036362,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2015,2.763,2.708017585359197,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2015,3.339,3.6174114719944632,Ridge Regression
+Nashik,Maharashtra,Wheat,2015,1.497,2.2600708616515908,Ridge Regression
+Pune,Maharashtra,Rice,2015,2.184,2.374413991244429,Ridge Regression
+Nagpur,Maharashtra,Rice,2015,1.923,2.2705629813834616,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2015,1.822,1.732404628414564,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2015,1.979,1.4759981869108998,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2015,2.625,2.9547092933791226,Ridge Regression
+Mysuru,Karnataka,Rice,2015,3.307,3.4989600697000838,Ridge Regression
+Dharwad,Karnataka,Wheat,2015,1.77,1.451441098318546,Ridge Regression
+Belagavi,Karnataka,Rice,2015,4.092,3.7275781765086404,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2015,3.644,3.3308170633870913,Ridge Regression
+Madurai,Tamil Nadu,Rice,2015,4.078,3.526573897106915,Ridge Regression
+Salem,Tamil Nadu,Rice,2015,3.986,3.783664857290482,Ridge Regression
+Patna,Bihar,Wheat,2015,3.073,3.156465977382196,Ridge Regression
+Patna,Bihar,Rice,2015,3.007,2.960616256797301,Ridge Regression
+Gaya,Bihar,Wheat,2015,3.082,3.195743869878961,Ridge Regression
+Gaya,Bihar,Rice,2015,2.758,3.168288997604008,Ridge Regression
+Purnia,Bihar,Wheat,2015,3.093,3.225998112151347,Ridge Regression
+Purnia,Bihar,Rice,2015,3.49,2.9308136098964526,Ridge Regression
+Raipur,Chhattisgarh,Rice,2015,1.839,2.1696831329123425,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2015,2.437,3.235044641259588,Ridge Regression
+Ludhiana,Punjab,Wheat,2016,4.015,3.747978725195492,Ridge Regression
+Ludhiana,Punjab,Rice,2016,3.796,3.6280376771286473,Ridge Regression
+Patiala,Punjab,Wheat,2016,4.732,4.434700721791649,Ridge Regression
+Patiala,Punjab,Rice,2016,4.318,4.066147186919192,Ridge Regression
+Amritsar,Punjab,Wheat,2016,3.335,4.090936502410228,Ridge Regression
+Amritsar,Punjab,Rice,2016,3.991,4.048397179299897,Ridge Regression
+Karnal,Haryana,Wheat,2016,3.107,3.1852023035507675,Ridge Regression
+Karnal,Haryana,Rice,2016,3.34,3.3217071480269063,Ridge Regression
+Hisar,Haryana,Wheat,2016,3.488,3.7126905552625202,Ridge Regression
+Faridabad,Haryana,Wheat,2016,4.363,3.6631744155827395,Ridge Regression
+Jaipur,Rajasthan,Wheat,2016,2.146,2.442278276994468,Ridge Regression
+Kota,Rajasthan,Wheat,2016,1.981,2.0967190024985314,Ridge Regression
+Ajmer,Rajasthan,Wheat,2016,1.794,2.438573939068461,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2016,2.466,2.735412882985802,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2016,2.948,2.467257731003649,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2016,2.744,2.6269753665555053,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2016,2.123,2.708811123492132,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2016,2.793,2.816005669774921,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2016,2.747,2.658248943826214,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2016,2.637,2.708890800892268,Ridge Regression
+Nashik,Maharashtra,Wheat,2016,1.2,1.2498069294753762,Ridge Regression
+Pune,Maharashtra,Rice,2016,2.261,2.975833133646935,Ridge Regression
+Nagpur,Maharashtra,Rice,2016,2.373,2.5643823920555295,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2016,2.618,2.717066518009441,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2016,1.945,1.398387389210968,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2016,2.149,1.9101143560368772,Ridge Regression
+Mysuru,Karnataka,Rice,2016,3.594,3.7393893919229826,Ridge Regression
+Dharwad,Karnataka,Wheat,2016,2.025,1.7730725298371801,Ridge Regression
+Belagavi,Karnataka,Rice,2016,3.965,4.359851052151804,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2016,3.633,3.4231859312232396,Ridge Regression
+Madurai,Tamil Nadu,Rice,2016,3.794,3.8028821782837667,Ridge Regression
+Salem,Tamil Nadu,Rice,2016,3.89,3.7135632289902776,Ridge Regression
+Patna,Bihar,Wheat,2016,2.259,2.716371161772756,Ridge Regression
+Patna,Bihar,Rice,2016,2.353,2.4718600295201236,Ridge Regression
+Gaya,Bihar,Wheat,2016,1.752,2.1054607822980858,Ridge Regression
+Gaya,Bihar,Rice,2016,2.186,2.664046549597898,Ridge Regression
+Purnia,Bihar,Wheat,2016,1.875,2.2628200913109593,Ridge Regression
+Purnia,Bihar,Rice,2016,2.31,2.163787062132123,Ridge Regression
+Raipur,Chhattisgarh,Rice,2016,2.383,2.2451845510076898,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2016,2.269,3.101929992017264,Ridge Regression
+Ludhiana,Punjab,Wheat,2017,4.521,4.1906334538012056,Ridge Regression
+Ludhiana,Punjab,Rice,2017,3.74,4.011507158123872,Ridge Regression
+Patiala,Punjab,Wheat,2017,3.924,4.209150175949697,Ridge Regression
+Patiala,Punjab,Rice,2017,3.849,3.680976566593435,Ridge Regression
+Amritsar,Punjab,Wheat,2017,4.423,4.768619382016049,Ridge Regression
+Amritsar,Punjab,Rice,2017,3.414,3.4236421555853602,Ridge Regression
+Karnal,Haryana,Wheat,2017,4.192,3.90286108684054,Ridge Regression
+Karnal,Haryana,Rice,2017,3.345,3.6306159739794337,Ridge Regression
+Hisar,Haryana,Wheat,2017,4.203,3.7113681375058927,Ridge Regression
+Faridabad,Haryana,Wheat,2017,4.638,4.049127911143037,Ridge Regression
+Jaipur,Rajasthan,Wheat,2017,2.6,2.919278698338716,Ridge Regression
+Kota,Rajasthan,Wheat,2017,2.128,2.098747168869834,Ridge Regression
+Ajmer,Rajasthan,Wheat,2017,2.555,2.4071940630225956,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2017,2.618,2.649336666246032,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2017,2.896,2.921614758188248,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2017,2.417,2.3004610949303292,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2017,2.18,2.4950132737652835,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2017,3.222,3.084365734852267,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2017,2.391,2.518756441325567,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2017,2.962,2.764135829554009,Ridge Regression
+Nashik,Maharashtra,Wheat,2017,1.119,0.9652676678483316,Ridge Regression
+Pune,Maharashtra,Rice,2017,2.194,2.480747235966435,Ridge Regression
+Nagpur,Maharashtra,Rice,2017,2.904,2.8100088813051722,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2017,2.505,2.5074661119727093,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2017,2.55,2.344311759450329,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2017,3.923,3.660800721609887,Ridge Regression
+Mysuru,Karnataka,Rice,2017,3.076,3.7236540315615576,Ridge Regression
+Dharwad,Karnataka,Wheat,2017,2.043,2.054865290752754,Ridge Regression
+Belagavi,Karnataka,Rice,2017,4.151,4.536165847817555,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2017,2.128,2.2579118852226325,Ridge Regression
+Madurai,Tamil Nadu,Rice,2017,3.46,4.082661618117695,Ridge Regression
+Salem,Tamil Nadu,Rice,2017,2.214,2.593785453109463,Ridge Regression
+Patna,Bihar,Wheat,2017,3.569,3.243623823161848,Ridge Regression
+Patna,Bihar,Rice,2017,3.314,3.6866130880436185,Ridge Regression
+Gaya,Bihar,Wheat,2017,2.188,2.840000640772518,Ridge Regression
+Gaya,Bihar,Rice,2017,3.222,3.518772335847804,Ridge Regression
+Purnia,Bihar,Wheat,2017,2.527,2.6288863756478476,Ridge Regression
+Purnia,Bihar,Rice,2017,3.264,3.088442906189368,Ridge Regression
+Raipur,Chhattisgarh,Rice,2017,2.81,3.365807665803337,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2017,2.604,2.7886104580903703,Ridge Regression
+Ludhiana,Punjab,Wheat,2018,4.907,4.212750485990447,Ridge Regression
+Ludhiana,Punjab,Rice,2018,4.627,3.770613899073271,Ridge Regression
+Patiala,Punjab,Wheat,2018,4.171,4.398105955708617,Ridge Regression
+Patiala,Punjab,Rice,2018,4.315,4.672310016682933,Ridge Regression
+Amritsar,Punjab,Wheat,2018,4.63,4.359571920518084,Ridge Regression
+Amritsar,Punjab,Rice,2018,3.939,4.266982936564439,Ridge Regression
+Karnal,Haryana,Wheat,2018,3.879,4.126469363810143,Ridge Regression
+Karnal,Haryana,Rice,2018,3.52,3.7075090101025383,Ridge Regression
+Hisar,Haryana,Wheat,2018,3.67,3.8290481903911093,Ridge Regression
+Faridabad,Haryana,Wheat,2018,3.899,3.7329587245558398,Ridge Regression
+Jaipur,Rajasthan,Wheat,2018,2.116,2.261448565965998,Ridge Regression
+Kota,Rajasthan,Wheat,2018,2.602,2.700015592194225,Ridge Regression
+Ajmer,Rajasthan,Wheat,2018,1.958,2.3241127526517733,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2018,2.686,2.5653884905756694,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2018,3.756,3.557332759717613,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2018,3.059,3.1892883372941676,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2018,2.71,2.5738337875762327,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2018,2.886,3.3151828269307098,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2018,2.509,2.4685135432853165,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2018,3.121,3.0730410887504123,Ridge Regression
+Nashik,Maharashtra,Wheat,2018,1.756,2.2308211039910435,Ridge Regression
+Pune,Maharashtra,Rice,2018,2.292,2.589773349455021,Ridge Regression
+Nagpur,Maharashtra,Rice,2018,2.762,2.9470949254089915,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2018,3.361,3.1605102176073636,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2018,2.947,2.8100411218214942,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2018,3.414,3.282958800414276,Ridge Regression
+Mysuru,Karnataka,Rice,2018,3.627,3.8168182004656823,Ridge Regression
+Dharwad,Karnataka,Wheat,2018,1.39,1.6948536813746657,Ridge Regression
+Belagavi,Karnataka,Rice,2018,4.27,4.348696648726267,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2018,2.932,3.1534562868527054,Ridge Regression
+Madurai,Tamil Nadu,Rice,2018,3.496,3.504370265049957,Ridge Regression
+Salem,Tamil Nadu,Rice,2018,2.249,2.0871575053886935,Ridge Regression
+Patna,Bihar,Wheat,2018,2.719,2.5886746846735993,Ridge Regression
+Patna,Bihar,Rice,2018,3.87,2.796027085558009,Ridge Regression
+Gaya,Bihar,Wheat,2018,2.93,2.7045412620410945,Ridge Regression
+Gaya,Bihar,Rice,2018,2.929,3.2575188415411045,Ridge Regression
+Purnia,Bihar,Wheat,2018,2.392,2.074428783509493,Ridge Regression
+Purnia,Bihar,Rice,2018,2.914,2.8810505473483254,Ridge Regression
+Raipur,Chhattisgarh,Rice,2018,2.746,2.5927930659270584,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2018,2.816,2.7968948490309105,Ridge Regression
+Ludhiana,Punjab,Wheat,2019,4.989,4.766935512894092,Ridge Regression
+Ludhiana,Punjab,Rice,2019,4.726,4.43188263553345,Ridge Regression
+Patiala,Punjab,Wheat,2019,5.249,5.0457279807229884,Ridge Regression
+Patiala,Punjab,Rice,2019,3.95,3.814954619113037,Ridge Regression
+Amritsar,Punjab,Wheat,2019,5.458,4.608719135567241,Ridge Regression
+Amritsar,Punjab,Rice,2019,3.907,3.8226681137909635,Ridge Regression
+Karnal,Haryana,Wheat,2019,3.893,3.712037036107203,Ridge Regression
+Karnal,Haryana,Rice,2019,3.139,4.027025775695086,Ridge Regression
+Hisar,Haryana,Wheat,2019,3.323,3.8214660774403457,Ridge Regression
+Faridabad,Haryana,Wheat,2019,4.641,4.258043986404611,Ridge Regression
+Jaipur,Rajasthan,Wheat,2019,2.092,2.329583190115057,Ridge Regression
+Kota,Rajasthan,Wheat,2019,2.634,2.4283975198171732,Ridge Regression
+Ajmer,Rajasthan,Wheat,2019,1.71,2.1932624920666184,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2019,3.875,3.4153622724582364,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2019,3.668,3.047343197921095,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2019,2.647,2.5941112790159555,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2019,2.58,2.2093966901429813,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2019,3.35,3.06517753178748,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2019,3.125,3.076721116206703,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2019,3.456,3.103495907687806,Ridge Regression
+Nashik,Maharashtra,Wheat,2019,1.031,1.1705590781348016,Ridge Regression
+Pune,Maharashtra,Rice,2019,2.679,2.2757635371723253,Ridge Regression
+Nagpur,Maharashtra,Rice,2019,2.725,3.0636166148880943,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2019,2.531,2.53141590007489,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2019,3.557,3.7125780651978566,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2019,3.324,3.14676065654343,Ridge Regression
+Mysuru,Karnataka,Rice,2019,4.001,2.9223020638164154,Ridge Regression
+Dharwad,Karnataka,Wheat,2019,2.534,2.1854492994801675,Ridge Regression
+Belagavi,Karnataka,Rice,2019,4.016,4.004277875643745,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2019,3.911,3.9191849876740776,Ridge Regression
+Madurai,Tamil Nadu,Rice,2019,2.337,2.41904556290297,Ridge Regression
+Salem,Tamil Nadu,Rice,2019,3.225,3.2514408975374587,Ridge Regression
+Patna,Bihar,Wheat,2019,2.757,2.8977843861217787,Ridge Regression
+Patna,Bihar,Rice,2019,3.415,3.028759455119972,Ridge Regression
+Gaya,Bihar,Wheat,2019,2.775,2.904732180966476,Ridge Regression
+Gaya,Bihar,Rice,2019,3.627,3.157962183601977,Ridge Regression
+Purnia,Bihar,Wheat,2019,2.586,2.520633180806619,Ridge Regression
+Purnia,Bihar,Rice,2019,2.951,2.548380029676083,Ridge Regression
+Raipur,Chhattisgarh,Rice,2019,1.996,2.4314387698674205,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2019,2.1,2.4057043593123018,Ridge Regression
+Ludhiana,Punjab,Wheat,2020,4.72,4.684953512240064,Ridge Regression
+Ludhiana,Punjab,Rice,2020,4.484,4.164000253625966,Ridge Regression
+Patiala,Punjab,Wheat,2020,4.321,4.61140337707904,Ridge Regression
+Patiala,Punjab,Rice,2020,4.028,3.8632061926422363,Ridge Regression
+Amritsar,Punjab,Wheat,2020,5.13,4.831134308661294,Ridge Regression
+Amritsar,Punjab,Rice,2020,4.033,3.734961618851986,Ridge Regression
+Karnal,Haryana,Wheat,2020,4.398,4.465681099260548,Ridge Regression
+Karnal,Haryana,Rice,2020,3.51,3.377568778511776,Ridge Regression
+Hisar,Haryana,Wheat,2020,4.044,3.5892971076036724,Ridge Regression
+Faridabad,Haryana,Wheat,2020,4.017,4.1798751403173835,Ridge Regression
+Jaipur,Rajasthan,Wheat,2020,2.482,2.3568577078305295,Ridge Regression
+Kota,Rajasthan,Wheat,2020,2.63,2.5909051797553775,Ridge Regression
+Ajmer,Rajasthan,Wheat,2020,2.194,2.4146175501549614,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2020,3.318,3.250410421517683,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2020,3.415,3.139406733897854,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2020,2.878,2.477322947650797,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2020,2.961,3.110803080814176,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2020,3.338,3.0471058736927614,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2020,2.362,2.5389582327067086,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2020,3.327,3.1078687925071895,Ridge Regression
+Nashik,Maharashtra,Wheat,2020,1.82,1.798132446226569,Ridge Regression
+Pune,Maharashtra,Rice,2020,2.443,2.4235366452622853,Ridge Regression
+Nagpur,Maharashtra,Rice,2020,3.192,2.5203986119420616,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2020,2.081,2.2492212608880027,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2020,3.706,2.9747296587646974,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2020,3.339,3.69114851734535,Ridge Regression
+Mysuru,Karnataka,Rice,2020,3.749,3.7982107289480487,Ridge Regression
+Dharwad,Karnataka,Wheat,2020,2.521,2.2778707889564926,Ridge Regression
+Belagavi,Karnataka,Rice,2020,3.971,3.9745818059627953,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2020,4.629,3.7915824062906083,Ridge Regression
+Madurai,Tamil Nadu,Rice,2020,4.623,3.8183414642964024,Ridge Regression
+Salem,Tamil Nadu,Rice,2020,2.598,3.3733436917427184,Ridge Regression
+Patna,Bihar,Wheat,2020,2.767,2.7875465508490596,Ridge Regression
+Patna,Bihar,Rice,2020,3.366,2.612338058181332,Ridge Regression
+Gaya,Bihar,Wheat,2020,2.988,3.225527709564208,Ridge Regression
+Gaya,Bihar,Rice,2020,3.167,2.992376512660917,Ridge Regression
+Purnia,Bihar,Wheat,2020,2.88,3.275159694810902,Ridge Regression
+Purnia,Bihar,Rice,2020,2.822,2.5835822296489304,Ridge Regression
+Raipur,Chhattisgarh,Rice,2020,2.069,2.5149388931103753,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2020,2.189,2.48058240536984,Ridge Regression
+Ludhiana,Punjab,Wheat,2021,5.457,4.923824482614263,Ridge Regression
+Ludhiana,Punjab,Rice,2021,4.427,4.083783010419825,Ridge Regression
+Patiala,Punjab,Wheat,2021,5.561,4.815919721392877,Ridge Regression
+Patiala,Punjab,Rice,2021,4.711,4.398085238524348,Ridge Regression
+Amritsar,Punjab,Wheat,2021,4.74,4.703553941566588,Ridge Regression
+Amritsar,Punjab,Rice,2021,4.131,4.339638081529724,Ridge Regression
+Karnal,Haryana,Wheat,2021,3.973,3.683294038339839,Ridge Regression
+Karnal,Haryana,Rice,2021,3.935,4.173158231709778,Ridge Regression
+Hisar,Haryana,Wheat,2021,3.945,3.9660980677855617,Ridge Regression
+Faridabad,Haryana,Wheat,2021,4.41,4.053463871796043,Ridge Regression
+Jaipur,Rajasthan,Wheat,2021,2.196,2.4412868813376054,Ridge Regression
+Kota,Rajasthan,Wheat,2021,2.722,2.712388782100377,Ridge Regression
+Ajmer,Rajasthan,Wheat,2021,2.864,3.039778357870068,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2021,2.593,2.787351172022852,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2021,2.629,2.3655642182487675,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2021,2.556,2.8510277316472727,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2021,1.989,2.4396717132721033,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2021,2.488,2.7283235720794483,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2021,2.719,2.805849163009912,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2021,2.165,2.2909701283934303,Ridge Regression
+Nashik,Maharashtra,Wheat,2021,1.684,2.179773782230699,Ridge Regression
+Pune,Maharashtra,Rice,2021,2.901,2.9141259687205374,Ridge Regression
+Nagpur,Maharashtra,Rice,2021,2.898,3.178332994075215,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2021,3.293,3.058380352970016,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2021,3.252,2.8476242973589363,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2021,2.14,2.0218081860592374,Ridge Regression
+Mysuru,Karnataka,Rice,2021,3.503,3.4221833977424505,Ridge Regression
+Dharwad,Karnataka,Wheat,2021,1.867,2.338922141888843,Ridge Regression
+Belagavi,Karnataka,Rice,2021,4.273,4.289447665592158,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2021,3.091,2.6442320918047337,Ridge Regression
+Madurai,Tamil Nadu,Rice,2021,3.005,3.2241399047384274,Ridge Regression
+Salem,Tamil Nadu,Rice,2021,2.972,3.2147880698798312,Ridge Regression
+Patna,Bihar,Wheat,2021,2.814,2.7573141585142706,Ridge Regression
+Patna,Bihar,Rice,2021,2.74,2.686631061299191,Ridge Regression
+Gaya,Bihar,Wheat,2021,2.567,2.930168992256565,Ridge Regression
+Gaya,Bihar,Rice,2021,2.941,2.9349443956705916,Ridge Regression
+Purnia,Bihar,Wheat,2021,2.929,2.941953258635409,Ridge Regression
+Purnia,Bihar,Rice,2021,2.648,2.9501101971662553,Ridge Regression
+Raipur,Chhattisgarh,Rice,2021,2.8,3.0878821616059966,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2021,2.412,3.1518241680435057,Ridge Regression
+Ludhiana,Punjab,Wheat,2022,4.606,3.746962209958515,Ridge Regression
+Ludhiana,Punjab,Rice,2022,4.95,3.4097700891293337,Ridge Regression
+Patiala,Punjab,Wheat,2022,4.095,3.999730139418449,Ridge Regression
+Patiala,Punjab,Rice,2022,4.889,4.482558868963939,Ridge Regression
+Amritsar,Punjab,Wheat,2022,3.743,3.9059144822494822,Ridge Regression
+Amritsar,Punjab,Rice,2022,4.34,3.1886283856781,Ridge Regression
+Karnal,Haryana,Wheat,2022,3.321,3.378148930926904,Ridge Regression
+Karnal,Haryana,Rice,2022,3.941,2.9410161427910673,Ridge Regression
+Hisar,Haryana,Wheat,2022,3.401,3.453125934862461,Ridge Regression
+Faridabad,Haryana,Wheat,2022,3.799,3.729385670194426,Ridge Regression
+Jaipur,Rajasthan,Wheat,2022,1.574,0.8810816129656414,Ridge Regression
+Kota,Rajasthan,Wheat,2022,1.682,1.4911207745765613,Ridge Regression
+Ajmer,Rajasthan,Wheat,2022,2.017,1.9975719794839313,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2022,2.283,2.3477663640436965,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2022,2.299,1.8029878609763557,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2022,2.571,2.117627017177282,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2022,2.356,2.237977491758432,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2022,2.488,2.274636306466788,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2022,2.178,1.8679901805208647,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2022,1.933,1.45735370242801,Ridge Regression
+Nashik,Maharashtra,Wheat,2022,0.848,-0.09128990232429768,Ridge Regression
+Pune,Maharashtra,Rice,2022,2.519,2.358047219039303,Ridge Regression
+Nagpur,Maharashtra,Rice,2022,3.114,3.2611338005030723,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2022,3.292,3.030151829078158,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2022,2.448,2.068412726679637,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2022,1.907,1.4480486434589337,Ridge Regression
+Mysuru,Karnataka,Rice,2022,3.886,3.5052391926557203,Ridge Regression
+Dharwad,Karnataka,Wheat,2022,1.4,0.740536532486503,Ridge Regression
+Belagavi,Karnataka,Rice,2022,4.415,4.087875819654952,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2022,3.942,2.9411222746717836,Ridge Regression
+Madurai,Tamil Nadu,Rice,2022,4.072,3.6155670036535175,Ridge Regression
+Salem,Tamil Nadu,Rice,2022,4.249,4.044426224305842,Ridge Regression
+Patna,Bihar,Wheat,2022,2.008,2.009287260113884,Ridge Regression
+Patna,Bihar,Rice,2022,3.422,3.3564291042587717,Ridge Regression
+Gaya,Bihar,Wheat,2022,2.132,2.3477070439435876,Ridge Regression
+Gaya,Bihar,Rice,2022,3.183,3.331304043261939,Ridge Regression
+Purnia,Bihar,Wheat,2022,1.863,1.9111838278843525,Ridge Regression
+Purnia,Bihar,Rice,2022,3.238,3.3825911141432097,Ridge Regression
+Raipur,Chhattisgarh,Rice,2022,2.44,2.7155008138228753,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2022,2.457,2.3778207619081124,Ridge Regression
+Ludhiana,Punjab,Wheat,2023,3.779,3.980997773610028,Ridge Regression
+Ludhiana,Punjab,Rice,2023,4.85,4.213385029214798,Ridge Regression
+Patiala,Punjab,Wheat,2023,3.853,4.374306734300588,Ridge Regression
+Patiala,Punjab,Rice,2023,3.771,4.184482274165575,Ridge Regression
+Amritsar,Punjab,Wheat,2023,4.928,4.871198191019028,Ridge Regression
+Amritsar,Punjab,Rice,2023,4.027,3.666793877253789,Ridge Regression
+Karnal,Haryana,Wheat,2023,2.573,3.532516344807859,Ridge Regression
+Karnal,Haryana,Rice,2023,3.652,3.8609405021058234,Ridge Regression
+Hisar,Haryana,Wheat,2023,2.756,3.6155200696371432,Ridge Regression
+Faridabad,Haryana,Wheat,2023,4.174,4.0311000043985405,Ridge Regression
+Jaipur,Rajasthan,Wheat,2023,2.542,2.7982603985680226,Ridge Regression
+Kota,Rajasthan,Wheat,2023,2.046,1.4732400085685562,Ridge Regression
+Ajmer,Rajasthan,Wheat,2023,1.911,2.5028952057744926,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2023,2.481,2.6001884929219248,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2023,2.837,2.8429793165032593,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2023,3.496,3.216822118519561,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2023,2.617,2.755139827926632,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2023,3.162,3.12628021557116,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2023,3.207,3.1277048124831843,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2023,2.743,2.966371316964406,Ridge Regression
+Nashik,Maharashtra,Wheat,2023,1.181,1.2382412500202569,Ridge Regression
+Pune,Maharashtra,Rice,2023,1.947,2.6394145046189483,Ridge Regression
+Nagpur,Maharashtra,Rice,2023,2.858,2.8684041070147743,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2023,2.742,2.9651412449341836,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2023,3.459,3.330144336433828,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2023,1.854,1.9435250252250755,Ridge Regression
+Mysuru,Karnataka,Rice,2023,3.397,3.4760541636074644,Ridge Regression
+Dharwad,Karnataka,Wheat,2023,1.721,1.8725968891138483,Ridge Regression
+Belagavi,Karnataka,Rice,2023,3.937,4.200741589408339,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2023,4.025,3.7589028775567748,Ridge Regression
+Madurai,Tamil Nadu,Rice,2023,2.161,2.73680173912517,Ridge Regression
+Salem,Tamil Nadu,Rice,2023,2.773,2.628391057586716,Ridge Regression
+Patna,Bihar,Wheat,2023,2.615,2.9130823112733077,Ridge Regression
+Patna,Bihar,Rice,2023,3.1,3.096404615204159,Ridge Regression
+Gaya,Bihar,Wheat,2023,2.546,2.978090332380447,Ridge Regression
+Gaya,Bihar,Rice,2023,3.569,3.231950760655917,Ridge Regression
+Purnia,Bihar,Wheat,2023,2.492,2.7660550094841985,Ridge Regression
+Purnia,Bihar,Rice,2023,2.512,2.8458694925391814,Ridge Regression
+Raipur,Chhattisgarh,Rice,2023,2.501,2.4267459562383813,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2023,2.559,3.335475354630267,Ridge Regression
+Ludhiana,Punjab,Wheat,2024,4.764,4.1530983392115655,Ridge Regression
+Ludhiana,Punjab,Rice,2024,4.973,4.143271979684512,Ridge Regression
+Patiala,Punjab,Wheat,2024,4.294,4.168991305349417,Ridge Regression
+Patiala,Punjab,Rice,2024,4.509,4.555108444059117,Ridge Regression
+Amritsar,Punjab,Wheat,2024,5.571,4.631993437917079,Ridge Regression
+Amritsar,Punjab,Rice,2024,4.642,3.9403756950607685,Ridge Regression
+Karnal,Haryana,Wheat,2024,3.392,3.555382599746457,Ridge Regression
+Karnal,Haryana,Rice,2024,3.848,3.943596329978746,Ridge Regression
+Hisar,Haryana,Wheat,2024,4.305,3.66524793600655,Ridge Regression
+Faridabad,Haryana,Wheat,2024,4.576,4.0169751392132005,Ridge Regression
+Jaipur,Rajasthan,Wheat,2024,2.216,2.1755335380541228,Ridge Regression
+Kota,Rajasthan,Wheat,2024,2.651,2.1688058734308675,Ridge Regression
+Ajmer,Rajasthan,Wheat,2024,1.635,2.002865830621279,Ridge Regression
+Meerut,Uttar Pradesh,Wheat,2024,3.079,2.9898990883032304,Ridge Regression
+Agra,Uttar Pradesh,Wheat,2024,4.215,3.366137356943219,Ridge Regression
+Kanpur,Uttar Pradesh,Wheat,2024,3.385,3.418127681014294,Ridge Regression
+Kanpur,Uttar Pradesh,Rice,2024,2.55,2.4232985586414504,Ridge Regression
+Indore,Madhya Pradesh,Wheat,2024,3.189,2.896717771485304,Ridge Regression
+Bhopal,Madhya Pradesh,Wheat,2024,2.558,2.374772802972231,Ridge Regression
+Ujjain,Madhya Pradesh,Wheat,2024,3.413,3.4857409647339663,Ridge Regression
+Nashik,Maharashtra,Wheat,2024,1.998,1.9773418057622432,Ridge Regression
+Pune,Maharashtra,Rice,2024,2.816,3.099773139037849,Ridge Regression
+Nagpur,Maharashtra,Rice,2024,3.558,2.785552344821774,Ridge Regression
+Guntur,Andhra Pradesh,Rice,2024,3.668,3.272472578856492,Ridge Regression
+Kurnool,Andhra Pradesh,Rice,2024,4.005,3.4751737301006242,Ridge Regression
+Anantapur,Andhra Pradesh,Rice,2024,2.789,2.090853969341426,Ridge Regression
+Mysuru,Karnataka,Rice,2024,4.309,3.8402810162198775,Ridge Regression
+Dharwad,Karnataka,Wheat,2024,2.706,2.5165217374513285,Ridge Regression
+Belagavi,Karnataka,Rice,2024,4.46,4.601102511694677,Ridge Regression
+Coimbatore,Tamil Nadu,Rice,2024,3.068,2.779517431726359,Ridge Regression
+Madurai,Tamil Nadu,Rice,2024,2.494,2.7440675149104985,Ridge Regression
+Salem,Tamil Nadu,Rice,2024,3.197,3.0218762637989665,Ridge Regression
+Patna,Bihar,Wheat,2024,3.01,3.6207563797769464,Ridge Regression
+Patna,Bihar,Rice,2024,3.541,3.2333975473730563,Ridge Regression
+Gaya,Bihar,Wheat,2024,3.18,3.308849979192015,Ridge Regression
+Gaya,Bihar,Rice,2024,2.868,2.678862314845581,Ridge Regression
+Purnia,Bihar,Wheat,2024,2.792,2.772582417408982,Ridge Regression
+Purnia,Bihar,Rice,2024,2.852,2.8108884167834614,Ridge Regression
+Raipur,Chhattisgarh,Rice,2024,2.87,2.591576796881595,Ridge Regression
+Bilaspur,Chhattisgarh,Rice,2024,3.026,3.2278053504466575,Ridge Regression
+Ludhiana,Punjab,Wheat,2014,4.427,4.60510768849206,Random Forest
+Ludhiana,Punjab,Rice,2014,3.882,3.8688414027777793,Random Forest
+Patiala,Punjab,Wheat,2014,4.861,4.843228987734486,Random Forest
+Patiala,Punjab,Rice,2014,3.661,4.440374591901156,Random Forest
+Amritsar,Punjab,Wheat,2014,4.492,4.806672953012266,Random Forest
+Amritsar,Punjab,Rice,2014,3.523,4.118546564935064,Random Forest
+Karnal,Haryana,Wheat,2014,4.015,4.431584327380954,Random Forest
+Karnal,Haryana,Rice,2014,3.241,3.716850515422073,Random Forest
+Hisar,Haryana,Wheat,2014,3.329,3.644982949404763,Random Forest
+Faridabad,Haryana,Wheat,2014,3.975,4.506384863095242,Random Forest
+Jaipur,Rajasthan,Wheat,2014,2.814,2.95301460912698,Random Forest
+Kota,Rajasthan,Wheat,2014,2.888,2.501510930555555,Random Forest
+Ajmer,Rajasthan,Wheat,2014,2.265,2.822977971230155,Random Forest
+Meerut,Uttar Pradesh,Wheat,2014,2.584,2.8298116755952383,Random Forest
+Agra,Uttar Pradesh,Wheat,2014,2.606,3.0723108818542566,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2014,2.344,2.9886219345238083,Random Forest
+Kanpur,Uttar Pradesh,Rice,2014,1.868,2.5802242023809523,Random Forest
+Indore,Madhya Pradesh,Wheat,2014,2.589,3.0526733898809524,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2014,2.56,2.7992375625000023,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2014,2.519,3.0422232033730183,Random Forest
+Nashik,Maharashtra,Wheat,2014,1.5,1.6376470180375176,Random Forest
+Pune,Maharashtra,Rice,2014,2.245,2.737557094877344,Random Forest
+Nagpur,Maharashtra,Rice,2014,3.055,2.8247020224567114,Random Forest
+Guntur,Andhra Pradesh,Rice,2014,2.728,3.100563488095238,Random Forest
+Kurnool,Andhra Pradesh,Rice,2014,2.323,2.6781721111111114,Random Forest
+Anantapur,Andhra Pradesh,Rice,2014,2.175,2.3815494583333336,Random Forest
+Mysuru,Karnataka,Rice,2014,3.326,3.5341134017857154,Random Forest
+Dharwad,Karnataka,Wheat,2014,1.645,1.717244246212121,Random Forest
+Belagavi,Karnataka,Rice,2014,3.492,3.602879991071434,Random Forest
+Coimbatore,Tamil Nadu,Rice,2014,3.112,3.230521745490624,Random Forest
+Madurai,Tamil Nadu,Rice,2014,2.969,2.8722876931818173,Random Forest
+Salem,Tamil Nadu,Rice,2014,3.195,3.9823694751984107,Random Forest
+Patna,Bihar,Wheat,2014,2.331,2.467250209325398,Random Forest
+Patna,Bihar,Rice,2014,2.64,3.140225691468255,Random Forest
+Gaya,Bihar,Wheat,2014,2.477,2.3364512073412698,Random Forest
+Gaya,Bihar,Rice,2014,2.803,2.955691542658728,Random Forest
+Purnia,Bihar,Wheat,2014,2.807,2.8105350763888897,Random Forest
+Purnia,Bihar,Rice,2014,2.02,2.3462056924603174,Random Forest
+Raipur,Chhattisgarh,Rice,2014,2.789,2.6195834037698402,Random Forest
+Bilaspur,Chhattisgarh,Rice,2014,2.832,2.8810799533730154,Random Forest
+Ludhiana,Punjab,Wheat,2015,4.554,4.299878966179653,Random Forest
+Ludhiana,Punjab,Rice,2015,3.789,4.071112177579363,Random Forest
+Patiala,Punjab,Wheat,2015,3.372,4.066326430555556,Random Forest
+Patiala,Punjab,Rice,2015,3.775,3.8952335694444424,Random Forest
+Amritsar,Punjab,Wheat,2015,4.688,4.794402880952383,Random Forest
+Amritsar,Punjab,Rice,2015,3.135,3.3330023224206378,Random Forest
+Karnal,Haryana,Wheat,2015,3.613,4.027212190386007,Random Forest
+Karnal,Haryana,Rice,2015,3.437,3.77758243154762,Random Forest
+Hisar,Haryana,Wheat,2015,3.477,3.856531415584418,Random Forest
+Faridabad,Haryana,Wheat,2015,3.93,4.061676301497111,Random Forest
+Jaipur,Rajasthan,Wheat,2015,2.64,2.747550535714285,Random Forest
+Kota,Rajasthan,Wheat,2015,2.451,2.8523375248015896,Random Forest
+Ajmer,Rajasthan,Wheat,2015,2.224,2.694860906746033,Random Forest
+Meerut,Uttar Pradesh,Wheat,2015,3.552,3.3975368633657985,Random Forest
+Agra,Uttar Pradesh,Wheat,2015,3.853,3.591660113095237,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2015,4.097,3.4344657433261165,Random Forest
+Kanpur,Uttar Pradesh,Rice,2015,2.669,2.7207995545634907,Random Forest
+Indore,Madhya Pradesh,Wheat,2015,3.551,3.6199878293650785,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2015,2.763,2.733864667658732,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2015,3.339,3.3651422132936504,Random Forest
+Nashik,Maharashtra,Wheat,2015,1.497,2.2923646964285713,Random Forest
+Pune,Maharashtra,Rice,2015,2.184,2.7086874871031754,Random Forest
+Nagpur,Maharashtra,Rice,2015,1.923,2.7235653978174628,Random Forest
+Guntur,Andhra Pradesh,Rice,2015,1.822,2.2423961339285694,Random Forest
+Kurnool,Andhra Pradesh,Rice,2015,1.979,2.097417734126982,Random Forest
+Anantapur,Andhra Pradesh,Rice,2015,2.625,3.018109387896829,Random Forest
+Mysuru,Karnataka,Rice,2015,3.307,3.374732245039685,Random Forest
+Dharwad,Karnataka,Wheat,2015,1.77,1.6418775932539686,Random Forest
+Belagavi,Karnataka,Rice,2015,4.092,3.651338225198417,Random Forest
+Coimbatore,Tamil Nadu,Rice,2015,3.644,3.3232279940476213,Random Forest
+Madurai,Tamil Nadu,Rice,2015,4.078,3.509442458333335,Random Forest
+Salem,Tamil Nadu,Rice,2015,3.986,3.7193760684523793,Random Forest
+Patna,Bihar,Wheat,2015,3.073,3.086953187500001,Random Forest
+Patna,Bihar,Rice,2015,3.007,2.7303319970238107,Random Forest
+Gaya,Bihar,Wheat,2015,3.082,3.1272196964285683,Random Forest
+Gaya,Bihar,Rice,2015,2.758,3.118548676587301,Random Forest
+Purnia,Bihar,Wheat,2015,3.093,3.47808824702381,Random Forest
+Purnia,Bihar,Rice,2015,3.49,3.0316045,Random Forest
+Raipur,Chhattisgarh,Rice,2015,1.839,2.4000366507936506,Random Forest
+Bilaspur,Chhattisgarh,Rice,2015,2.437,2.8121067410714295,Random Forest
+Ludhiana,Punjab,Wheat,2016,4.015,3.7962016746031755,Random Forest
+Ludhiana,Punjab,Rice,2016,3.796,3.6604863412698445,Random Forest
+Patiala,Punjab,Wheat,2016,4.732,4.205225773809523,Random Forest
+Patiala,Punjab,Rice,2016,4.318,4.069244159181093,Random Forest
+Amritsar,Punjab,Wheat,2016,3.335,4.324335220238099,Random Forest
+Amritsar,Punjab,Rice,2016,3.991,3.8566571666666674,Random Forest
+Karnal,Haryana,Wheat,2016,3.107,3.0603626378968234,Random Forest
+Karnal,Haryana,Rice,2016,3.34,3.2241713184523797,Random Forest
+Hisar,Haryana,Wheat,2016,3.488,3.8668492599206337,Random Forest
+Faridabad,Haryana,Wheat,2016,4.363,3.887911075396827,Random Forest
+Jaipur,Rajasthan,Wheat,2016,2.146,2.398723035714286,Random Forest
+Kota,Rajasthan,Wheat,2016,1.981,2.2906312132936497,Random Forest
+Ajmer,Rajasthan,Wheat,2016,1.794,2.146975045634921,Random Forest
+Meerut,Uttar Pradesh,Wheat,2016,2.466,2.6852433124999995,Random Forest
+Agra,Uttar Pradesh,Wheat,2016,2.948,2.4869790476190494,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2016,2.744,2.6229459375000035,Random Forest
+Kanpur,Uttar Pradesh,Rice,2016,2.123,2.976260854527414,Random Forest
+Indore,Madhya Pradesh,Wheat,2016,2.793,2.838676334686148,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2016,2.747,2.7462780601828753,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2016,2.637,2.671985085317461,Random Forest
+Nashik,Maharashtra,Wheat,2016,1.2,1.3361909374999994,Random Forest
+Pune,Maharashtra,Rice,2016,2.261,2.892179202380956,Random Forest
+Nagpur,Maharashtra,Rice,2016,2.373,2.7622226855158747,Random Forest
+Guntur,Andhra Pradesh,Rice,2016,2.618,2.575654806096682,Random Forest
+Kurnool,Andhra Pradesh,Rice,2016,1.945,2.0384637857142858,Random Forest
+Anantapur,Andhra Pradesh,Rice,2016,2.149,2.1005599573412717,Random Forest
+Mysuru,Karnataka,Rice,2016,3.594,3.707068172619044,Random Forest
+Dharwad,Karnataka,Wheat,2016,2.025,1.9877002817460312,Random Forest
+Belagavi,Karnataka,Rice,2016,3.965,4.237574238546179,Random Forest
+Coimbatore,Tamil Nadu,Rice,2016,3.633,3.5802689908910525,Random Forest
+Madurai,Tamil Nadu,Rice,2016,3.794,3.673818647817461,Random Forest
+Salem,Tamil Nadu,Rice,2016,3.89,3.552939182539682,Random Forest
+Patna,Bihar,Wheat,2016,2.259,2.6106022867063485,Random Forest
+Patna,Bihar,Rice,2016,2.353,2.554269723214282,Random Forest
+Gaya,Bihar,Wheat,2016,1.752,2.0497928085317447,Random Forest
+Gaya,Bihar,Rice,2016,2.186,2.458329279761904,Random Forest
+Purnia,Bihar,Wheat,2016,1.875,2.335046544642858,Random Forest
+Purnia,Bihar,Rice,2016,2.31,2.4653013869047604,Random Forest
+Raipur,Chhattisgarh,Rice,2016,2.383,2.533334366071428,Random Forest
+Bilaspur,Chhattisgarh,Rice,2016,2.269,2.7313188204365093,Random Forest
+Ludhiana,Punjab,Wheat,2017,4.521,4.432073244047615,Random Forest
+Ludhiana,Punjab,Rice,2017,3.74,3.963150086850648,Random Forest
+Patiala,Punjab,Wheat,2017,3.924,4.053034546626988,Random Forest
+Patiala,Punjab,Rice,2017,3.849,3.8058698472222203,Random Forest
+Amritsar,Punjab,Wheat,2017,4.423,4.851347109126983,Random Forest
+Amritsar,Punjab,Rice,2017,3.414,3.4998556488095223,Random Forest
+Karnal,Haryana,Wheat,2017,4.192,3.8162359355158757,Random Forest
+Karnal,Haryana,Rice,2017,3.345,3.528967876984124,Random Forest
+Hisar,Haryana,Wheat,2017,4.203,3.7771601478174612,Random Forest
+Faridabad,Haryana,Wheat,2017,4.638,4.237401466269842,Random Forest
+Jaipur,Rajasthan,Wheat,2017,2.6,2.6451467152777792,Random Forest
+Kota,Rajasthan,Wheat,2017,2.128,2.4271989821428566,Random Forest
+Ajmer,Rajasthan,Wheat,2017,2.555,2.46139645021645,Random Forest
+Meerut,Uttar Pradesh,Wheat,2017,2.618,2.6111320525793644,Random Forest
+Agra,Uttar Pradesh,Wheat,2017,2.896,3.271169433531749,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2017,2.417,2.524631481150793,Random Forest
+Kanpur,Uttar Pradesh,Rice,2017,2.18,2.564340557178932,Random Forest
+Indore,Madhya Pradesh,Wheat,2017,3.222,3.0706329007936506,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2017,2.391,2.718071920634921,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2017,2.962,2.7389659305555565,Random Forest
+Nashik,Maharashtra,Wheat,2017,1.119,1.2496954801587294,Random Forest
+Pune,Maharashtra,Rice,2017,2.194,2.574501657738098,Random Forest
+Nagpur,Maharashtra,Rice,2017,2.904,2.904644155753968,Random Forest
+Guntur,Andhra Pradesh,Rice,2017,2.505,2.534007148809525,Random Forest
+Kurnool,Andhra Pradesh,Rice,2017,2.55,2.282002449404761,Random Forest
+Anantapur,Andhra Pradesh,Rice,2017,3.923,3.728216994047618,Random Forest
+Mysuru,Karnataka,Rice,2017,3.076,3.572421464285712,Random Forest
+Dharwad,Karnataka,Wheat,2017,2.043,2.43037225974026,Random Forest
+Belagavi,Karnataka,Rice,2017,4.151,3.951472145111834,Random Forest
+Coimbatore,Tamil Nadu,Rice,2017,2.128,2.4016337619047623,Random Forest
+Madurai,Tamil Nadu,Rice,2017,3.46,4.009090363095237,Random Forest
+Salem,Tamil Nadu,Rice,2017,2.214,2.370166655753967,Random Forest
+Patna,Bihar,Wheat,2017,3.569,3.046267629960318,Random Forest
+Patna,Bihar,Rice,2017,3.314,3.6378046785714258,Random Forest
+Gaya,Bihar,Wheat,2017,2.188,2.5938950624999983,Random Forest
+Gaya,Bihar,Rice,2017,3.222,3.5299584166666667,Random Forest
+Purnia,Bihar,Wheat,2017,2.527,2.587393218177657,Random Forest
+Purnia,Bihar,Rice,2017,3.264,3.059174366071428,Random Forest
+Raipur,Chhattisgarh,Rice,2017,2.81,3.298332339285714,Random Forest
+Bilaspur,Chhattisgarh,Rice,2017,2.604,2.794683966269842,Random Forest
+Ludhiana,Punjab,Wheat,2018,4.907,4.410321593559223,Random Forest
+Ludhiana,Punjab,Rice,2018,4.627,3.6889568671398063,Random Forest
+Patiala,Punjab,Wheat,2018,4.171,4.401758510912699,Random Forest
+Patiala,Punjab,Rice,2018,4.315,4.305739573412698,Random Forest
+Amritsar,Punjab,Wheat,2018,4.63,4.536671500000001,Random Forest
+Amritsar,Punjab,Rice,2018,3.939,3.9388945535714273,Random Forest
+Karnal,Haryana,Wheat,2018,3.879,3.9487838759920635,Random Forest
+Karnal,Haryana,Rice,2018,3.52,3.593833531746034,Random Forest
+Hisar,Haryana,Wheat,2018,3.67,3.8102774120115974,Random Forest
+Faridabad,Haryana,Wheat,2018,3.899,3.790748074404765,Random Forest
+Jaipur,Rajasthan,Wheat,2018,2.116,2.3644939672619047,Random Forest
+Kota,Rajasthan,Wheat,2018,2.602,2.6345173809523805,Random Forest
+Ajmer,Rajasthan,Wheat,2018,1.958,2.2218853333333324,Random Forest
+Meerut,Uttar Pradesh,Wheat,2018,2.686,2.427913141865081,Random Forest
+Agra,Uttar Pradesh,Wheat,2018,3.756,3.648970944444447,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2018,3.059,3.2883980882936528,Random Forest
+Kanpur,Uttar Pradesh,Rice,2018,2.71,2.6583770813492067,Random Forest
+Indore,Madhya Pradesh,Wheat,2018,2.886,2.999299522997835,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2018,2.509,2.6091949513888886,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2018,3.121,2.92489926984127,Random Forest
+Nashik,Maharashtra,Wheat,2018,1.756,2.128394002899877,Random Forest
+Pune,Maharashtra,Rice,2018,2.292,2.683300967261909,Random Forest
+Nagpur,Maharashtra,Rice,2018,2.762,2.7919700507756136,Random Forest
+Guntur,Andhra Pradesh,Rice,2018,3.361,2.9989522966269853,Random Forest
+Kurnool,Andhra Pradesh,Rice,2018,2.947,2.73753044940476,Random Forest
+Anantapur,Andhra Pradesh,Rice,2018,3.414,3.3173318542568535,Random Forest
+Mysuru,Karnataka,Rice,2018,3.627,3.878744941468256,Random Forest
+Dharwad,Karnataka,Wheat,2018,1.39,1.7711477420634927,Random Forest
+Belagavi,Karnataka,Rice,2018,4.27,4.051333126984127,Random Forest
+Coimbatore,Tamil Nadu,Rice,2018,2.932,2.893989972222219,Random Forest
+Madurai,Tamil Nadu,Rice,2018,3.496,3.5124219206349223,Random Forest
+Salem,Tamil Nadu,Rice,2018,2.249,2.2695946170634915,Random Forest
+Patna,Bihar,Wheat,2018,2.719,2.4299187333152967,Random Forest
+Patna,Bihar,Rice,2018,3.87,2.76278086904762,Random Forest
+Gaya,Bihar,Wheat,2018,2.93,2.469807803571428,Random Forest
+Gaya,Bihar,Rice,2018,2.929,3.0274258065476176,Random Forest
+Purnia,Bihar,Wheat,2018,2.392,2.0301230565476196,Random Forest
+Purnia,Bihar,Rice,2018,2.914,2.6747262410714296,Random Forest
+Raipur,Chhattisgarh,Rice,2018,2.746,2.7435206438492075,Random Forest
+Bilaspur,Chhattisgarh,Rice,2018,2.816,2.793907554563492,Random Forest
+Ludhiana,Punjab,Wheat,2019,4.989,4.968241630952378,Random Forest
+Ludhiana,Punjab,Rice,2019,4.726,4.401466252976193,Random Forest
+Patiala,Punjab,Wheat,2019,5.249,4.918420983134917,Random Forest
+Patiala,Punjab,Rice,2019,3.95,3.813693136904763,Random Forest
+Amritsar,Punjab,Wheat,2019,5.458,4.599206624007934,Random Forest
+Amritsar,Punjab,Rice,2019,3.907,4.048902926316738,Random Forest
+Karnal,Haryana,Wheat,2019,3.893,3.463580650793651,Random Forest
+Karnal,Haryana,Rice,2019,3.139,3.85032318253968,Random Forest
+Hisar,Haryana,Wheat,2019,3.323,3.7784550694444423,Random Forest
+Faridabad,Haryana,Wheat,2019,4.641,4.184429851641414,Random Forest
+Jaipur,Rajasthan,Wheat,2019,2.092,2.2562463670634916,Random Forest
+Kota,Rajasthan,Wheat,2019,2.634,2.6429395267857148,Random Forest
+Ajmer,Rajasthan,Wheat,2019,1.71,2.116728092261904,Random Forest
+Meerut,Uttar Pradesh,Wheat,2019,3.875,3.224073139880955,Random Forest
+Agra,Uttar Pradesh,Wheat,2019,3.668,2.877223434523811,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2019,2.647,2.640270119047618,Random Forest
+Kanpur,Uttar Pradesh,Rice,2019,2.58,2.5037655654761903,Random Forest
+Indore,Madhya Pradesh,Wheat,2019,3.35,3.0436508829365074,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2019,3.125,3.0721609811507933,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2019,3.456,2.9153384166666694,Random Forest
+Nashik,Maharashtra,Wheat,2019,1.031,1.3854624196428573,Random Forest
+Pune,Maharashtra,Rice,2019,2.679,2.5571817509920636,Random Forest
+Nagpur,Maharashtra,Rice,2019,2.725,3.1251637986111103,Random Forest
+Guntur,Andhra Pradesh,Rice,2019,2.531,2.4491744176587305,Random Forest
+Kurnool,Andhra Pradesh,Rice,2019,3.557,3.7802785386904763,Random Forest
+Anantapur,Andhra Pradesh,Rice,2019,3.324,3.5356642420634925,Random Forest
+Mysuru,Karnataka,Rice,2019,4.001,3.015351379960322,Random Forest
+Dharwad,Karnataka,Wheat,2019,2.534,2.198513217261906,Random Forest
+Belagavi,Karnataka,Rice,2019,4.016,3.5351673839285707,Random Forest
+Coimbatore,Tamil Nadu,Rice,2019,3.911,4.132757290293042,Random Forest
+Madurai,Tamil Nadu,Rice,2019,2.337,2.501881043650792,Random Forest
+Salem,Tamil Nadu,Rice,2019,3.225,3.2171217232142824,Random Forest
+Patna,Bihar,Wheat,2019,2.757,2.81735175297619,Random Forest
+Patna,Bihar,Rice,2019,3.415,3.064572834325396,Random Forest
+Gaya,Bihar,Wheat,2019,2.775,2.7714175039682543,Random Forest
+Gaya,Bihar,Rice,2019,3.627,3.0901697946428537,Random Forest
+Purnia,Bihar,Wheat,2019,2.586,2.526948786706349,Random Forest
+Purnia,Bihar,Rice,2019,2.951,2.4578998511904753,Random Forest
+Raipur,Chhattisgarh,Rice,2019,1.996,2.576479238095238,Random Forest
+Bilaspur,Chhattisgarh,Rice,2019,2.1,2.4150380942460314,Random Forest
+Ludhiana,Punjab,Wheat,2020,4.72,4.430520895833336,Random Forest
+Ludhiana,Punjab,Rice,2020,4.484,4.19225006926407,Random Forest
+Patiala,Punjab,Wheat,2020,4.321,4.727017868055555,Random Forest
+Patiala,Punjab,Rice,2020,4.028,3.9265335496031755,Random Forest
+Amritsar,Punjab,Wheat,2020,5.13,4.914185895833329,Random Forest
+Amritsar,Punjab,Rice,2020,4.033,3.614493519841271,Random Forest
+Karnal,Haryana,Wheat,2020,4.398,4.510592640873013,Random Forest
+Karnal,Haryana,Rice,2020,3.51,3.387566839105341,Random Forest
+Hisar,Haryana,Wheat,2020,4.044,3.826472819444446,Random Forest
+Faridabad,Haryana,Wheat,2020,4.017,4.346208726190474,Random Forest
+Jaipur,Rajasthan,Wheat,2020,2.482,2.2030318283730184,Random Forest
+Kota,Rajasthan,Wheat,2020,2.63,2.5181006567460327,Random Forest
+Ajmer,Rajasthan,Wheat,2020,2.194,2.455397954004331,Random Forest
+Meerut,Uttar Pradesh,Wheat,2020,3.318,3.5148816875,Random Forest
+Agra,Uttar Pradesh,Wheat,2020,3.415,3.3700218144841276,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2020,2.878,2.6166921696428576,Random Forest
+Kanpur,Uttar Pradesh,Rice,2020,2.961,3.1014918024891784,Random Forest
+Indore,Madhya Pradesh,Wheat,2020,3.338,3.1528086349206372,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2020,2.362,2.5933765625000014,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2020,3.327,3.195442317460319,Random Forest
+Nashik,Maharashtra,Wheat,2020,1.82,1.8058245089285712,Random Forest
+Pune,Maharashtra,Rice,2020,2.443,2.618833933531746,Random Forest
+Nagpur,Maharashtra,Rice,2020,3.192,2.6674546020021666,Random Forest
+Guntur,Andhra Pradesh,Rice,2020,2.081,2.32762296031746,Random Forest
+Kurnool,Andhra Pradesh,Rice,2020,3.706,3.0011793482142872,Random Forest
+Anantapur,Andhra Pradesh,Rice,2020,3.339,3.7883202668650817,Random Forest
+Mysuru,Karnataka,Rice,2020,3.749,3.8090249117063473,Random Forest
+Dharwad,Karnataka,Wheat,2020,2.521,2.3394644375,Random Forest
+Belagavi,Karnataka,Rice,2020,3.971,4.059885469246034,Random Forest
+Coimbatore,Tamil Nadu,Rice,2020,4.629,3.865385125000003,Random Forest
+Madurai,Tamil Nadu,Rice,2020,4.623,3.915121609126988,Random Forest
+Salem,Tamil Nadu,Rice,2020,2.598,3.315034334325398,Random Forest
+Patna,Bihar,Wheat,2020,2.767,2.6370561025432897,Random Forest
+Patna,Bihar,Rice,2020,3.366,2.768343811507933,Random Forest
+Gaya,Bihar,Wheat,2020,2.988,2.9399348069083673,Random Forest
+Gaya,Bihar,Rice,2020,3.167,3.0015249950396834,Random Forest
+Purnia,Bihar,Wheat,2020,2.88,3.181731014880956,Random Forest
+Purnia,Bihar,Rice,2020,2.822,2.7838679811507903,Random Forest
+Raipur,Chhattisgarh,Rice,2020,2.069,2.7263498938492052,Random Forest
+Bilaspur,Chhattisgarh,Rice,2020,2.189,2.4818619156746022,Random Forest
+Ludhiana,Punjab,Wheat,2021,5.457,4.720434325396827,Random Forest
+Ludhiana,Punjab,Rice,2021,4.427,4.133534068452381,Random Forest
+Patiala,Punjab,Wheat,2021,5.561,4.296173728174605,Random Forest
+Patiala,Punjab,Rice,2021,4.711,4.1847411958874465,Random Forest
+Amritsar,Punjab,Wheat,2021,4.74,4.704348450396826,Random Forest
+Amritsar,Punjab,Rice,2021,4.131,4.258414981150795,Random Forest
+Karnal,Haryana,Wheat,2021,3.973,3.4915120009920613,Random Forest
+Karnal,Haryana,Rice,2021,3.935,4.0428767073412715,Random Forest
+Hisar,Haryana,Wheat,2021,3.945,3.7306036438492054,Random Forest
+Faridabad,Haryana,Wheat,2021,4.41,4.027571434523805,Random Forest
+Jaipur,Rajasthan,Wheat,2021,2.196,2.347217702561326,Random Forest
+Kota,Rajasthan,Wheat,2021,2.722,2.585148877976191,Random Forest
+Ajmer,Rajasthan,Wheat,2021,2.864,3.0262440753968205,Random Forest
+Meerut,Uttar Pradesh,Wheat,2021,2.593,2.5730559265873008,Random Forest
+Agra,Uttar Pradesh,Wheat,2021,2.629,2.4195979821428577,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2021,2.556,3.0468446130952374,Random Forest
+Kanpur,Uttar Pradesh,Rice,2021,1.989,2.4587709910714293,Random Forest
+Indore,Madhya Pradesh,Wheat,2021,2.488,2.587481895833331,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2021,2.719,2.7873817311507936,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2021,2.165,2.382673318452382,Random Forest
+Nashik,Maharashtra,Wheat,2021,1.684,1.9354674494047617,Random Forest
+Pune,Maharashtra,Rice,2021,2.901,2.850250567460316,Random Forest
+Nagpur,Maharashtra,Rice,2021,2.898,3.004790783730158,Random Forest
+Guntur,Andhra Pradesh,Rice,2021,3.293,3.4154456398809505,Random Forest
+Kurnool,Andhra Pradesh,Rice,2021,3.252,2.597347012085138,Random Forest
+Anantapur,Andhra Pradesh,Rice,2021,2.14,2.417836621031746,Random Forest
+Mysuru,Karnataka,Rice,2021,3.503,3.2683223928571423,Random Forest
+Dharwad,Karnataka,Wheat,2021,1.867,2.5312875248015887,Random Forest
+Belagavi,Karnataka,Rice,2021,4.273,3.879020874999999,Random Forest
+Coimbatore,Tamil Nadu,Rice,2021,3.091,2.3984024513888897,Random Forest
+Madurai,Tamil Nadu,Rice,2021,3.005,2.687565843253968,Random Forest
+Salem,Tamil Nadu,Rice,2021,2.972,2.9796873789682543,Random Forest
+Patna,Bihar,Wheat,2021,2.814,2.738296818452379,Random Forest
+Patna,Bihar,Rice,2021,2.74,2.7051907500000003,Random Forest
+Gaya,Bihar,Wheat,2021,2.567,2.5170730982142837,Random Forest
+Gaya,Bihar,Rice,2021,2.941,2.795475463744587,Random Forest
+Purnia,Bihar,Wheat,2021,2.929,2.844345305555556,Random Forest
+Purnia,Bihar,Rice,2021,2.648,3.0497623865440118,Random Forest
+Raipur,Chhattisgarh,Rice,2021,2.8,3.0447255248015885,Random Forest
+Bilaspur,Chhattisgarh,Rice,2021,2.412,2.8937855016233796,Random Forest
+Ludhiana,Punjab,Wheat,2022,4.606,3.908593799603172,Random Forest
+Ludhiana,Punjab,Rice,2022,4.95,3.5447529767316,Random Forest
+Patiala,Punjab,Wheat,2022,4.095,3.7623809355158717,Random Forest
+Patiala,Punjab,Rice,2022,4.889,4.0796238700396845,Random Forest
+Amritsar,Punjab,Wheat,2022,3.743,3.7204168015873016,Random Forest
+Amritsar,Punjab,Rice,2022,4.34,3.254682719426405,Random Forest
+Karnal,Haryana,Wheat,2022,3.321,3.538391496392496,Random Forest
+Karnal,Haryana,Rice,2022,3.941,2.9096742301587297,Random Forest
+Hisar,Haryana,Wheat,2022,3.401,3.7701873353174555,Random Forest
+Faridabad,Haryana,Wheat,2022,3.799,3.9804021944444417,Random Forest
+Jaipur,Rajasthan,Wheat,2022,1.574,1.7343198948412684,Random Forest
+Kota,Rajasthan,Wheat,2022,1.682,2.0144294930555553,Random Forest
+Ajmer,Rajasthan,Wheat,2022,2.017,2.148274527777777,Random Forest
+Meerut,Uttar Pradesh,Wheat,2022,2.283,2.395105937499999,Random Forest
+Agra,Uttar Pradesh,Wheat,2022,2.299,2.4666595535714286,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2022,2.571,2.437268165133475,Random Forest
+Kanpur,Uttar Pradesh,Rice,2022,2.356,2.423992767857143,Random Forest
+Indore,Madhya Pradesh,Wheat,2022,2.488,2.5980413293650804,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2022,2.178,2.235939776785715,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2022,1.933,1.9506562321428578,Random Forest
+Nashik,Maharashtra,Wheat,2022,0.848,1.2611805248015862,Random Forest
+Pune,Maharashtra,Rice,2022,2.519,2.545057584325399,Random Forest
+Nagpur,Maharashtra,Rice,2022,3.114,3.1377804057539653,Random Forest
+Guntur,Andhra Pradesh,Rice,2022,3.292,3.0586820478896066,Random Forest
+Kurnool,Andhra Pradesh,Rice,2022,2.448,2.279691477182541,Random Forest
+Anantapur,Andhra Pradesh,Rice,2022,1.907,2.2072182539682546,Random Forest
+Mysuru,Karnataka,Rice,2022,3.886,3.5182803105158733,Random Forest
+Dharwad,Karnataka,Wheat,2022,1.4,1.6660740595238088,Random Forest
+Belagavi,Karnataka,Rice,2022,4.415,3.909786028769841,Random Forest
+Coimbatore,Tamil Nadu,Rice,2022,3.942,2.9286223484848484,Random Forest
+Madurai,Tamil Nadu,Rice,2022,4.072,3.495249864087299,Random Forest
+Salem,Tamil Nadu,Rice,2022,4.249,3.873612093253966,Random Forest
+Patna,Bihar,Wheat,2022,2.008,1.9266527797619042,Random Forest
+Patna,Bihar,Rice,2022,3.422,3.3683818571428565,Random Forest
+Gaya,Bihar,Wheat,2022,2.132,2.3292922500000004,Random Forest
+Gaya,Bihar,Rice,2022,3.183,3.1036857946428573,Random Forest
+Purnia,Bihar,Wheat,2022,1.863,1.97529697943723,Random Forest
+Purnia,Bihar,Rice,2022,3.238,3.198401793650794,Random Forest
+Raipur,Chhattisgarh,Rice,2022,2.44,2.856224900162338,Random Forest
+Bilaspur,Chhattisgarh,Rice,2022,2.457,2.607077035714286,Random Forest
+Ludhiana,Punjab,Wheat,2023,3.779,4.131725196428567,Random Forest
+Ludhiana,Punjab,Rice,2023,4.85,4.270340874007935,Random Forest
+Patiala,Punjab,Wheat,2023,3.853,4.315196866071426,Random Forest
+Patiala,Punjab,Rice,2023,3.771,4.092474041666668,Random Forest
+Amritsar,Punjab,Wheat,2023,4.928,4.5104821676587274,Random Forest
+Amritsar,Punjab,Rice,2023,4.027,3.7191114503968294,Random Forest
+Karnal,Haryana,Wheat,2023,2.573,3.361457124999999,Random Forest
+Karnal,Haryana,Rice,2023,3.652,3.555093746121932,Random Forest
+Hisar,Haryana,Wheat,2023,2.756,3.844771145833329,Random Forest
+Faridabad,Haryana,Wheat,2023,4.174,4.063660422619048,Random Forest
+Jaipur,Rajasthan,Wheat,2023,2.542,2.895961789411977,Random Forest
+Kota,Rajasthan,Wheat,2023,2.046,2.0667771299603164,Random Forest
+Ajmer,Rajasthan,Wheat,2023,1.911,2.446127020833331,Random Forest
+Meerut,Uttar Pradesh,Wheat,2023,2.481,2.6837734771825397,Random Forest
+Agra,Uttar Pradesh,Wheat,2023,2.837,2.842295643037517,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2023,3.496,3.367539151064213,Random Forest
+Kanpur,Uttar Pradesh,Rice,2023,2.617,2.9701043640873026,Random Forest
+Indore,Madhya Pradesh,Wheat,2023,3.162,2.9067323730158727,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2023,3.207,3.2551174891774894,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2023,2.743,3.0644704329004333,Random Forest
+Nashik,Maharashtra,Wheat,2023,1.181,1.360811607142857,Random Forest
+Pune,Maharashtra,Rice,2023,1.947,2.611019371031748,Random Forest
+Nagpur,Maharashtra,Rice,2023,2.858,2.703857295634923,Random Forest
+Guntur,Andhra Pradesh,Rice,2023,2.742,2.9170807976190503,Random Forest
+Kurnool,Andhra Pradesh,Rice,2023,3.459,3.3717594980158783,Random Forest
+Anantapur,Andhra Pradesh,Rice,2023,1.854,2.2690467472943734,Random Forest
+Mysuru,Karnataka,Rice,2023,3.397,3.2564522638888915,Random Forest
+Dharwad,Karnataka,Wheat,2023,1.721,1.7595699910714282,Random Forest
+Belagavi,Karnataka,Rice,2023,3.937,3.7813266696428594,Random Forest
+Coimbatore,Tamil Nadu,Rice,2023,4.025,3.4782905744047627,Random Forest
+Madurai,Tamil Nadu,Rice,2023,2.161,2.4164646865079358,Random Forest
+Salem,Tamil Nadu,Rice,2023,2.773,2.5077477740800886,Random Forest
+Patna,Bihar,Wheat,2023,2.615,2.8348321579184677,Random Forest
+Patna,Bihar,Rice,2023,3.1,2.952246884920635,Random Forest
+Gaya,Bihar,Wheat,2023,2.546,2.8161282820165936,Random Forest
+Gaya,Bihar,Rice,2023,3.569,3.325152130952383,Random Forest
+Purnia,Bihar,Wheat,2023,2.492,2.5491606041666683,Random Forest
+Purnia,Bihar,Rice,2023,2.512,2.8990509226190495,Random Forest
+Raipur,Chhattisgarh,Rice,2023,2.501,2.6974582738095227,Random Forest
+Bilaspur,Chhattisgarh,Rice,2023,2.559,2.95108996626984,Random Forest
+Ludhiana,Punjab,Wheat,2024,4.764,4.17757357215007,Random Forest
+Ludhiana,Punjab,Rice,2024,4.973,3.9928442976190466,Random Forest
+Patiala,Punjab,Wheat,2024,4.294,4.074234607142857,Random Forest
+Patiala,Punjab,Rice,2024,4.509,4.164419097222219,Random Forest
+Amritsar,Punjab,Wheat,2024,5.571,4.593976878427128,Random Forest
+Amritsar,Punjab,Rice,2024,4.642,3.822191462301587,Random Forest
+Karnal,Haryana,Wheat,2024,3.392,3.4540579325396847,Random Forest
+Karnal,Haryana,Rice,2024,3.848,3.851324609126986,Random Forest
+Hisar,Haryana,Wheat,2024,4.305,3.674494603174607,Random Forest
+Faridabad,Haryana,Wheat,2024,4.576,4.322141377976194,Random Forest
+Jaipur,Rajasthan,Wheat,2024,2.216,2.2463594940476197,Random Forest
+Kota,Rajasthan,Wheat,2024,2.651,2.298887419642858,Random Forest
+Ajmer,Rajasthan,Wheat,2024,1.635,2.1596821061507914,Random Forest
+Meerut,Uttar Pradesh,Wheat,2024,3.079,3.0628424880952383,Random Forest
+Agra,Uttar Pradesh,Wheat,2024,4.215,3.705837503968256,Random Forest
+Kanpur,Uttar Pradesh,Wheat,2024,3.385,3.9186820783730196,Random Forest
+Kanpur,Uttar Pradesh,Rice,2024,2.55,2.5471069821428567,Random Forest
+Indore,Madhya Pradesh,Wheat,2024,3.189,3.1324158918650817,Random Forest
+Bhopal,Madhya Pradesh,Wheat,2024,2.558,2.548739102182541,Random Forest
+Ujjain,Madhya Pradesh,Wheat,2024,3.413,3.512428592261906,Random Forest
+Nashik,Maharashtra,Wheat,2024,1.998,1.8460459017857156,Random Forest
+Pune,Maharashtra,Rice,2024,2.816,3.261917103174605,Random Forest
+Nagpur,Maharashtra,Rice,2024,3.558,2.821361120039681,Random Forest
+Guntur,Andhra Pradesh,Rice,2024,3.668,3.2875804980158763,Random Forest
+Kurnool,Andhra Pradesh,Rice,2024,4.005,3.3803878214285685,Random Forest
+Anantapur,Andhra Pradesh,Rice,2024,2.789,2.2138507361111106,Random Forest
+Mysuru,Karnataka,Rice,2024,4.309,3.5424005327380956,Random Forest
+Dharwad,Karnataka,Wheat,2024,2.706,2.816374352182539,Random Forest
+Belagavi,Karnataka,Rice,2024,4.46,4.230329056547614,Random Forest
+Coimbatore,Tamil Nadu,Rice,2024,3.068,2.5902736428571456,Random Forest
+Madurai,Tamil Nadu,Rice,2024,2.494,2.4077966269841276,Random Forest
+Salem,Tamil Nadu,Rice,2024,3.197,2.918550290674605,Random Forest
+Patna,Bihar,Wheat,2024,3.01,3.644726696428571,Random Forest
+Patna,Bihar,Rice,2024,3.541,3.2955413998015852,Random Forest
+Gaya,Bihar,Wheat,2024,3.18,2.9789011527777745,Random Forest
+Gaya,Bihar,Rice,2024,2.868,2.8015578710317453,Random Forest
+Purnia,Bihar,Wheat,2024,2.792,2.714632847222222,Random Forest
+Purnia,Bihar,Rice,2024,2.852,2.8700325149711428,Random Forest
+Raipur,Chhattisgarh,Rice,2024,2.87,2.598045857233046,Random Forest
+Bilaspur,Chhattisgarh,Rice,2024,3.026,2.7388803869949494,Random Forest
+Ludhiana,Punjab,Wheat,2014,4.427,4.91483736038208,XGBoost
+Ludhiana,Punjab,Rice,2014,3.882,4.152929306030273,XGBoost
+Patiala,Punjab,Wheat,2014,4.861,5.109618186950684,XGBoost
+Patiala,Punjab,Rice,2014,3.661,4.430703163146973,XGBoost
+Amritsar,Punjab,Wheat,2014,4.492,4.817513942718506,XGBoost
+Amritsar,Punjab,Rice,2014,3.523,4.192320346832275,XGBoost
+Karnal,Haryana,Wheat,2014,4.015,4.404821395874023,XGBoost
+Karnal,Haryana,Rice,2014,3.241,3.68696928024292,XGBoost
+Hisar,Haryana,Wheat,2014,3.329,3.4219987392425537,XGBoost
+Faridabad,Haryana,Wheat,2014,3.975,4.666686534881592,XGBoost
+Jaipur,Rajasthan,Wheat,2014,2.814,2.9290871620178223,XGBoost
+Kota,Rajasthan,Wheat,2014,2.888,2.462254762649536,XGBoost
+Ajmer,Rajasthan,Wheat,2014,2.265,2.7647688388824463,XGBoost
+Meerut,Uttar Pradesh,Wheat,2014,2.584,2.858473300933838,XGBoost
+Agra,Uttar Pradesh,Wheat,2014,2.606,3.1171462535858154,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2014,2.344,2.9550552368164062,XGBoost
+Kanpur,Uttar Pradesh,Rice,2014,1.868,2.58227276802063,XGBoost
+Indore,Madhya Pradesh,Wheat,2014,2.589,2.9741322994232178,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2014,2.56,2.7531843185424805,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2014,2.519,3.0152034759521484,XGBoost
+Nashik,Maharashtra,Wheat,2014,1.5,1.5075147151947021,XGBoost
+Pune,Maharashtra,Rice,2014,2.245,2.7536017894744873,XGBoost
+Nagpur,Maharashtra,Rice,2014,3.055,2.7210662364959717,XGBoost
+Guntur,Andhra Pradesh,Rice,2014,2.728,3.116098403930664,XGBoost
+Kurnool,Andhra Pradesh,Rice,2014,2.323,2.565624475479126,XGBoost
+Anantapur,Andhra Pradesh,Rice,2014,2.175,2.3533146381378174,XGBoost
+Mysuru,Karnataka,Rice,2014,3.326,3.5317256450653076,XGBoost
+Dharwad,Karnataka,Wheat,2014,1.645,1.6674590110778809,XGBoost
+Belagavi,Karnataka,Rice,2014,3.492,3.7446746826171875,XGBoost
+Coimbatore,Tamil Nadu,Rice,2014,3.112,3.3369815349578857,XGBoost
+Madurai,Tamil Nadu,Rice,2014,2.969,2.7408499717712402,XGBoost
+Salem,Tamil Nadu,Rice,2014,3.195,4.042438983917236,XGBoost
+Patna,Bihar,Wheat,2014,2.331,2.5953633785247803,XGBoost
+Patna,Bihar,Rice,2014,2.64,3.1159756183624268,XGBoost
+Gaya,Bihar,Wheat,2014,2.477,2.392423152923584,XGBoost
+Gaya,Bihar,Rice,2014,2.803,2.939870834350586,XGBoost
+Purnia,Bihar,Wheat,2014,2.807,2.846362590789795,XGBoost
+Purnia,Bihar,Rice,2014,2.02,2.1967406272888184,XGBoost
+Raipur,Chhattisgarh,Rice,2014,2.789,2.6179299354553223,XGBoost
+Bilaspur,Chhattisgarh,Rice,2014,2.832,2.828437328338623,XGBoost
+Ludhiana,Punjab,Wheat,2015,4.554,4.466204643249512,XGBoost
+Ludhiana,Punjab,Rice,2015,3.789,4.2635369300842285,XGBoost
+Patiala,Punjab,Wheat,2015,3.372,3.9818341732025146,XGBoost
+Patiala,Punjab,Rice,2015,3.775,3.97336483001709,XGBoost
+Amritsar,Punjab,Wheat,2015,4.688,4.740596294403076,XGBoost
+Amritsar,Punjab,Rice,2015,3.135,3.318585157394409,XGBoost
+Karnal,Haryana,Wheat,2015,3.613,4.129477500915527,XGBoost
+Karnal,Haryana,Rice,2015,3.437,3.861295700073242,XGBoost
+Hisar,Haryana,Wheat,2015,3.477,3.713730812072754,XGBoost
+Faridabad,Haryana,Wheat,2015,3.93,4.1061625480651855,XGBoost
+Jaipur,Rajasthan,Wheat,2015,2.64,2.679352283477783,XGBoost
+Kota,Rajasthan,Wheat,2015,2.451,2.82791805267334,XGBoost
+Ajmer,Rajasthan,Wheat,2015,2.224,2.597352981567383,XGBoost
+Meerut,Uttar Pradesh,Wheat,2015,3.552,3.4328839778900146,XGBoost
+Agra,Uttar Pradesh,Wheat,2015,3.853,3.593775510787964,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2015,4.097,3.2893638610839844,XGBoost
+Kanpur,Uttar Pradesh,Rice,2015,2.669,2.457979202270508,XGBoost
+Indore,Madhya Pradesh,Wheat,2015,3.551,3.7659108638763428,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2015,2.763,2.602792739868164,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2015,3.339,3.386814594268799,XGBoost
+Nashik,Maharashtra,Wheat,2015,1.497,2.3010337352752686,XGBoost
+Pune,Maharashtra,Rice,2015,2.184,2.6640968322753906,XGBoost
+Nagpur,Maharashtra,Rice,2015,1.923,2.7735185623168945,XGBoost
+Guntur,Andhra Pradesh,Rice,2015,1.822,2.203382730484009,XGBoost
+Kurnool,Andhra Pradesh,Rice,2015,1.979,1.922433614730835,XGBoost
+Anantapur,Andhra Pradesh,Rice,2015,2.625,3.025391101837158,XGBoost
+Mysuru,Karnataka,Rice,2015,3.307,3.151108980178833,XGBoost
+Dharwad,Karnataka,Wheat,2015,1.77,1.5929887294769287,XGBoost
+Belagavi,Karnataka,Rice,2015,4.092,3.6945290565490723,XGBoost
+Coimbatore,Tamil Nadu,Rice,2015,3.644,3.3789405822753906,XGBoost
+Madurai,Tamil Nadu,Rice,2015,4.078,3.4885032176971436,XGBoost
+Salem,Tamil Nadu,Rice,2015,3.986,3.8603692054748535,XGBoost
+Patna,Bihar,Wheat,2015,3.073,3.2490885257720947,XGBoost
+Patna,Bihar,Rice,2015,3.007,2.7081375122070312,XGBoost
+Gaya,Bihar,Wheat,2015,3.082,3.256742000579834,XGBoost
+Gaya,Bihar,Rice,2015,2.758,3.2847352027893066,XGBoost
+Purnia,Bihar,Wheat,2015,3.093,3.491947889328003,XGBoost
+Purnia,Bihar,Rice,2015,3.49,3.0921661853790283,XGBoost
+Raipur,Chhattisgarh,Rice,2015,1.839,2.3009231090545654,XGBoost
+Bilaspur,Chhattisgarh,Rice,2015,2.437,2.7465012073516846,XGBoost
+Ludhiana,Punjab,Wheat,2016,4.015,3.8538172245025635,XGBoost
+Ludhiana,Punjab,Rice,2016,3.796,3.585775136947632,XGBoost
+Patiala,Punjab,Wheat,2016,4.732,4.186323165893555,XGBoost
+Patiala,Punjab,Rice,2016,4.318,4.1910247802734375,XGBoost
+Amritsar,Punjab,Wheat,2016,3.335,4.290332794189453,XGBoost
+Amritsar,Punjab,Rice,2016,3.991,4.05600643157959,XGBoost
+Karnal,Haryana,Wheat,2016,3.107,3.224897623062134,XGBoost
+Karnal,Haryana,Rice,2016,3.34,3.294302225112915,XGBoost
+Hisar,Haryana,Wheat,2016,3.488,3.89033842086792,XGBoost
+Faridabad,Haryana,Wheat,2016,4.363,3.8563425540924072,XGBoost
+Jaipur,Rajasthan,Wheat,2016,2.146,2.343165636062622,XGBoost
+Kota,Rajasthan,Wheat,2016,1.981,2.1628799438476562,XGBoost
+Ajmer,Rajasthan,Wheat,2016,1.794,2.0265376567840576,XGBoost
+Meerut,Uttar Pradesh,Wheat,2016,2.466,2.7028117179870605,XGBoost
+Agra,Uttar Pradesh,Wheat,2016,2.948,2.5634593963623047,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2016,2.744,2.629035711288452,XGBoost
+Kanpur,Uttar Pradesh,Rice,2016,2.123,2.920665740966797,XGBoost
+Indore,Madhya Pradesh,Wheat,2016,2.793,2.702848196029663,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2016,2.747,2.6472415924072266,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2016,2.637,2.603339910507202,XGBoost
+Nashik,Maharashtra,Wheat,2016,1.2,1.1657588481903076,XGBoost
+Pune,Maharashtra,Rice,2016,2.261,2.7191028594970703,XGBoost
+Nagpur,Maharashtra,Rice,2016,2.373,2.580545425415039,XGBoost
+Guntur,Andhra Pradesh,Rice,2016,2.618,2.6447510719299316,XGBoost
+Kurnool,Andhra Pradesh,Rice,2016,1.945,2.0078024864196777,XGBoost
+Anantapur,Andhra Pradesh,Rice,2016,2.149,1.8535284996032715,XGBoost
+Mysuru,Karnataka,Rice,2016,3.594,3.9348509311676025,XGBoost
+Dharwad,Karnataka,Wheat,2016,2.025,1.801015019416809,XGBoost
+Belagavi,Karnataka,Rice,2016,3.965,4.434319972991943,XGBoost
+Coimbatore,Tamil Nadu,Rice,2016,3.633,3.6888427734375,XGBoost
+Madurai,Tamil Nadu,Rice,2016,3.794,3.5499870777130127,XGBoost
+Salem,Tamil Nadu,Rice,2016,3.89,3.733419895172119,XGBoost
+Patna,Bihar,Wheat,2016,2.259,2.6065785884857178,XGBoost
+Patna,Bihar,Rice,2016,2.353,2.689913511276245,XGBoost
+Gaya,Bihar,Wheat,2016,1.752,1.9849387407302856,XGBoost
+Gaya,Bihar,Rice,2016,2.186,2.422935962677002,XGBoost
+Purnia,Bihar,Wheat,2016,1.875,2.3233494758605957,XGBoost
+Purnia,Bihar,Rice,2016,2.31,2.2891197204589844,XGBoost
+Raipur,Chhattisgarh,Rice,2016,2.383,2.2837586402893066,XGBoost
+Bilaspur,Chhattisgarh,Rice,2016,2.269,2.6417765617370605,XGBoost
+Ludhiana,Punjab,Wheat,2017,4.521,4.579005241394043,XGBoost
+Ludhiana,Punjab,Rice,2017,3.74,4.1373090744018555,XGBoost
+Patiala,Punjab,Wheat,2017,3.924,3.8588385581970215,XGBoost
+Patiala,Punjab,Rice,2017,3.849,3.972620964050293,XGBoost
+Amritsar,Punjab,Wheat,2017,4.423,4.864212989807129,XGBoost
+Amritsar,Punjab,Rice,2017,3.414,3.4657890796661377,XGBoost
+Karnal,Haryana,Wheat,2017,4.192,3.7590389251708984,XGBoost
+Karnal,Haryana,Rice,2017,3.345,3.4977400302886963,XGBoost
+Hisar,Haryana,Wheat,2017,4.203,3.698071002960205,XGBoost
+Faridabad,Haryana,Wheat,2017,4.638,4.143182754516602,XGBoost
+Jaipur,Rajasthan,Wheat,2017,2.6,2.540239095687866,XGBoost
+Kota,Rajasthan,Wheat,2017,2.128,2.3379292488098145,XGBoost
+Ajmer,Rajasthan,Wheat,2017,2.555,2.3718605041503906,XGBoost
+Meerut,Uttar Pradesh,Wheat,2017,2.618,2.6630983352661133,XGBoost
+Agra,Uttar Pradesh,Wheat,2017,2.896,3.3493330478668213,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2017,2.417,2.5302352905273438,XGBoost
+Kanpur,Uttar Pradesh,Rice,2017,2.18,2.444472551345825,XGBoost
+Indore,Madhya Pradesh,Wheat,2017,3.222,3.1764354705810547,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2017,2.391,2.7860515117645264,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2017,2.962,2.8020808696746826,XGBoost
+Nashik,Maharashtra,Wheat,2017,1.119,1.1996397972106934,XGBoost
+Pune,Maharashtra,Rice,2017,2.194,2.3813350200653076,XGBoost
+Nagpur,Maharashtra,Rice,2017,2.904,2.853682041168213,XGBoost
+Guntur,Andhra Pradesh,Rice,2017,2.505,2.6571168899536133,XGBoost
+Kurnool,Andhra Pradesh,Rice,2017,2.55,2.2680482864379883,XGBoost
+Anantapur,Andhra Pradesh,Rice,2017,3.923,3.8372080326080322,XGBoost
+Mysuru,Karnataka,Rice,2017,3.076,3.6554489135742188,XGBoost
+Dharwad,Karnataka,Wheat,2017,2.043,2.569596529006958,XGBoost
+Belagavi,Karnataka,Rice,2017,4.151,4.053981304168701,XGBoost
+Coimbatore,Tamil Nadu,Rice,2017,2.128,2.4484896659851074,XGBoost
+Madurai,Tamil Nadu,Rice,2017,3.46,4.2999958992004395,XGBoost
+Salem,Tamil Nadu,Rice,2017,2.214,2.33337140083313,XGBoost
+Patna,Bihar,Wheat,2017,3.569,2.9388632774353027,XGBoost
+Patna,Bihar,Rice,2017,3.314,3.6606528759002686,XGBoost
+Gaya,Bihar,Wheat,2017,2.188,2.5286757946014404,XGBoost
+Gaya,Bihar,Rice,2017,3.222,3.6570656299591064,XGBoost
+Purnia,Bihar,Wheat,2017,2.527,2.4641201496124268,XGBoost
+Purnia,Bihar,Rice,2017,3.264,2.9138381481170654,XGBoost
+Raipur,Chhattisgarh,Rice,2017,2.81,3.289858341217041,XGBoost
+Bilaspur,Chhattisgarh,Rice,2017,2.604,2.8418571949005127,XGBoost
+Ludhiana,Punjab,Wheat,2018,4.907,4.5278239250183105,XGBoost
+Ludhiana,Punjab,Rice,2018,4.627,3.807382822036743,XGBoost
+Patiala,Punjab,Wheat,2018,4.171,4.384380340576172,XGBoost
+Patiala,Punjab,Rice,2018,4.315,4.4946184158325195,XGBoost
+Amritsar,Punjab,Wheat,2018,4.63,4.417891979217529,XGBoost
+Amritsar,Punjab,Rice,2018,3.939,3.986442804336548,XGBoost
+Karnal,Haryana,Wheat,2018,3.879,4.086155891418457,XGBoost
+Karnal,Haryana,Rice,2018,3.52,3.5962016582489014,XGBoost
+Hisar,Haryana,Wheat,2018,3.67,3.785904884338379,XGBoost
+Faridabad,Haryana,Wheat,2018,3.899,3.7904727458953857,XGBoost
+Jaipur,Rajasthan,Wheat,2018,2.116,2.3300297260284424,XGBoost
+Kota,Rajasthan,Wheat,2018,2.602,2.6670539379119873,XGBoost
+Ajmer,Rajasthan,Wheat,2018,1.958,2.027996301651001,XGBoost
+Meerut,Uttar Pradesh,Wheat,2018,2.686,2.58123779296875,XGBoost
+Agra,Uttar Pradesh,Wheat,2018,3.756,3.934520721435547,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2018,3.059,3.429387331008911,XGBoost
+Kanpur,Uttar Pradesh,Rice,2018,2.71,2.7629690170288086,XGBoost
+Indore,Madhya Pradesh,Wheat,2018,2.886,3.0008082389831543,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2018,2.509,2.603696584701538,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2018,3.121,2.8558783531188965,XGBoost
+Nashik,Maharashtra,Wheat,2018,1.756,1.9676368236541748,XGBoost
+Pune,Maharashtra,Rice,2018,2.292,2.4638710021972656,XGBoost
+Nagpur,Maharashtra,Rice,2018,2.762,2.888317823410034,XGBoost
+Guntur,Andhra Pradesh,Rice,2018,3.361,2.781813383102417,XGBoost
+Kurnool,Andhra Pradesh,Rice,2018,2.947,2.7911200523376465,XGBoost
+Anantapur,Andhra Pradesh,Rice,2018,3.414,3.3484995365142822,XGBoost
+Mysuru,Karnataka,Rice,2018,3.627,4.063576698303223,XGBoost
+Dharwad,Karnataka,Wheat,2018,1.39,1.8668665885925293,XGBoost
+Belagavi,Karnataka,Rice,2018,4.27,4.091332912445068,XGBoost
+Coimbatore,Tamil Nadu,Rice,2018,2.932,2.849400043487549,XGBoost
+Madurai,Tamil Nadu,Rice,2018,3.496,3.64375376701355,XGBoost
+Salem,Tamil Nadu,Rice,2018,2.249,2.1779892444610596,XGBoost
+Patna,Bihar,Wheat,2018,2.719,2.2458693981170654,XGBoost
+Patna,Bihar,Rice,2018,3.87,2.9045608043670654,XGBoost
+Gaya,Bihar,Wheat,2018,2.93,2.3631091117858887,XGBoost
+Gaya,Bihar,Rice,2018,2.929,3.0395991802215576,XGBoost
+Purnia,Bihar,Wheat,2018,2.392,1.9202054738998413,XGBoost
+Purnia,Bihar,Rice,2018,2.914,2.612583875656128,XGBoost
+Raipur,Chhattisgarh,Rice,2018,2.746,2.723238706588745,XGBoost
+Bilaspur,Chhattisgarh,Rice,2018,2.816,2.5602755546569824,XGBoost
+Ludhiana,Punjab,Wheat,2019,4.989,5.130496025085449,XGBoost
+Ludhiana,Punjab,Rice,2019,4.726,4.743873119354248,XGBoost
+Patiala,Punjab,Wheat,2019,5.249,4.8639984130859375,XGBoost
+Patiala,Punjab,Rice,2019,3.95,3.9063549041748047,XGBoost
+Amritsar,Punjab,Wheat,2019,5.458,4.703131198883057,XGBoost
+Amritsar,Punjab,Rice,2019,3.907,3.8284294605255127,XGBoost
+Karnal,Haryana,Wheat,2019,3.893,3.377026081085205,XGBoost
+Karnal,Haryana,Rice,2019,3.139,3.850736618041992,XGBoost
+Hisar,Haryana,Wheat,2019,3.323,3.5847582817077637,XGBoost
+Faridabad,Haryana,Wheat,2019,4.641,3.8983092308044434,XGBoost
+Jaipur,Rajasthan,Wheat,2019,2.092,2.124574661254883,XGBoost
+Kota,Rajasthan,Wheat,2019,2.634,2.720594882965088,XGBoost
+Ajmer,Rajasthan,Wheat,2019,1.71,1.9961522817611694,XGBoost
+Meerut,Uttar Pradesh,Wheat,2019,3.875,3.4168379306793213,XGBoost
+Agra,Uttar Pradesh,Wheat,2019,3.668,2.889052391052246,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2019,2.647,2.512794256210327,XGBoost
+Kanpur,Uttar Pradesh,Rice,2019,2.58,2.4450953006744385,XGBoost
+Indore,Madhya Pradesh,Wheat,2019,3.35,3.196615695953369,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2019,3.125,3.0763497352600098,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2019,3.456,2.805368185043335,XGBoost
+Nashik,Maharashtra,Wheat,2019,1.031,1.2241730690002441,XGBoost
+Pune,Maharashtra,Rice,2019,2.679,2.4818029403686523,XGBoost
+Nagpur,Maharashtra,Rice,2019,2.725,3.187335252761841,XGBoost
+Guntur,Andhra Pradesh,Rice,2019,2.531,2.4791650772094727,XGBoost
+Kurnool,Andhra Pradesh,Rice,2019,3.557,3.7940149307250977,XGBoost
+Anantapur,Andhra Pradesh,Rice,2019,3.324,3.4709486961364746,XGBoost
+Mysuru,Karnataka,Rice,2019,4.001,3.107179641723633,XGBoost
+Dharwad,Karnataka,Wheat,2019,2.534,2.1321520805358887,XGBoost
+Belagavi,Karnataka,Rice,2019,4.016,3.7272422313690186,XGBoost
+Coimbatore,Tamil Nadu,Rice,2019,3.911,4.385692119598389,XGBoost
+Madurai,Tamil Nadu,Rice,2019,2.337,2.397869110107422,XGBoost
+Salem,Tamil Nadu,Rice,2019,3.225,3.2740533351898193,XGBoost
+Patna,Bihar,Wheat,2019,2.757,2.9841272830963135,XGBoost
+Patna,Bihar,Rice,2019,3.415,3.1851325035095215,XGBoost
+Gaya,Bihar,Wheat,2019,2.775,2.746547222137451,XGBoost
+Gaya,Bihar,Rice,2019,3.627,3.1541318893432617,XGBoost
+Purnia,Bihar,Wheat,2019,2.586,2.462040901184082,XGBoost
+Purnia,Bihar,Rice,2019,2.951,2.4036154747009277,XGBoost
+Raipur,Chhattisgarh,Rice,2019,1.996,2.4587490558624268,XGBoost
+Bilaspur,Chhattisgarh,Rice,2019,2.1,2.366647720336914,XGBoost
+Ludhiana,Punjab,Wheat,2020,4.72,4.5015668869018555,XGBoost
+Ludhiana,Punjab,Rice,2020,4.484,4.557512283325195,XGBoost
+Patiala,Punjab,Wheat,2020,4.321,4.887668132781982,XGBoost
+Patiala,Punjab,Rice,2020,4.028,4.138456344604492,XGBoost
+Amritsar,Punjab,Wheat,2020,5.13,5.17891263961792,XGBoost
+Amritsar,Punjab,Rice,2020,4.033,3.737443447113037,XGBoost
+Karnal,Haryana,Wheat,2020,4.398,4.683600902557373,XGBoost
+Karnal,Haryana,Rice,2020,3.51,3.3419251441955566,XGBoost
+Hisar,Haryana,Wheat,2020,4.044,3.7030298709869385,XGBoost
+Faridabad,Haryana,Wheat,2020,4.017,4.2932515144348145,XGBoost
+Jaipur,Rajasthan,Wheat,2020,2.482,2.112464427947998,XGBoost
+Kota,Rajasthan,Wheat,2020,2.63,2.3538894653320312,XGBoost
+Ajmer,Rajasthan,Wheat,2020,2.194,2.280898094177246,XGBoost
+Meerut,Uttar Pradesh,Wheat,2020,3.318,3.5708112716674805,XGBoost
+Agra,Uttar Pradesh,Wheat,2020,3.415,3.322432279586792,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2020,2.878,2.5645055770874023,XGBoost
+Kanpur,Uttar Pradesh,Rice,2020,2.961,3.1243910789489746,XGBoost
+Indore,Madhya Pradesh,Wheat,2020,3.338,3.213904619216919,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2020,2.362,2.411010503768921,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2020,3.327,3.31026291847229,XGBoost
+Nashik,Maharashtra,Wheat,2020,1.82,1.6250025033950806,XGBoost
+Pune,Maharashtra,Rice,2020,2.443,2.340404987335205,XGBoost
+Nagpur,Maharashtra,Rice,2020,3.192,2.7115042209625244,XGBoost
+Guntur,Andhra Pradesh,Rice,2020,2.081,2.3493142127990723,XGBoost
+Kurnool,Andhra Pradesh,Rice,2020,3.706,3.089503049850464,XGBoost
+Anantapur,Andhra Pradesh,Rice,2020,3.339,3.7522730827331543,XGBoost
+Mysuru,Karnataka,Rice,2020,3.749,3.7082836627960205,XGBoost
+Dharwad,Karnataka,Wheat,2020,2.521,2.204895496368408,XGBoost
+Belagavi,Karnataka,Rice,2020,3.971,4.158605098724365,XGBoost
+Coimbatore,Tamil Nadu,Rice,2020,4.629,3.7450954914093018,XGBoost
+Madurai,Tamil Nadu,Rice,2020,4.623,3.754300355911255,XGBoost
+Salem,Tamil Nadu,Rice,2020,2.598,3.242748498916626,XGBoost
+Patna,Bihar,Wheat,2020,2.767,2.5681345462799072,XGBoost
+Patna,Bihar,Rice,2020,3.366,3.1069834232330322,XGBoost
+Gaya,Bihar,Wheat,2020,2.988,2.8872663974761963,XGBoost
+Gaya,Bihar,Rice,2020,3.167,2.8470163345336914,XGBoost
+Purnia,Bihar,Wheat,2020,2.88,3.1529746055603027,XGBoost
+Purnia,Bihar,Rice,2020,2.822,2.755342483520508,XGBoost
+Raipur,Chhattisgarh,Rice,2020,2.069,2.7608377933502197,XGBoost
+Bilaspur,Chhattisgarh,Rice,2020,2.189,2.21572208404541,XGBoost
+Ludhiana,Punjab,Wheat,2021,5.457,4.795101165771484,XGBoost
+Ludhiana,Punjab,Rice,2021,4.427,4.0856547355651855,XGBoost
+Patiala,Punjab,Wheat,2021,5.561,4.560098648071289,XGBoost
+Patiala,Punjab,Rice,2021,4.711,4.079784393310547,XGBoost
+Amritsar,Punjab,Wheat,2021,4.74,4.668112277984619,XGBoost
+Amritsar,Punjab,Rice,2021,4.131,3.956692934036255,XGBoost
+Karnal,Haryana,Wheat,2021,3.973,3.62593412399292,XGBoost
+Karnal,Haryana,Rice,2021,3.935,4.0730180740356445,XGBoost
+Hisar,Haryana,Wheat,2021,3.945,3.7112483978271484,XGBoost
+Faridabad,Haryana,Wheat,2021,4.41,4.086882591247559,XGBoost
+Jaipur,Rajasthan,Wheat,2021,2.196,2.248997926712036,XGBoost
+Kota,Rajasthan,Wheat,2021,2.722,2.4184274673461914,XGBoost
+Ajmer,Rajasthan,Wheat,2021,2.864,2.535194158554077,XGBoost
+Meerut,Uttar Pradesh,Wheat,2021,2.593,2.582487106323242,XGBoost
+Agra,Uttar Pradesh,Wheat,2021,2.629,2.4272844791412354,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2021,2.556,2.858739137649536,XGBoost
+Kanpur,Uttar Pradesh,Rice,2021,1.989,2.439192771911621,XGBoost
+Indore,Madhya Pradesh,Wheat,2021,2.488,2.57304048538208,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2021,2.719,2.777984619140625,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2021,2.165,2.379396915435791,XGBoost
+Nashik,Maharashtra,Wheat,2021,1.684,1.7967487573623657,XGBoost
+Pune,Maharashtra,Rice,2021,2.901,2.6935696601867676,XGBoost
+Nagpur,Maharashtra,Rice,2021,2.898,3.0623738765716553,XGBoost
+Guntur,Andhra Pradesh,Rice,2021,3.293,3.429090976715088,XGBoost
+Kurnool,Andhra Pradesh,Rice,2021,3.252,2.6344754695892334,XGBoost
+Anantapur,Andhra Pradesh,Rice,2021,2.14,2.3392162322998047,XGBoost
+Mysuru,Karnataka,Rice,2021,3.503,3.3421144485473633,XGBoost
+Dharwad,Karnataka,Wheat,2021,1.867,2.530350685119629,XGBoost
+Belagavi,Karnataka,Rice,2021,4.273,4.0989179611206055,XGBoost
+Coimbatore,Tamil Nadu,Rice,2021,3.091,2.2858119010925293,XGBoost
+Madurai,Tamil Nadu,Rice,2021,3.005,2.759350299835205,XGBoost
+Salem,Tamil Nadu,Rice,2021,2.972,3.142700672149658,XGBoost
+Patna,Bihar,Wheat,2021,2.814,2.7967607975006104,XGBoost
+Patna,Bihar,Rice,2021,2.74,2.7653026580810547,XGBoost
+Gaya,Bihar,Wheat,2021,2.567,2.5497522354125977,XGBoost
+Gaya,Bihar,Rice,2021,2.941,2.832141876220703,XGBoost
+Purnia,Bihar,Wheat,2021,2.929,2.872927665710449,XGBoost
+Purnia,Bihar,Rice,2021,2.648,3.13789701461792,XGBoost
+Raipur,Chhattisgarh,Rice,2021,2.8,2.9754486083984375,XGBoost
+Bilaspur,Chhattisgarh,Rice,2021,2.412,3.0680179595947266,XGBoost
+Ludhiana,Punjab,Wheat,2022,4.606,3.554691791534424,XGBoost
+Ludhiana,Punjab,Rice,2022,4.95,3.6114284992218018,XGBoost
+Patiala,Punjab,Wheat,2022,4.095,3.4490914344787598,XGBoost
+Patiala,Punjab,Rice,2022,4.889,4.195702075958252,XGBoost
+Amritsar,Punjab,Wheat,2022,3.743,3.333831310272217,XGBoost
+Amritsar,Punjab,Rice,2022,4.34,3.195589780807495,XGBoost
+Karnal,Haryana,Wheat,2022,3.321,3.4154725074768066,XGBoost
+Karnal,Haryana,Rice,2022,3.941,3.0590083599090576,XGBoost
+Hisar,Haryana,Wheat,2022,3.401,3.584839105606079,XGBoost
+Faridabad,Haryana,Wheat,2022,3.799,3.942922830581665,XGBoost
+Jaipur,Rajasthan,Wheat,2022,1.574,1.5350501537322998,XGBoost
+Kota,Rajasthan,Wheat,2022,1.682,1.9742944240570068,XGBoost
+Ajmer,Rajasthan,Wheat,2022,2.017,1.8866567611694336,XGBoost
+Meerut,Uttar Pradesh,Wheat,2022,2.283,2.2114346027374268,XGBoost
+Agra,Uttar Pradesh,Wheat,2022,2.299,2.5302112102508545,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2022,2.571,2.323777198791504,XGBoost
+Kanpur,Uttar Pradesh,Rice,2022,2.356,2.3682291507720947,XGBoost
+Indore,Madhya Pradesh,Wheat,2022,2.488,2.4457273483276367,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2022,2.178,2.0248188972473145,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2022,1.933,1.6997050046920776,XGBoost
+Nashik,Maharashtra,Wheat,2022,0.848,1.1406344175338745,XGBoost
+Pune,Maharashtra,Rice,2022,2.519,2.656911849975586,XGBoost
+Nagpur,Maharashtra,Rice,2022,3.114,3.2491455078125,XGBoost
+Guntur,Andhra Pradesh,Rice,2022,3.292,3.1121320724487305,XGBoost
+Kurnool,Andhra Pradesh,Rice,2022,2.448,2.309828758239746,XGBoost
+Anantapur,Andhra Pradesh,Rice,2022,1.907,2.190997838973999,XGBoost
+Mysuru,Karnataka,Rice,2022,3.886,3.823662519454956,XGBoost
+Dharwad,Karnataka,Wheat,2022,1.4,1.5479182004928589,XGBoost
+Belagavi,Karnataka,Rice,2022,4.415,3.922801971435547,XGBoost
+Coimbatore,Tamil Nadu,Rice,2022,3.942,2.9962847232818604,XGBoost
+Madurai,Tamil Nadu,Rice,2022,4.072,3.642993450164795,XGBoost
+Salem,Tamil Nadu,Rice,2022,4.249,3.9060261249542236,XGBoost
+Patna,Bihar,Wheat,2022,2.008,1.810542345046997,XGBoost
+Patna,Bihar,Rice,2022,3.422,3.3982200622558594,XGBoost
+Gaya,Bihar,Wheat,2022,2.132,2.2532951831817627,XGBoost
+Gaya,Bihar,Rice,2022,3.183,3.3789074420928955,XGBoost
+Purnia,Bihar,Wheat,2022,1.863,1.872864007949829,XGBoost
+Purnia,Bihar,Rice,2022,3.238,3.304136276245117,XGBoost
+Raipur,Chhattisgarh,Rice,2022,2.44,2.866126298904419,XGBoost
+Bilaspur,Chhattisgarh,Rice,2022,2.457,2.6455414295196533,XGBoost
+Ludhiana,Punjab,Wheat,2023,3.779,3.793349504470825,XGBoost
+Ludhiana,Punjab,Rice,2023,4.85,4.519001007080078,XGBoost
+Patiala,Punjab,Wheat,2023,3.853,4.158895015716553,XGBoost
+Patiala,Punjab,Rice,2023,3.771,4.117552757263184,XGBoost
+Amritsar,Punjab,Wheat,2023,4.928,4.435892105102539,XGBoost
+Amritsar,Punjab,Rice,2023,4.027,3.752429962158203,XGBoost
+Karnal,Haryana,Wheat,2023,2.573,3.033118486404419,XGBoost
+Karnal,Haryana,Rice,2023,3.652,3.647536516189575,XGBoost
+Hisar,Haryana,Wheat,2023,2.756,3.569880485534668,XGBoost
+Faridabad,Haryana,Wheat,2023,4.174,4.214729309082031,XGBoost
+Jaipur,Rajasthan,Wheat,2023,2.542,2.7139227390289307,XGBoost
+Kota,Rajasthan,Wheat,2023,2.046,1.8904013633728027,XGBoost
+Ajmer,Rajasthan,Wheat,2023,1.911,2.240510940551758,XGBoost
+Meerut,Uttar Pradesh,Wheat,2023,2.481,2.823192834854126,XGBoost
+Agra,Uttar Pradesh,Wheat,2023,2.837,2.7017734050750732,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2023,3.496,3.530397891998291,XGBoost
+Kanpur,Uttar Pradesh,Rice,2023,2.617,2.878767967224121,XGBoost
+Indore,Madhya Pradesh,Wheat,2023,3.162,2.8972408771514893,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2023,3.207,3.241335153579712,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2023,2.743,3.206587314605713,XGBoost
+Nashik,Maharashtra,Wheat,2023,1.181,1.3861050605773926,XGBoost
+Pune,Maharashtra,Rice,2023,1.947,2.51186203956604,XGBoost
+Nagpur,Maharashtra,Rice,2023,2.858,2.548382520675659,XGBoost
+Guntur,Andhra Pradesh,Rice,2023,2.742,3.0628092288970947,XGBoost
+Kurnool,Andhra Pradesh,Rice,2023,3.459,3.3537445068359375,XGBoost
+Anantapur,Andhra Pradesh,Rice,2023,1.854,2.0317471027374268,XGBoost
+Mysuru,Karnataka,Rice,2023,3.397,3.399407148361206,XGBoost
+Dharwad,Karnataka,Wheat,2023,1.721,1.8962657451629639,XGBoost
+Belagavi,Karnataka,Rice,2023,3.937,3.9954519271850586,XGBoost
+Coimbatore,Tamil Nadu,Rice,2023,4.025,3.494227409362793,XGBoost
+Madurai,Tamil Nadu,Rice,2023,2.161,2.436009645462036,XGBoost
+Salem,Tamil Nadu,Rice,2023,2.773,2.592503070831299,XGBoost
+Patna,Bihar,Wheat,2023,2.615,3.015151262283325,XGBoost
+Patna,Bihar,Rice,2023,3.1,2.9629499912261963,XGBoost
+Gaya,Bihar,Wheat,2023,2.546,2.857264280319214,XGBoost
+Gaya,Bihar,Rice,2023,3.569,3.509204626083374,XGBoost
+Purnia,Bihar,Wheat,2023,2.492,2.502309560775757,XGBoost
+Purnia,Bihar,Rice,2023,2.512,2.6903274059295654,XGBoost
+Raipur,Chhattisgarh,Rice,2023,2.501,2.664888381958008,XGBoost
+Bilaspur,Chhattisgarh,Rice,2023,2.559,2.9033381938934326,XGBoost
+Ludhiana,Punjab,Wheat,2024,4.764,4.0404510498046875,XGBoost
+Ludhiana,Punjab,Rice,2024,4.973,4.238035202026367,XGBoost
+Patiala,Punjab,Wheat,2024,4.294,4.047427654266357,XGBoost
+Patiala,Punjab,Rice,2024,4.509,4.118266582489014,XGBoost
+Amritsar,Punjab,Wheat,2024,5.571,4.709074974060059,XGBoost
+Amritsar,Punjab,Rice,2024,4.642,3.84956431388855,XGBoost
+Karnal,Haryana,Wheat,2024,3.392,3.3185665607452393,XGBoost
+Karnal,Haryana,Rice,2024,3.848,3.8807380199432373,XGBoost
+Hisar,Haryana,Wheat,2024,4.305,3.6258413791656494,XGBoost
+Faridabad,Haryana,Wheat,2024,4.576,4.380373477935791,XGBoost
+Jaipur,Rajasthan,Wheat,2024,2.216,2.279340982437134,XGBoost
+Kota,Rajasthan,Wheat,2024,2.651,2.2200310230255127,XGBoost
+Ajmer,Rajasthan,Wheat,2024,1.635,2.002609968185425,XGBoost
+Meerut,Uttar Pradesh,Wheat,2024,3.079,3.2414450645446777,XGBoost
+Agra,Uttar Pradesh,Wheat,2024,4.215,3.6632471084594727,XGBoost
+Kanpur,Uttar Pradesh,Wheat,2024,3.385,3.943889617919922,XGBoost
+Kanpur,Uttar Pradesh,Rice,2024,2.55,2.5737154483795166,XGBoost
+Indore,Madhya Pradesh,Wheat,2024,3.189,3.0590615272521973,XGBoost
+Bhopal,Madhya Pradesh,Wheat,2024,2.558,2.5566117763519287,XGBoost
+Ujjain,Madhya Pradesh,Wheat,2024,3.413,3.7142741680145264,XGBoost
+Nashik,Maharashtra,Wheat,2024,1.998,1.9511247873306274,XGBoost
+Pune,Maharashtra,Rice,2024,2.816,3.1789674758911133,XGBoost
+Nagpur,Maharashtra,Rice,2024,3.558,2.8146936893463135,XGBoost
+Guntur,Andhra Pradesh,Rice,2024,3.668,3.1314382553100586,XGBoost
+Kurnool,Andhra Pradesh,Rice,2024,4.005,3.407585620880127,XGBoost
+Anantapur,Andhra Pradesh,Rice,2024,2.789,2.398714065551758,XGBoost
+Mysuru,Karnataka,Rice,2024,4.309,3.5344040393829346,XGBoost
+Dharwad,Karnataka,Wheat,2024,2.706,2.9977951049804688,XGBoost
+Belagavi,Karnataka,Rice,2024,4.46,4.346243381500244,XGBoost
+Coimbatore,Tamil Nadu,Rice,2024,3.068,2.644028902053833,XGBoost
+Madurai,Tamil Nadu,Rice,2024,2.494,2.410205125808716,XGBoost
+Salem,Tamil Nadu,Rice,2024,3.197,2.8954873085021973,XGBoost
+Patna,Bihar,Wheat,2024,3.01,3.728501319885254,XGBoost
+Patna,Bihar,Rice,2024,3.541,3.321842908859253,XGBoost
+Gaya,Bihar,Wheat,2024,3.18,3.1481354236602783,XGBoost
+Gaya,Bihar,Rice,2024,2.868,2.8906571865081787,XGBoost
+Purnia,Bihar,Wheat,2024,2.792,2.6998894214630127,XGBoost
+Purnia,Bihar,Rice,2024,2.852,2.7469611167907715,XGBoost
+Raipur,Chhattisgarh,Rice,2024,2.87,2.521538257598877,XGBoost
+Bilaspur,Chhattisgarh,Rice,2024,3.026,2.754495143890381,XGBoost
+Ludhiana,Punjab,Wheat,2014,4.427,4.908398775898217,LightGBM
+Ludhiana,Punjab,Rice,2014,3.882,4.233489591785681,LightGBM
+Patiala,Punjab,Wheat,2014,4.861,5.119933095335248,LightGBM
+Patiala,Punjab,Rice,2014,3.661,4.383598383899635,LightGBM
+Amritsar,Punjab,Wheat,2014,4.492,4.965937131859011,LightGBM
+Amritsar,Punjab,Rice,2014,3.523,4.084664843712472,LightGBM
+Karnal,Haryana,Wheat,2014,4.015,4.459099562029708,LightGBM
+Karnal,Haryana,Rice,2014,3.241,3.894398400510114,LightGBM
+Hisar,Haryana,Wheat,2014,3.329,3.364345283214902,LightGBM
+Faridabad,Haryana,Wheat,2014,3.975,4.71500802184187,LightGBM
+Jaipur,Rajasthan,Wheat,2014,2.814,2.7522493493347797,LightGBM
+Kota,Rajasthan,Wheat,2014,2.888,2.571514313322468,LightGBM
+Ajmer,Rajasthan,Wheat,2014,2.265,2.5613139113290275,LightGBM
+Meerut,Uttar Pradesh,Wheat,2014,2.584,2.827069073146983,LightGBM
+Agra,Uttar Pradesh,Wheat,2014,2.606,3.0857589923950774,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2014,2.344,2.8246393286027396,LightGBM
+Kanpur,Uttar Pradesh,Rice,2014,1.868,2.603371235348835,LightGBM
+Indore,Madhya Pradesh,Wheat,2014,2.589,3.017949529454061,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2014,2.56,2.7409661917136163,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2014,2.519,2.9538736600123965,LightGBM
+Nashik,Maharashtra,Wheat,2014,1.5,1.5477056585673181,LightGBM
+Pune,Maharashtra,Rice,2014,2.245,2.573368909166951,LightGBM
+Nagpur,Maharashtra,Rice,2014,3.055,2.7045551309519413,LightGBM
+Guntur,Andhra Pradesh,Rice,2014,2.728,3.176239329165335,LightGBM
+Kurnool,Andhra Pradesh,Rice,2014,2.323,2.796484719235743,LightGBM
+Anantapur,Andhra Pradesh,Rice,2014,2.175,2.5150806263846834,LightGBM
+Mysuru,Karnataka,Rice,2014,3.326,3.3677297730915736,LightGBM
+Dharwad,Karnataka,Wheat,2014,1.645,1.7485465992796794,LightGBM
+Belagavi,Karnataka,Rice,2014,3.492,3.82565007464622,LightGBM
+Coimbatore,Tamil Nadu,Rice,2014,3.112,3.4547434767573724,LightGBM
+Madurai,Tamil Nadu,Rice,2014,2.969,2.7367730921207007,LightGBM
+Salem,Tamil Nadu,Rice,2014,3.195,4.101170883709131,LightGBM
+Patna,Bihar,Wheat,2014,2.331,2.583893675993028,LightGBM
+Patna,Bihar,Rice,2014,2.64,3.1269342158300613,LightGBM
+Gaya,Bihar,Wheat,2014,2.477,2.377141616272769,LightGBM
+Gaya,Bihar,Rice,2014,2.803,2.9729951721508474,LightGBM
+Purnia,Bihar,Wheat,2014,2.807,2.8633659462110304,LightGBM
+Purnia,Bihar,Rice,2014,2.02,2.118066185567141,LightGBM
+Raipur,Chhattisgarh,Rice,2014,2.789,2.601540297987713,LightGBM
+Bilaspur,Chhattisgarh,Rice,2014,2.832,3.007685283824898,LightGBM
+Ludhiana,Punjab,Wheat,2015,4.554,4.425704704160038,LightGBM
+Ludhiana,Punjab,Rice,2015,3.789,4.2344285682830405,LightGBM
+Patiala,Punjab,Wheat,2015,3.372,3.964442018949169,LightGBM
+Patiala,Punjab,Rice,2015,3.775,3.92600440460753,LightGBM
+Amritsar,Punjab,Wheat,2015,4.688,4.962313799138416,LightGBM
+Amritsar,Punjab,Rice,2015,3.135,3.295875611372913,LightGBM
+Karnal,Haryana,Wheat,2015,3.613,4.1356862707212105,LightGBM
+Karnal,Haryana,Rice,2015,3.437,3.8426018490568294,LightGBM
+Hisar,Haryana,Wheat,2015,3.477,3.7095860450466454,LightGBM
+Faridabad,Haryana,Wheat,2015,3.93,4.013995227807268,LightGBM
+Jaipur,Rajasthan,Wheat,2015,2.64,2.8045825703608274,LightGBM
+Kota,Rajasthan,Wheat,2015,2.451,2.836096532134081,LightGBM
+Ajmer,Rajasthan,Wheat,2015,2.224,2.6413628033538488,LightGBM
+Meerut,Uttar Pradesh,Wheat,2015,3.552,3.348181138386724,LightGBM
+Agra,Uttar Pradesh,Wheat,2015,3.853,3.6282755959876507,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2015,4.097,3.257376884128117,LightGBM
+Kanpur,Uttar Pradesh,Rice,2015,2.669,2.5323502116667775,LightGBM
+Indore,Madhya Pradesh,Wheat,2015,3.551,3.771370695752788,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2015,2.763,2.658687673515095,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2015,3.339,3.576699200666739,LightGBM
+Nashik,Maharashtra,Wheat,2015,1.497,2.2099481882811887,LightGBM
+Pune,Maharashtra,Rice,2015,2.184,2.748107809071092,LightGBM
+Nagpur,Maharashtra,Rice,2015,1.923,2.7204843138513737,LightGBM
+Guntur,Andhra Pradesh,Rice,2015,1.822,2.101743933645992,LightGBM
+Kurnool,Andhra Pradesh,Rice,2015,1.979,1.9178188049108518,LightGBM
+Anantapur,Andhra Pradesh,Rice,2015,2.625,3.0543810626745564,LightGBM
+Mysuru,Karnataka,Rice,2015,3.307,3.2943433804295337,LightGBM
+Dharwad,Karnataka,Wheat,2015,1.77,1.6610597311989912,LightGBM
+Belagavi,Karnataka,Rice,2015,4.092,3.734785529053014,LightGBM
+Coimbatore,Tamil Nadu,Rice,2015,3.644,3.2670887883976714,LightGBM
+Madurai,Tamil Nadu,Rice,2015,4.078,3.5183147026191794,LightGBM
+Salem,Tamil Nadu,Rice,2015,3.986,3.905731500410962,LightGBM
+Patna,Bihar,Wheat,2015,3.073,3.2204091258609338,LightGBM
+Patna,Bihar,Rice,2015,3.007,2.692248695544273,LightGBM
+Gaya,Bihar,Wheat,2015,3.082,3.1962462837897974,LightGBM
+Gaya,Bihar,Rice,2015,2.758,3.265460101615757,LightGBM
+Purnia,Bihar,Wheat,2015,3.093,3.4366993821938863,LightGBM
+Purnia,Bihar,Rice,2015,3.49,3.02094019493862,LightGBM
+Raipur,Chhattisgarh,Rice,2015,1.839,2.2267784334032714,LightGBM
+Bilaspur,Chhattisgarh,Rice,2015,2.437,2.6270730033895973,LightGBM
+Ludhiana,Punjab,Wheat,2016,4.015,3.9966368597476056,LightGBM
+Ludhiana,Punjab,Rice,2016,3.796,3.6509495871229096,LightGBM
+Patiala,Punjab,Wheat,2016,4.732,4.393163484675334,LightGBM
+Patiala,Punjab,Rice,2016,4.318,4.270801810841257,LightGBM
+Amritsar,Punjab,Wheat,2016,3.335,4.330094581331701,LightGBM
+Amritsar,Punjab,Rice,2016,3.991,3.9024098166605303,LightGBM
+Karnal,Haryana,Wheat,2016,3.107,3.186079502193208,LightGBM
+Karnal,Haryana,Rice,2016,3.34,3.213850004666226,LightGBM
+Hisar,Haryana,Wheat,2016,3.488,3.8952188004477195,LightGBM
+Faridabad,Haryana,Wheat,2016,4.363,3.914010149567056,LightGBM
+Jaipur,Rajasthan,Wheat,2016,2.146,2.3375294465204046,LightGBM
+Kota,Rajasthan,Wheat,2016,1.981,2.123648981160381,LightGBM
+Ajmer,Rajasthan,Wheat,2016,1.794,1.9846977359475686,LightGBM
+Meerut,Uttar Pradesh,Wheat,2016,2.466,2.6991550125789225,LightGBM
+Agra,Uttar Pradesh,Wheat,2016,2.948,2.5392473076374027,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2016,2.744,2.556644583408659,LightGBM
+Kanpur,Uttar Pradesh,Rice,2016,2.123,2.931646073892888,LightGBM
+Indore,Madhya Pradesh,Wheat,2016,2.793,2.6936231724048185,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2016,2.747,2.6713600029557933,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2016,2.637,2.670213497190631,LightGBM
+Nashik,Maharashtra,Wheat,2016,1.2,1.21349523744083,LightGBM
+Pune,Maharashtra,Rice,2016,2.261,2.6742281551507436,LightGBM
+Nagpur,Maharashtra,Rice,2016,2.373,2.642442617086582,LightGBM
+Guntur,Andhra Pradesh,Rice,2016,2.618,2.6483576247156964,LightGBM
+Kurnool,Andhra Pradesh,Rice,2016,1.945,1.9266284886033695,LightGBM
+Anantapur,Andhra Pradesh,Rice,2016,2.149,1.8002810255451565,LightGBM
+Mysuru,Karnataka,Rice,2016,3.594,3.7775294524962644,LightGBM
+Dharwad,Karnataka,Wheat,2016,2.025,1.8548242911845179,LightGBM
+Belagavi,Karnataka,Rice,2016,3.965,4.319840756960788,LightGBM
+Coimbatore,Tamil Nadu,Rice,2016,3.633,3.723035853429878,LightGBM
+Madurai,Tamil Nadu,Rice,2016,3.794,3.416928194313305,LightGBM
+Salem,Tamil Nadu,Rice,2016,3.89,3.7500861244391306,LightGBM
+Patna,Bihar,Wheat,2016,2.259,2.5943108872118508,LightGBM
+Patna,Bihar,Rice,2016,2.353,2.715835350007789,LightGBM
+Gaya,Bihar,Wheat,2016,1.752,2.0135691259781376,LightGBM
+Gaya,Bihar,Rice,2016,2.186,2.372916651962781,LightGBM
+Purnia,Bihar,Wheat,2016,1.875,2.4726564359927825,LightGBM
+Purnia,Bihar,Rice,2016,2.31,2.405333532315489,LightGBM
+Raipur,Chhattisgarh,Rice,2016,2.383,2.3138622312430845,LightGBM
+Bilaspur,Chhattisgarh,Rice,2016,2.269,2.543308094158425,LightGBM
+Ludhiana,Punjab,Wheat,2017,4.521,4.525038651027679,LightGBM
+Ludhiana,Punjab,Rice,2017,3.74,4.0665007122673025,LightGBM
+Patiala,Punjab,Wheat,2017,3.924,3.753019770746886,LightGBM
+Patiala,Punjab,Rice,2017,3.849,4.204709099099343,LightGBM
+Amritsar,Punjab,Wheat,2017,4.423,4.7926114460485385,LightGBM
+Amritsar,Punjab,Rice,2017,3.414,3.7186695244878143,LightGBM
+Karnal,Haryana,Wheat,2017,4.192,3.9395183192434713,LightGBM
+Karnal,Haryana,Rice,2017,3.345,3.6011471670539117,LightGBM
+Hisar,Haryana,Wheat,2017,4.203,3.83234235680196,LightGBM
+Faridabad,Haryana,Wheat,2017,4.638,4.227890151627305,LightGBM
+Jaipur,Rajasthan,Wheat,2017,2.6,2.4915588654180634,LightGBM
+Kota,Rajasthan,Wheat,2017,2.128,2.3930934376937185,LightGBM
+Ajmer,Rajasthan,Wheat,2017,2.555,2.329630969555166,LightGBM
+Meerut,Uttar Pradesh,Wheat,2017,2.618,2.668183433356163,LightGBM
+Agra,Uttar Pradesh,Wheat,2017,2.896,3.1915232893143117,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2017,2.417,2.338356131903531,LightGBM
+Kanpur,Uttar Pradesh,Rice,2017,2.18,2.389922716517298,LightGBM
+Indore,Madhya Pradesh,Wheat,2017,3.222,3.158637366524569,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2017,2.391,2.6524710400043108,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2017,2.962,2.775094102203502,LightGBM
+Nashik,Maharashtra,Wheat,2017,1.119,1.2447498036414877,LightGBM
+Pune,Maharashtra,Rice,2017,2.194,2.407244801782354,LightGBM
+Nagpur,Maharashtra,Rice,2017,2.904,2.7997569157832736,LightGBM
+Guntur,Andhra Pradesh,Rice,2017,2.505,2.706228473681677,LightGBM
+Kurnool,Andhra Pradesh,Rice,2017,2.55,2.16814253272772,LightGBM
+Anantapur,Andhra Pradesh,Rice,2017,3.923,3.7803824809168356,LightGBM
+Mysuru,Karnataka,Rice,2017,3.076,3.8462109850041535,LightGBM
+Dharwad,Karnataka,Wheat,2017,2.043,2.587450716351655,LightGBM
+Belagavi,Karnataka,Rice,2017,4.151,4.036639244364781,LightGBM
+Coimbatore,Tamil Nadu,Rice,2017,2.128,2.2761916474509976,LightGBM
+Madurai,Tamil Nadu,Rice,2017,3.46,4.278670811520421,LightGBM
+Salem,Tamil Nadu,Rice,2017,2.214,2.177244968620397,LightGBM
+Patna,Bihar,Wheat,2017,3.569,2.976667761317013,LightGBM
+Patna,Bihar,Rice,2017,3.314,3.65417992208544,LightGBM
+Gaya,Bihar,Wheat,2017,2.188,2.5863447076181183,LightGBM
+Gaya,Bihar,Rice,2017,3.222,3.6614307597184155,LightGBM
+Purnia,Bihar,Wheat,2017,2.527,2.5191386238291256,LightGBM
+Purnia,Bihar,Rice,2017,3.264,2.9534654056824463,LightGBM
+Raipur,Chhattisgarh,Rice,2017,2.81,3.2172802939101155,LightGBM
+Bilaspur,Chhattisgarh,Rice,2017,2.604,2.684581583607809,LightGBM
+Ludhiana,Punjab,Wheat,2018,4.907,4.395193132320773,LightGBM
+Ludhiana,Punjab,Rice,2018,4.627,3.745942788917125,LightGBM
+Patiala,Punjab,Wheat,2018,4.171,4.382964459359429,LightGBM
+Patiala,Punjab,Rice,2018,4.315,4.382094514072407,LightGBM
+Amritsar,Punjab,Wheat,2018,4.63,4.464973799853061,LightGBM
+Amritsar,Punjab,Rice,2018,3.939,3.870569706909282,LightGBM
+Karnal,Haryana,Wheat,2018,3.879,4.045254813798465,LightGBM
+Karnal,Haryana,Rice,2018,3.52,3.5460919432440807,LightGBM
+Hisar,Haryana,Wheat,2018,3.67,3.8839362886614675,LightGBM
+Faridabad,Haryana,Wheat,2018,3.899,3.8408667977465107,LightGBM
+Jaipur,Rajasthan,Wheat,2018,2.116,2.3025761550853057,LightGBM
+Kota,Rajasthan,Wheat,2018,2.602,2.685379549510669,LightGBM
+Ajmer,Rajasthan,Wheat,2018,1.958,2.081769755734873,LightGBM
+Meerut,Uttar Pradesh,Wheat,2018,2.686,2.571496494472014,LightGBM
+Agra,Uttar Pradesh,Wheat,2018,3.756,3.7574770067609653,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2018,3.059,3.4536425650261147,LightGBM
+Kanpur,Uttar Pradesh,Rice,2018,2.71,2.8150024502380266,LightGBM
+Indore,Madhya Pradesh,Wheat,2018,2.886,2.963600181713867,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2018,2.509,2.590090416413476,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2018,3.121,2.8557896652107213,LightGBM
+Nashik,Maharashtra,Wheat,2018,1.756,1.9047579182515837,LightGBM
+Pune,Maharashtra,Rice,2018,2.292,2.623195885083676,LightGBM
+Nagpur,Maharashtra,Rice,2018,2.762,2.821357396522368,LightGBM
+Guntur,Andhra Pradesh,Rice,2018,3.361,2.8894423611941527,LightGBM
+Kurnool,Andhra Pradesh,Rice,2018,2.947,2.7302459843266855,LightGBM
+Anantapur,Andhra Pradesh,Rice,2018,3.414,3.2920557819393954,LightGBM
+Mysuru,Karnataka,Rice,2018,3.627,4.081776437195179,LightGBM
+Dharwad,Karnataka,Wheat,2018,1.39,1.8532035578814323,LightGBM
+Belagavi,Karnataka,Rice,2018,4.27,4.052620731508099,LightGBM
+Coimbatore,Tamil Nadu,Rice,2018,2.932,2.975341563615896,LightGBM
+Madurai,Tamil Nadu,Rice,2018,3.496,3.641021942653229,LightGBM
+Salem,Tamil Nadu,Rice,2018,2.249,2.2352093853800605,LightGBM
+Patna,Bihar,Wheat,2018,2.719,2.2385743525948967,LightGBM
+Patna,Bihar,Rice,2018,3.87,2.8079989926009823,LightGBM
+Gaya,Bihar,Wheat,2018,2.93,2.3761034906401726,LightGBM
+Gaya,Bihar,Rice,2018,2.929,3.097896900999826,LightGBM
+Purnia,Bihar,Wheat,2018,2.392,1.896074606904552,LightGBM
+Purnia,Bihar,Rice,2018,2.914,2.694367518324132,LightGBM
+Raipur,Chhattisgarh,Rice,2018,2.746,2.663326507252995,LightGBM
+Bilaspur,Chhattisgarh,Rice,2018,2.816,2.53627205338896,LightGBM
+Ludhiana,Punjab,Wheat,2019,4.989,5.0394708294870005,LightGBM
+Ludhiana,Punjab,Rice,2019,4.726,4.728798511836894,LightGBM
+Patiala,Punjab,Wheat,2019,5.249,4.878195351769861,LightGBM
+Patiala,Punjab,Rice,2019,3.95,3.939335089414917,LightGBM
+Amritsar,Punjab,Wheat,2019,5.458,4.689696893981124,LightGBM
+Amritsar,Punjab,Rice,2019,3.907,3.9332563011322774,LightGBM
+Karnal,Haryana,Wheat,2019,3.893,3.413971674618116,LightGBM
+Karnal,Haryana,Rice,2019,3.139,3.865383601874826,LightGBM
+Hisar,Haryana,Wheat,2019,3.323,3.5387546953669635,LightGBM
+Faridabad,Haryana,Wheat,2019,4.641,3.969596487740996,LightGBM
+Jaipur,Rajasthan,Wheat,2019,2.092,2.0969928177188195,LightGBM
+Kota,Rajasthan,Wheat,2019,2.634,2.800962808740963,LightGBM
+Ajmer,Rajasthan,Wheat,2019,1.71,1.9170540221667434,LightGBM
+Meerut,Uttar Pradesh,Wheat,2019,3.875,3.512514931425642,LightGBM
+Agra,Uttar Pradesh,Wheat,2019,3.668,2.9649805083522316,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2019,2.647,2.390180947615739,LightGBM
+Kanpur,Uttar Pradesh,Rice,2019,2.58,2.490257493245274,LightGBM
+Indore,Madhya Pradesh,Wheat,2019,3.35,3.1689497643366464,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2019,3.125,3.1360431679705942,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2019,3.456,2.779695068193325,LightGBM
+Nashik,Maharashtra,Wheat,2019,1.031,1.2538517328885472,LightGBM
+Pune,Maharashtra,Rice,2019,2.679,2.5521150996633724,LightGBM
+Nagpur,Maharashtra,Rice,2019,2.725,3.087413591959916,LightGBM
+Guntur,Andhra Pradesh,Rice,2019,2.531,2.5536336922521095,LightGBM
+Kurnool,Andhra Pradesh,Rice,2019,3.557,3.8676531720660643,LightGBM
+Anantapur,Andhra Pradesh,Rice,2019,3.324,3.5457638209540203,LightGBM
+Mysuru,Karnataka,Rice,2019,4.001,3.0991298965318843,LightGBM
+Dharwad,Karnataka,Wheat,2019,2.534,2.2108826013518104,LightGBM
+Belagavi,Karnataka,Rice,2019,4.016,3.8111689468626864,LightGBM
+Coimbatore,Tamil Nadu,Rice,2019,3.911,4.439447966686951,LightGBM
+Madurai,Tamil Nadu,Rice,2019,2.337,2.547593743411175,LightGBM
+Salem,Tamil Nadu,Rice,2019,3.225,3.3348186864112326,LightGBM
+Patna,Bihar,Wheat,2019,2.757,2.8405098327812883,LightGBM
+Patna,Bihar,Rice,2019,3.415,3.0699022200545074,LightGBM
+Gaya,Bihar,Wheat,2019,2.775,2.7601728924046904,LightGBM
+Gaya,Bihar,Rice,2019,3.627,3.146699357837279,LightGBM
+Purnia,Bihar,Wheat,2019,2.586,2.4204056062629378,LightGBM
+Purnia,Bihar,Rice,2019,2.951,2.2837156926112256,LightGBM
+Raipur,Chhattisgarh,Rice,2019,1.996,2.5952891945551344,LightGBM
+Bilaspur,Chhattisgarh,Rice,2019,2.1,2.3756951216449846,LightGBM
+Ludhiana,Punjab,Wheat,2020,4.72,4.557988926526943,LightGBM
+Ludhiana,Punjab,Rice,2020,4.484,4.617682952656388,LightGBM
+Patiala,Punjab,Wheat,2020,4.321,4.904988570058784,LightGBM
+Patiala,Punjab,Rice,2020,4.028,3.9853575396641694,LightGBM
+Amritsar,Punjab,Wheat,2020,5.13,5.27676246548057,LightGBM
+Amritsar,Punjab,Rice,2020,4.033,3.6596526286567155,LightGBM
+Karnal,Haryana,Wheat,2020,4.398,4.352791145865588,LightGBM
+Karnal,Haryana,Rice,2020,3.51,3.2651834069446517,LightGBM
+Hisar,Haryana,Wheat,2020,4.044,3.6609854698341873,LightGBM
+Faridabad,Haryana,Wheat,2020,4.017,4.554248275144476,LightGBM
+Jaipur,Rajasthan,Wheat,2020,2.482,2.104283302368659,LightGBM
+Kota,Rajasthan,Wheat,2020,2.63,2.376821759875149,LightGBM
+Ajmer,Rajasthan,Wheat,2020,2.194,2.23058678467073,LightGBM
+Meerut,Uttar Pradesh,Wheat,2020,3.318,3.5163126456273934,LightGBM
+Agra,Uttar Pradesh,Wheat,2020,3.415,3.2790786119741355,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2020,2.878,2.5957198274742805,LightGBM
+Kanpur,Uttar Pradesh,Rice,2020,2.961,3.1288395820630646,LightGBM
+Indore,Madhya Pradesh,Wheat,2020,3.338,3.292300486340357,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2020,2.362,2.468435806904985,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2020,3.327,3.2134775005446223,LightGBM
+Nashik,Maharashtra,Wheat,2020,1.82,1.5338011932588957,LightGBM
+Pune,Maharashtra,Rice,2020,2.443,2.256535561120084,LightGBM
+Nagpur,Maharashtra,Rice,2020,3.192,2.618805862682748,LightGBM
+Guntur,Andhra Pradesh,Rice,2020,2.081,2.383047528759404,LightGBM
+Kurnool,Andhra Pradesh,Rice,2020,3.706,3.10371957902495,LightGBM
+Anantapur,Andhra Pradesh,Rice,2020,3.339,3.6975752434223907,LightGBM
+Mysuru,Karnataka,Rice,2020,3.749,3.753141656698355,LightGBM
+Dharwad,Karnataka,Wheat,2020,2.521,2.146273309515932,LightGBM
+Belagavi,Karnataka,Rice,2020,3.971,4.105842639626318,LightGBM
+Coimbatore,Tamil Nadu,Rice,2020,4.629,3.7276932354577887,LightGBM
+Madurai,Tamil Nadu,Rice,2020,4.623,3.854304974503019,LightGBM
+Salem,Tamil Nadu,Rice,2020,2.598,3.170798168088436,LightGBM
+Patna,Bihar,Wheat,2020,2.767,2.5337490937661533,LightGBM
+Patna,Bihar,Rice,2020,3.366,3.0170606207837767,LightGBM
+Gaya,Bihar,Wheat,2020,2.988,2.825747407604374,LightGBM
+Gaya,Bihar,Rice,2020,3.167,2.858381457896664,LightGBM
+Purnia,Bihar,Wheat,2020,2.88,3.2186818336710714,LightGBM
+Purnia,Bihar,Rice,2020,2.822,2.718295330403258,LightGBM
+Raipur,Chhattisgarh,Rice,2020,2.069,2.7356000338480935,LightGBM
+Bilaspur,Chhattisgarh,Rice,2020,2.189,2.270466707823133,LightGBM
+Ludhiana,Punjab,Wheat,2021,5.457,4.844050675852343,LightGBM
+Ludhiana,Punjab,Rice,2021,4.427,4.050932804010754,LightGBM
+Patiala,Punjab,Wheat,2021,5.561,4.578926300409432,LightGBM
+Patiala,Punjab,Rice,2021,4.711,4.0904457472954645,LightGBM
+Amritsar,Punjab,Wheat,2021,4.74,4.797180052007829,LightGBM
+Amritsar,Punjab,Rice,2021,4.131,4.070990119412925,LightGBM
+Karnal,Haryana,Wheat,2021,3.973,3.6251000575911827,LightGBM
+Karnal,Haryana,Rice,2021,3.935,4.045558309026024,LightGBM
+Hisar,Haryana,Wheat,2021,3.945,3.586570460163915,LightGBM
+Faridabad,Haryana,Wheat,2021,4.41,4.1939905881016,LightGBM
+Jaipur,Rajasthan,Wheat,2021,2.196,2.2892744581894835,LightGBM
+Kota,Rajasthan,Wheat,2021,2.722,2.51999849816897,LightGBM
+Ajmer,Rajasthan,Wheat,2021,2.864,2.5793742007510683,LightGBM
+Meerut,Uttar Pradesh,Wheat,2021,2.593,2.5807939294494946,LightGBM
+Agra,Uttar Pradesh,Wheat,2021,2.629,2.354581298156235,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2021,2.556,2.9114580574107616,LightGBM
+Kanpur,Uttar Pradesh,Rice,2021,1.989,2.492221602145385,LightGBM
+Indore,Madhya Pradesh,Wheat,2021,2.488,2.57296593678955,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2021,2.719,2.757214206844666,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2021,2.165,2.2557325167365736,LightGBM
+Nashik,Maharashtra,Wheat,2021,1.684,1.777602601397445,LightGBM
+Pune,Maharashtra,Rice,2021,2.901,2.8721252151772467,LightGBM
+Nagpur,Maharashtra,Rice,2021,2.898,2.943921277117169,LightGBM
+Guntur,Andhra Pradesh,Rice,2021,3.293,3.3102779667746067,LightGBM
+Kurnool,Andhra Pradesh,Rice,2021,3.252,2.6912629313880045,LightGBM
+Anantapur,Andhra Pradesh,Rice,2021,2.14,2.283524212190893,LightGBM
+Mysuru,Karnataka,Rice,2021,3.503,3.3895001679167254,LightGBM
+Dharwad,Karnataka,Wheat,2021,1.867,2.6147228414112162,LightGBM
+Belagavi,Karnataka,Rice,2021,4.273,4.1157446063823055,LightGBM
+Coimbatore,Tamil Nadu,Rice,2021,3.091,2.425926176351731,LightGBM
+Madurai,Tamil Nadu,Rice,2021,3.005,2.8502434836421466,LightGBM
+Salem,Tamil Nadu,Rice,2021,2.972,2.995172246831909,LightGBM
+Patna,Bihar,Wheat,2021,2.814,2.8493532259402725,LightGBM
+Patna,Bihar,Rice,2021,2.74,2.8237519677945655,LightGBM
+Gaya,Bihar,Wheat,2021,2.567,2.620856421370179,LightGBM
+Gaya,Bihar,Rice,2021,2.941,2.903295602144176,LightGBM
+Purnia,Bihar,Wheat,2021,2.929,2.917221895312176,LightGBM
+Purnia,Bihar,Rice,2021,2.648,3.1163447936845468,LightGBM
+Raipur,Chhattisgarh,Rice,2021,2.8,3.0381636206070164,LightGBM
+Bilaspur,Chhattisgarh,Rice,2021,2.412,2.9726059451141347,LightGBM
+Ludhiana,Punjab,Wheat,2022,4.606,3.6472321334651756,LightGBM
+Ludhiana,Punjab,Rice,2022,4.95,3.66004326220259,LightGBM
+Patiala,Punjab,Wheat,2022,4.095,3.3870087866070926,LightGBM
+Patiala,Punjab,Rice,2022,4.889,4.211222922566088,LightGBM
+Amritsar,Punjab,Wheat,2022,3.743,3.397254318046418,LightGBM
+Amritsar,Punjab,Rice,2022,4.34,3.1966358969396587,LightGBM
+Karnal,Haryana,Wheat,2022,3.321,3.314388622255148,LightGBM
+Karnal,Haryana,Rice,2022,3.941,3.083449992444753,LightGBM
+Hisar,Haryana,Wheat,2022,3.401,3.6510935778504248,LightGBM
+Faridabad,Haryana,Wheat,2022,3.799,3.7343593845271768,LightGBM
+Jaipur,Rajasthan,Wheat,2022,1.574,1.4328835990300621,LightGBM
+Kota,Rajasthan,Wheat,2022,1.682,1.8747061477027103,LightGBM
+Ajmer,Rajasthan,Wheat,2022,2.017,1.884231069834482,LightGBM
+Meerut,Uttar Pradesh,Wheat,2022,2.283,2.1436684718166577,LightGBM
+Agra,Uttar Pradesh,Wheat,2022,2.299,2.3260238305082397,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2022,2.571,2.2363257897611395,LightGBM
+Kanpur,Uttar Pradesh,Rice,2022,2.356,2.3798109882453327,LightGBM
+Indore,Madhya Pradesh,Wheat,2022,2.488,2.4948665864934485,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2022,2.178,1.9497247241043851,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2022,1.933,1.5776847103104483,LightGBM
+Nashik,Maharashtra,Wheat,2022,0.848,1.0962212950429044,LightGBM
+Pune,Maharashtra,Rice,2022,2.519,2.6367571952274593,LightGBM
+Nagpur,Maharashtra,Rice,2022,3.114,3.3377026136570023,LightGBM
+Guntur,Andhra Pradesh,Rice,2022,3.292,3.029535975803563,LightGBM
+Kurnool,Andhra Pradesh,Rice,2022,2.448,2.279344480623982,LightGBM
+Anantapur,Andhra Pradesh,Rice,2022,1.907,2.1442794228218727,LightGBM
+Mysuru,Karnataka,Rice,2022,3.886,3.598684051643846,LightGBM
+Dharwad,Karnataka,Wheat,2022,1.4,1.55967902852458,LightGBM
+Belagavi,Karnataka,Rice,2022,4.415,3.9185732385989973,LightGBM
+Coimbatore,Tamil Nadu,Rice,2022,3.942,2.9932643075410557,LightGBM
+Madurai,Tamil Nadu,Rice,2022,4.072,3.664008122954479,LightGBM
+Salem,Tamil Nadu,Rice,2022,4.249,3.8527052479882853,LightGBM
+Patna,Bihar,Wheat,2022,2.008,1.7285710263436154,LightGBM
+Patna,Bihar,Rice,2022,3.422,3.4714419246251738,LightGBM
+Gaya,Bihar,Wheat,2022,2.132,2.234774217388727,LightGBM
+Gaya,Bihar,Rice,2022,3.183,3.2200884576341493,LightGBM
+Purnia,Bihar,Wheat,2022,1.863,1.790976570241614,LightGBM
+Purnia,Bihar,Rice,2022,3.238,3.3569910129348197,LightGBM
+Raipur,Chhattisgarh,Rice,2022,2.44,2.874122749784546,LightGBM
+Bilaspur,Chhattisgarh,Rice,2022,2.457,2.608260214041605,LightGBM
+Ludhiana,Punjab,Wheat,2023,3.779,3.930576430078334,LightGBM
+Ludhiana,Punjab,Rice,2023,4.85,4.416033272388838,LightGBM
+Patiala,Punjab,Wheat,2023,3.853,4.244289105605829,LightGBM
+Patiala,Punjab,Rice,2023,3.771,4.200043023104114,LightGBM
+Amritsar,Punjab,Wheat,2023,4.928,4.461378767542836,LightGBM
+Amritsar,Punjab,Rice,2023,4.027,3.993659486067234,LightGBM
+Karnal,Haryana,Wheat,2023,2.573,3.120206415040905,LightGBM
+Karnal,Haryana,Rice,2023,3.652,3.5943527592612896,LightGBM
+Hisar,Haryana,Wheat,2023,2.756,3.7119646669337456,LightGBM
+Faridabad,Haryana,Wheat,2023,4.174,4.255535487458064,LightGBM
+Jaipur,Rajasthan,Wheat,2023,2.542,2.7627558055818255,LightGBM
+Kota,Rajasthan,Wheat,2023,2.046,1.9709540786009303,LightGBM
+Ajmer,Rajasthan,Wheat,2023,1.911,2.309146331787262,LightGBM
+Meerut,Uttar Pradesh,Wheat,2023,2.481,2.56553206268163,LightGBM
+Agra,Uttar Pradesh,Wheat,2023,2.837,2.609181819795266,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2023,3.496,3.558996061154679,LightGBM
+Kanpur,Uttar Pradesh,Rice,2023,2.617,2.9578670122023203,LightGBM
+Indore,Madhya Pradesh,Wheat,2023,3.162,2.9106020885800006,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2023,3.207,3.224001371834669,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2023,2.743,3.1986155076244316,LightGBM
+Nashik,Maharashtra,Wheat,2023,1.181,1.470183368911291,LightGBM
+Pune,Maharashtra,Rice,2023,1.947,2.5479060902813138,LightGBM
+Nagpur,Maharashtra,Rice,2023,2.858,2.7107971907791466,LightGBM
+Guntur,Andhra Pradesh,Rice,2023,2.742,3.0531318344936453,LightGBM
+Kurnool,Andhra Pradesh,Rice,2023,3.459,3.3484454838970454,LightGBM
+Anantapur,Andhra Pradesh,Rice,2023,1.854,2.104186704240923,LightGBM
+Mysuru,Karnataka,Rice,2023,3.397,3.471750527645741,LightGBM
+Dharwad,Karnataka,Wheat,2023,1.721,1.8179233539811963,LightGBM
+Belagavi,Karnataka,Rice,2023,3.937,4.051445600830027,LightGBM
+Coimbatore,Tamil Nadu,Rice,2023,4.025,3.490509528868704,LightGBM
+Madurai,Tamil Nadu,Rice,2023,2.161,2.4436260271202173,LightGBM
+Salem,Tamil Nadu,Rice,2023,2.773,2.7131985311809426,LightGBM
+Patna,Bihar,Wheat,2023,2.615,2.9434065820957525,LightGBM
+Patna,Bihar,Rice,2023,3.1,2.965803910549499,LightGBM
+Gaya,Bihar,Wheat,2023,2.546,2.858438258081259,LightGBM
+Gaya,Bihar,Rice,2023,3.569,3.4780408710609882,LightGBM
+Purnia,Bihar,Wheat,2023,2.492,2.516592734261398,LightGBM
+Purnia,Bihar,Rice,2023,2.512,2.616784177528699,LightGBM
+Raipur,Chhattisgarh,Rice,2023,2.501,2.7487340333542747,LightGBM
+Bilaspur,Chhattisgarh,Rice,2023,2.559,2.8559973541086725,LightGBM
+Ludhiana,Punjab,Wheat,2024,4.764,4.278795295806704,LightGBM
+Ludhiana,Punjab,Rice,2024,4.973,4.192896514345605,LightGBM
+Patiala,Punjab,Wheat,2024,4.294,3.9517932586476516,LightGBM
+Patiala,Punjab,Rice,2024,4.509,4.2844429815480245,LightGBM
+Amritsar,Punjab,Wheat,2024,5.571,4.875677612703946,LightGBM
+Amritsar,Punjab,Rice,2024,4.642,3.789444295076132,LightGBM
+Karnal,Haryana,Wheat,2024,3.392,3.1381056706951354,LightGBM
+Karnal,Haryana,Rice,2024,3.848,3.843564733065238,LightGBM
+Hisar,Haryana,Wheat,2024,4.305,3.6950750269615105,LightGBM
+Faridabad,Haryana,Wheat,2024,4.576,4.267810149466531,LightGBM
+Jaipur,Rajasthan,Wheat,2024,2.216,2.3143506875941693,LightGBM
+Kota,Rajasthan,Wheat,2024,2.651,2.216917758908087,LightGBM
+Ajmer,Rajasthan,Wheat,2024,1.635,1.9548312706429107,LightGBM
+Meerut,Uttar Pradesh,Wheat,2024,3.079,3.168626273837301,LightGBM
+Agra,Uttar Pradesh,Wheat,2024,4.215,3.962039322862761,LightGBM
+Kanpur,Uttar Pradesh,Wheat,2024,3.385,4.121811952615206,LightGBM
+Kanpur,Uttar Pradesh,Rice,2024,2.55,2.5822016019996745,LightGBM
+Indore,Madhya Pradesh,Wheat,2024,3.189,3.223598343324054,LightGBM
+Bhopal,Madhya Pradesh,Wheat,2024,2.558,2.480823122044811,LightGBM
+Ujjain,Madhya Pradesh,Wheat,2024,3.413,3.7372158750476796,LightGBM
+Nashik,Maharashtra,Wheat,2024,1.998,1.9253469266660685,LightGBM
+Pune,Maharashtra,Rice,2024,2.816,3.079748270541059,LightGBM
+Nagpur,Maharashtra,Rice,2024,3.558,2.792043478021698,LightGBM
+Guntur,Andhra Pradesh,Rice,2024,3.668,3.1412375329907127,LightGBM
+Kurnool,Andhra Pradesh,Rice,2024,4.005,3.458481885722078,LightGBM
+Anantapur,Andhra Pradesh,Rice,2024,2.789,2.3255822956325383,LightGBM
+Mysuru,Karnataka,Rice,2024,4.309,3.4949736450284754,LightGBM
+Dharwad,Karnataka,Wheat,2024,2.706,3.0546351712883624,LightGBM
+Belagavi,Karnataka,Rice,2024,4.46,4.524495009616217,LightGBM
+Coimbatore,Tamil Nadu,Rice,2024,3.068,2.6245574779619987,LightGBM
+Madurai,Tamil Nadu,Rice,2024,2.494,2.3107310573402096,LightGBM
+Salem,Tamil Nadu,Rice,2024,3.197,2.8357621745196697,LightGBM
+Patna,Bihar,Wheat,2024,3.01,3.6982742282628696,LightGBM
+Patna,Bihar,Rice,2024,3.541,3.4106539917852383,LightGBM
+Gaya,Bihar,Wheat,2024,3.18,3.2094215194149047,LightGBM
+Gaya,Bihar,Rice,2024,2.868,2.8136124439287897,LightGBM
+Purnia,Bihar,Wheat,2024,2.792,2.682972724673429,LightGBM
+Purnia,Bihar,Rice,2024,2.852,2.7152930602202057,LightGBM
+Raipur,Chhattisgarh,Rice,2024,2.87,2.438581403437169,LightGBM
+Bilaspur,Chhattisgarh,Rice,2024,3.026,2.702780532480032,LightGBM
+Ludhiana,Punjab,Wheat,2014,4.427,4.700066955936193,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2014,3.882,3.5276777706780984,Neural Net (MLP)
+Patiala,Punjab,Wheat,2014,4.861,5.157706035000419,Neural Net (MLP)
+Patiala,Punjab,Rice,2014,3.661,4.110655149294994,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2014,4.492,4.971341610073336,Neural Net (MLP)
+Amritsar,Punjab,Rice,2014,3.523,4.264974268036618,Neural Net (MLP)
+Karnal,Haryana,Wheat,2014,4.015,4.754706267488475,Neural Net (MLP)
+Karnal,Haryana,Rice,2014,3.241,3.9989018672343932,Neural Net (MLP)
+Hisar,Haryana,Wheat,2014,3.329,3.218812501647568,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2014,3.975,4.564347373637751,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2014,2.814,3.000846641066405,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2014,2.888,2.48755523006886,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2014,2.265,2.690150979305731,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2014,2.584,3.261747750668826,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2014,2.606,3.3517577295493006,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2014,2.344,2.626197789014675,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2014,1.868,2.941744076682435,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2014,2.589,2.6362841525067675,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2014,2.56,2.5379985292945557,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2014,2.519,2.996349314643628,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2014,1.5,1.5357181677060063,Neural Net (MLP)
+Pune,Maharashtra,Rice,2014,2.245,3.043249152798409,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2014,3.055,3.1321478235166516,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2014,2.728,2.9226639223547006,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2014,2.323,2.6173941933257723,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2014,2.175,2.667575704957444,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2014,3.326,3.404605361044906,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2014,1.645,1.6176928182361463,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2014,3.492,4.165397674376942,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2014,3.112,3.461917609728646,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2014,2.969,2.7954676270772696,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2014,3.195,3.690105791855981,Neural Net (MLP)
+Patna,Bihar,Wheat,2014,2.331,2.8213379468450612,Neural Net (MLP)
+Patna,Bihar,Rice,2014,2.64,2.68537021825743,Neural Net (MLP)
+Gaya,Bihar,Wheat,2014,2.477,2.2063902743574095,Neural Net (MLP)
+Gaya,Bihar,Rice,2014,2.803,3.149715952539757,Neural Net (MLP)
+Purnia,Bihar,Wheat,2014,2.807,3.0148934700746253,Neural Net (MLP)
+Purnia,Bihar,Rice,2014,2.02,2.2113555909293234,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2014,2.789,2.7261538026429184,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2014,2.832,3.190959431947819,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2015,4.554,3.9699822556670785,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2015,3.789,4.737380020763472,Neural Net (MLP)
+Patiala,Punjab,Wheat,2015,3.372,3.469867269512704,Neural Net (MLP)
+Patiala,Punjab,Rice,2015,3.775,4.286393422853619,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2015,4.688,4.956546915435077,Neural Net (MLP)
+Amritsar,Punjab,Rice,2015,3.135,3.676691017742789,Neural Net (MLP)
+Karnal,Haryana,Wheat,2015,3.613,3.7954184547497416,Neural Net (MLP)
+Karnal,Haryana,Rice,2015,3.437,3.670327966307678,Neural Net (MLP)
+Hisar,Haryana,Wheat,2015,3.477,3.1850348048215222,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2015,3.93,3.327175819858022,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2015,2.64,2.9968431222054606,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2015,2.451,2.8087624644916573,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2015,2.224,2.770131814870031,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2015,3.552,3.1882683863684216,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2015,3.853,3.287516410292134,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2015,4.097,2.9689357924689386,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2015,2.669,2.6279197145113664,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2015,3.551,3.617923666821805,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2015,2.763,2.6435002436895836,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2015,3.339,3.678617111718341,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2015,1.497,2.0867362996988654,Neural Net (MLP)
+Pune,Maharashtra,Rice,2015,2.184,2.781258562586127,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2015,1.923,3.2468484019476165,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2015,1.822,2.1452237727635155,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2015,1.979,1.8727242035898026,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2015,2.625,3.246668381832702,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2015,3.307,2.962657886599243,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2015,1.77,1.435661060803397,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2015,4.092,4.005423196574497,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2015,3.644,3.2064960614554465,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2015,4.078,3.72218028083454,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2015,3.986,3.798382116795624,Neural Net (MLP)
+Patna,Bihar,Wheat,2015,3.073,3.1831309195557522,Neural Net (MLP)
+Patna,Bihar,Rice,2015,3.007,2.607840843656174,Neural Net (MLP)
+Gaya,Bihar,Wheat,2015,3.082,2.9702641712075546,Neural Net (MLP)
+Gaya,Bihar,Rice,2015,2.758,3.4176344226274584,Neural Net (MLP)
+Purnia,Bihar,Wheat,2015,3.093,3.3212533154131867,Neural Net (MLP)
+Purnia,Bihar,Rice,2015,3.49,2.9687795769142102,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2015,1.839,2.4048449614839162,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2015,2.437,2.5521588173089085,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2016,4.015,3.489391703010193,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2016,3.796,3.4136931728054414,Neural Net (MLP)
+Patiala,Punjab,Wheat,2016,4.732,4.350562241284171,Neural Net (MLP)
+Patiala,Punjab,Rice,2016,4.318,4.169362406227824,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2016,3.335,3.9460317763297073,Neural Net (MLP)
+Amritsar,Punjab,Rice,2016,3.991,4.22124764445795,Neural Net (MLP)
+Karnal,Haryana,Wheat,2016,3.107,2.8979612708723885,Neural Net (MLP)
+Karnal,Haryana,Rice,2016,3.34,3.665243875571839,Neural Net (MLP)
+Hisar,Haryana,Wheat,2016,3.488,3.586881622306074,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2016,4.363,3.5416936338358367,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2016,2.146,2.3109552030239207,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2016,1.981,1.8085047736078583,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2016,1.794,2.155381251389511,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2016,2.466,2.6190246346155104,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2016,2.948,2.3569851393076813,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2016,2.744,2.480059549718465,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2016,2.123,2.6695520595551043,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2016,2.793,2.631895537651622,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2016,2.747,2.5183161574366753,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2016,2.637,2.593673946546912,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2016,1.2,1.3525171525977369,Neural Net (MLP)
+Pune,Maharashtra,Rice,2016,2.261,2.8294848742846397,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2016,2.373,2.7683413714702416,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2016,2.618,2.8211742976496823,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2016,1.945,1.8082189016852488,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2016,2.149,2.3615489254681186,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2016,3.594,3.2372504702446525,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2016,2.025,1.6801122702876055,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2016,3.965,4.270799907066415,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2016,3.633,3.235498986796145,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2016,3.794,3.9903968989569103,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2016,3.89,3.8085619124648096,Neural Net (MLP)
+Patna,Bihar,Wheat,2016,2.259,2.627189405772656,Neural Net (MLP)
+Patna,Bihar,Rice,2016,2.353,2.321390288636419,Neural Net (MLP)
+Gaya,Bihar,Wheat,2016,1.752,1.9676350015424653,Neural Net (MLP)
+Gaya,Bihar,Rice,2016,2.186,2.4900144205451613,Neural Net (MLP)
+Purnia,Bihar,Wheat,2016,1.875,2.68196758431174,Neural Net (MLP)
+Purnia,Bihar,Rice,2016,2.31,2.4614503350648507,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2016,2.383,2.9377151232528247,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2016,2.269,2.5926881551393173,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2017,4.521,4.3197578500294,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2017,3.74,4.159156597568555,Neural Net (MLP)
+Patiala,Punjab,Wheat,2017,3.924,3.962128764194348,Neural Net (MLP)
+Patiala,Punjab,Rice,2017,3.849,3.7118227222143565,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2017,4.423,5.210889156060857,Neural Net (MLP)
+Amritsar,Punjab,Rice,2017,3.414,3.579043828389072,Neural Net (MLP)
+Karnal,Haryana,Wheat,2017,4.192,3.3782245644195914,Neural Net (MLP)
+Karnal,Haryana,Rice,2017,3.345,3.685330330795006,Neural Net (MLP)
+Hisar,Haryana,Wheat,2017,4.203,4.152068206900898,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2017,4.638,4.116041311822068,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2017,2.6,2.5909954834015623,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2017,2.128,2.1007928560533315,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2017,2.555,2.434723464779649,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2017,2.618,2.480744738502148,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2017,2.896,2.9441079748728565,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2017,2.417,2.2894673787991136,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2017,2.18,2.433331163866851,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2017,3.222,2.839219560944665,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2017,2.391,2.5619797976749394,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2017,2.962,2.635062930108971,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2017,1.119,0.8878573575711639,Neural Net (MLP)
+Pune,Maharashtra,Rice,2017,2.194,2.7413185393549475,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2017,2.904,3.0901434661024036,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2017,2.505,3.018375252664298,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2017,2.55,1.7776105549403536,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2017,3.923,3.9297670280919696,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2017,3.076,3.757042491784117,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2017,2.043,1.6271146927288203,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2017,4.151,4.4200876704495595,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2017,2.128,2.2914272763305648,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2017,3.46,4.392672585489289,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2017,2.214,2.6049618152081533,Neural Net (MLP)
+Patna,Bihar,Wheat,2017,3.569,3.3942563997915265,Neural Net (MLP)
+Patna,Bihar,Rice,2017,3.314,3.241098524120279,Neural Net (MLP)
+Gaya,Bihar,Wheat,2017,2.188,2.5773109402633603,Neural Net (MLP)
+Gaya,Bihar,Rice,2017,3.222,3.4889523723823532,Neural Net (MLP)
+Purnia,Bihar,Wheat,2017,2.527,2.750619861707627,Neural Net (MLP)
+Purnia,Bihar,Rice,2017,3.264,2.9264571571303404,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2017,2.81,3.033982860815766,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2017,2.604,2.8027854276570943,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2018,4.907,4.4426318876163915,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2018,4.627,3.7827010242347483,Neural Net (MLP)
+Patiala,Punjab,Wheat,2018,4.171,4.349102244504804,Neural Net (MLP)
+Patiala,Punjab,Rice,2018,4.315,4.8156132845633035,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2018,4.63,5.131179831921292,Neural Net (MLP)
+Amritsar,Punjab,Rice,2018,3.939,4.149415804469568,Neural Net (MLP)
+Karnal,Haryana,Wheat,2018,3.879,4.233117081992262,Neural Net (MLP)
+Karnal,Haryana,Rice,2018,3.52,3.61316512048708,Neural Net (MLP)
+Hisar,Haryana,Wheat,2018,3.67,3.9805557301827457,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2018,3.899,3.7554909674230625,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2018,2.116,1.9484277407479782,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2018,2.602,2.8237749853093597,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2018,1.958,1.6070446693873408,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2018,2.686,2.2171011749765785,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2018,3.756,3.8523291231550623,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2018,3.059,3.196183718052916,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2018,2.71,2.599993881866634,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2018,2.886,3.18969982042821,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2018,2.509,2.465408204412784,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2018,3.121,3.0591660575986475,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2018,1.756,2.143826961045677,Neural Net (MLP)
+Pune,Maharashtra,Rice,2018,2.292,2.531503480545607,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2018,2.762,3.196112532188385,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2018,3.361,3.0035154281807395,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2018,2.947,2.956221518768958,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2018,3.414,3.0597929261955685,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2018,3.627,3.8792611641757193,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2018,1.39,2.0166047227401016,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2018,4.27,4.037084985207135,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2018,2.932,2.947175776198226,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2018,3.496,3.860062543259369,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2018,2.249,2.126838292575372,Neural Net (MLP)
+Patna,Bihar,Wheat,2018,2.719,2.3420189140616055,Neural Net (MLP)
+Patna,Bihar,Rice,2018,3.87,2.6958295570982385,Neural Net (MLP)
+Gaya,Bihar,Wheat,2018,2.93,2.8075856692151167,Neural Net (MLP)
+Gaya,Bihar,Rice,2018,2.929,3.4656210623254333,Neural Net (MLP)
+Purnia,Bihar,Wheat,2018,2.392,2.547269580071341,Neural Net (MLP)
+Purnia,Bihar,Rice,2018,2.914,3.0908686490640145,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2018,2.746,2.6122418746407052,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2018,2.816,2.7705529816619285,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2019,4.989,5.195025585783759,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2019,4.726,4.383036592585203,Neural Net (MLP)
+Patiala,Punjab,Wheat,2019,5.249,5.62044744974867,Neural Net (MLP)
+Patiala,Punjab,Rice,2019,3.95,3.8380710489837386,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2019,5.458,4.588787172337795,Neural Net (MLP)
+Amritsar,Punjab,Rice,2019,3.907,4.10987197073184,Neural Net (MLP)
+Karnal,Haryana,Wheat,2019,3.893,3.3895761096293184,Neural Net (MLP)
+Karnal,Haryana,Rice,2019,3.139,3.70673538989978,Neural Net (MLP)
+Hisar,Haryana,Wheat,2019,3.323,3.9641467452683408,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2019,4.641,4.589289210346303,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2019,2.092,2.296857613419227,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2019,2.634,2.481978928594201,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2019,1.71,1.9972679876518193,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2019,3.875,3.59155616910041,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2019,3.668,3.0809068324619,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2019,2.647,2.7829642804660573,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2019,2.58,2.2528869573343595,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2019,3.35,3.1729995216097713,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2019,3.125,3.1850112464741303,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2019,3.456,3.0863155189422766,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2019,1.031,1.4184436560470002,Neural Net (MLP)
+Pune,Maharashtra,Rice,2019,2.679,2.242057262900504,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2019,2.725,3.22298264815105,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2019,2.531,1.9140808234294862,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2019,3.557,3.880575139822284,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2019,3.324,3.297353460019057,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2019,4.001,2.9146280743403374,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2019,2.534,2.114600160901358,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2019,4.016,4.004159170981687,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2019,3.911,4.200149454218857,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2019,2.337,2.2348181957217332,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2019,3.225,3.1506564823049303,Neural Net (MLP)
+Patna,Bihar,Wheat,2019,2.757,2.7662531174971807,Neural Net (MLP)
+Patna,Bihar,Rice,2019,3.415,3.120761208801772,Neural Net (MLP)
+Gaya,Bihar,Wheat,2019,2.775,3.040800254628956,Neural Net (MLP)
+Gaya,Bihar,Rice,2019,3.627,3.638004847327232,Neural Net (MLP)
+Purnia,Bihar,Wheat,2019,2.586,2.1562008095583973,Neural Net (MLP)
+Purnia,Bihar,Rice,2019,2.951,2.478914141349496,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2019,1.996,2.66953557039987,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2019,2.1,2.490069011817533,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2020,4.72,4.9466714918982015,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2020,4.484,3.963079541213062,Neural Net (MLP)
+Patiala,Punjab,Wheat,2020,4.321,4.583450447158397,Neural Net (MLP)
+Patiala,Punjab,Rice,2020,4.028,3.9171993321780283,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2020,5.13,5.207529729829268,Neural Net (MLP)
+Amritsar,Punjab,Rice,2020,4.033,3.4111686593142845,Neural Net (MLP)
+Karnal,Haryana,Wheat,2020,4.398,4.568533023924544,Neural Net (MLP)
+Karnal,Haryana,Rice,2020,3.51,3.1449132552168937,Neural Net (MLP)
+Hisar,Haryana,Wheat,2020,4.044,3.3839792749901463,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2020,4.017,4.408012664560935,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2020,2.482,2.4435482050649884,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2020,2.63,2.3331170504771466,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2020,2.194,2.3305430289990916,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2020,3.318,3.622434872441899,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2020,3.415,3.552137189877705,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2020,2.878,2.440094563264646,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2020,2.961,3.0120924075713686,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2020,3.338,3.068160802559965,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2020,2.362,2.550473369287304,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2020,3.327,3.0757932071985863,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2020,1.82,1.592131011149537,Neural Net (MLP)
+Pune,Maharashtra,Rice,2020,2.443,2.3581632106478545,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2020,3.192,2.2937794322690794,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2020,2.081,2.386900117932455,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2020,3.706,2.8432455869705793,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2020,3.339,3.345055327596421,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2020,3.749,3.748448734345308,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2020,2.521,2.334727146589568,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2020,3.971,4.161237089185874,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2020,4.629,3.8769603760229043,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2020,4.623,4.0253871235023615,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2020,2.598,2.9371868819109554,Neural Net (MLP)
+Patna,Bihar,Wheat,2020,2.767,2.6389432523551504,Neural Net (MLP)
+Patna,Bihar,Rice,2020,3.366,2.8679569953096564,Neural Net (MLP)
+Gaya,Bihar,Wheat,2020,2.988,3.2989953702819994,Neural Net (MLP)
+Gaya,Bihar,Rice,2020,3.167,3.4869246316075384,Neural Net (MLP)
+Purnia,Bihar,Wheat,2020,2.88,3.5704417292209483,Neural Net (MLP)
+Purnia,Bihar,Rice,2020,2.822,3.1508050321306715,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2020,2.069,2.4188459738001096,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2020,2.189,2.411070799938091,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2021,5.457,5.400518533740771,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2021,4.427,4.1798906521602,Neural Net (MLP)
+Patiala,Punjab,Wheat,2021,5.561,5.140151622344554,Neural Net (MLP)
+Patiala,Punjab,Rice,2021,4.711,4.044001478564075,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2021,4.74,4.856319465076953,Neural Net (MLP)
+Amritsar,Punjab,Rice,2021,4.131,4.1793252335109665,Neural Net (MLP)
+Karnal,Haryana,Wheat,2021,3.973,3.3691772976329766,Neural Net (MLP)
+Karnal,Haryana,Rice,2021,3.935,4.3834057580061625,Neural Net (MLP)
+Hisar,Haryana,Wheat,2021,3.945,4.062042886402307,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2021,4.41,4.210924074257401,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2021,2.196,2.231909451996595,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2021,2.722,2.3748618030884985,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2021,2.864,2.865250193392907,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2021,2.593,2.5933644028318543,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2021,2.629,2.4667508294447003,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2021,2.556,2.9618468238358515,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2021,1.989,2.4559106674635465,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2021,2.488,2.474685828209852,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2021,2.719,2.71155088291351,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2021,2.165,1.9060535603671438,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2021,1.684,1.8142798660150126,Neural Net (MLP)
+Pune,Maharashtra,Rice,2021,2.901,2.806504353684733,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2021,2.898,3.232040916873384,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2021,3.293,3.178913599470128,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2021,3.252,2.6561135357014933,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2021,2.14,2.180661613488826,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2021,3.503,3.6727381198606466,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2021,1.867,2.3098175810583723,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2021,4.273,4.228846014863403,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2021,3.091,2.281152440084619,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2021,3.005,2.775885760362728,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2021,2.972,2.9461283940905694,Neural Net (MLP)
+Patna,Bihar,Wheat,2021,2.814,2.541808340419941,Neural Net (MLP)
+Patna,Bihar,Rice,2021,2.74,2.2620182082628952,Neural Net (MLP)
+Gaya,Bihar,Wheat,2021,2.567,2.8013360539235865,Neural Net (MLP)
+Gaya,Bihar,Rice,2021,2.941,2.8161368288925037,Neural Net (MLP)
+Purnia,Bihar,Wheat,2021,2.929,3.000172062682678,Neural Net (MLP)
+Purnia,Bihar,Rice,2021,2.648,3.0107832189902686,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2021,2.8,2.9991647144742295,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2021,2.412,3.406774075903125,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2022,4.606,3.5817821208231084,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2022,4.95,3.2953417122219437,Neural Net (MLP)
+Patiala,Punjab,Wheat,2022,4.095,3.618897261496535,Neural Net (MLP)
+Patiala,Punjab,Rice,2022,4.889,4.629409955736205,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2022,3.743,3.6665758387051373,Neural Net (MLP)
+Amritsar,Punjab,Rice,2022,4.34,3.37430922334419,Neural Net (MLP)
+Karnal,Haryana,Wheat,2022,3.321,2.9115726267928315,Neural Net (MLP)
+Karnal,Haryana,Rice,2022,3.941,3.1599355048966613,Neural Net (MLP)
+Hisar,Haryana,Wheat,2022,3.401,3.209960454563239,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2022,3.799,3.878293053398267,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2022,1.574,2.033068729393045,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2022,1.682,1.9735990604162346,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2022,2.017,1.8438320649224655,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2022,2.283,2.335286837787544,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2022,2.299,1.9213346505519575,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2022,2.571,2.103566918545283,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2022,2.356,2.0922620337997015,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2022,2.488,2.0508775698114876,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2022,2.178,2.063121843410355,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2022,1.933,1.433007718183759,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2022,0.848,1.5102167921708578,Neural Net (MLP)
+Pune,Maharashtra,Rice,2022,2.519,2.553819717204269,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2022,3.114,3.6232922150367552,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2022,3.292,3.1391604190479554,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2022,2.448,2.111016311732571,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2022,1.907,2.1638499433866927,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2022,3.886,3.5436319842517348,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2022,1.4,1.3841224970380617,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2022,4.415,3.6765279526249466,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2022,3.942,2.825537854209743,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2022,4.072,3.5380526262503813,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2022,4.249,4.015541226444411,Neural Net (MLP)
+Patna,Bihar,Wheat,2022,2.008,2.231108545229975,Neural Net (MLP)
+Patna,Bihar,Rice,2022,3.422,3.6521158476456743,Neural Net (MLP)
+Gaya,Bihar,Wheat,2022,2.132,2.4867107911890702,Neural Net (MLP)
+Gaya,Bihar,Rice,2022,3.183,3.3950935158793456,Neural Net (MLP)
+Purnia,Bihar,Wheat,2022,1.863,2.051171227703139,Neural Net (MLP)
+Purnia,Bihar,Rice,2022,3.238,3.2848890270222277,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2022,2.44,3.1218501099220646,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2022,2.457,2.6531144889371405,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2023,3.779,4.2174257767218,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2023,4.85,4.550981904509882,Neural Net (MLP)
+Patiala,Punjab,Wheat,2023,3.853,4.176230932302563,Neural Net (MLP)
+Patiala,Punjab,Rice,2023,3.771,3.7298027955218007,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2023,4.928,5.041694026346979,Neural Net (MLP)
+Amritsar,Punjab,Rice,2023,4.027,4.095640158421915,Neural Net (MLP)
+Karnal,Haryana,Wheat,2023,2.573,3.2342748817491964,Neural Net (MLP)
+Karnal,Haryana,Rice,2023,3.652,3.6884816405722107,Neural Net (MLP)
+Hisar,Haryana,Wheat,2023,2.756,3.886481559732127,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2023,4.174,4.331479144270466,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2023,2.542,3.070519154412075,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2023,2.046,1.6347616897533734,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2023,1.911,2.388847032826259,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2023,2.481,2.7907668352617456,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2023,2.837,2.7079590727430674,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2023,3.496,3.3851932288782116,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2023,2.617,3.172390394435741,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2023,3.162,2.9141403170096387,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2023,3.207,3.13985467135753,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2023,2.743,2.8011957715540206,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2023,1.181,1.2937537832148605,Neural Net (MLP)
+Pune,Maharashtra,Rice,2023,1.947,2.340215736268373,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2023,2.858,2.903187999949175,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2023,2.742,3.341731489651674,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2023,3.459,3.356545308820256,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2023,1.854,1.5435544387757076,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2023,3.397,3.1284645578283268,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2023,1.721,1.873990535387182,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2023,3.937,3.923788668102614,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2023,4.025,3.248274544180636,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2023,2.161,2.3311076062214893,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2023,2.773,3.1172444074851793,Neural Net (MLP)
+Patna,Bihar,Wheat,2023,2.615,2.708859318182019,Neural Net (MLP)
+Patna,Bihar,Rice,2023,3.1,3.0947850695358303,Neural Net (MLP)
+Gaya,Bihar,Wheat,2023,2.546,2.7525537366314135,Neural Net (MLP)
+Gaya,Bihar,Rice,2023,3.569,3.3059888750557933,Neural Net (MLP)
+Purnia,Bihar,Wheat,2023,2.492,2.5423090148866754,Neural Net (MLP)
+Purnia,Bihar,Rice,2023,2.512,2.4452519893346834,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2023,2.501,2.6727107706226265,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2023,2.559,2.9785764704336355,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2024,4.764,4.474337005788455,Neural Net (MLP)
+Ludhiana,Punjab,Rice,2024,4.973,3.978919125477402,Neural Net (MLP)
+Patiala,Punjab,Wheat,2024,4.294,3.531276734203076,Neural Net (MLP)
+Patiala,Punjab,Rice,2024,4.509,4.318352145630879,Neural Net (MLP)
+Amritsar,Punjab,Wheat,2024,5.571,5.065359478017702,Neural Net (MLP)
+Amritsar,Punjab,Rice,2024,4.642,4.0226139660871665,Neural Net (MLP)
+Karnal,Haryana,Wheat,2024,3.392,3.2167030561845316,Neural Net (MLP)
+Karnal,Haryana,Rice,2024,3.848,3.8888014172799648,Neural Net (MLP)
+Hisar,Haryana,Wheat,2024,4.305,3.7430114092479956,Neural Net (MLP)
+Faridabad,Haryana,Wheat,2024,4.576,4.0545609619370495,Neural Net (MLP)
+Jaipur,Rajasthan,Wheat,2024,2.216,2.3438466510176057,Neural Net (MLP)
+Kota,Rajasthan,Wheat,2024,2.651,2.077590729235147,Neural Net (MLP)
+Ajmer,Rajasthan,Wheat,2024,1.635,1.8916892730803418,Neural Net (MLP)
+Meerut,Uttar Pradesh,Wheat,2024,3.079,3.3221932346965644,Neural Net (MLP)
+Agra,Uttar Pradesh,Wheat,2024,4.215,4.034290028296298,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Wheat,2024,3.385,3.8686572989833716,Neural Net (MLP)
+Kanpur,Uttar Pradesh,Rice,2024,2.55,2.4127707856348053,Neural Net (MLP)
+Indore,Madhya Pradesh,Wheat,2024,3.189,2.8795789838534565,Neural Net (MLP)
+Bhopal,Madhya Pradesh,Wheat,2024,2.558,2.6950654056527976,Neural Net (MLP)
+Ujjain,Madhya Pradesh,Wheat,2024,3.413,3.496897514154532,Neural Net (MLP)
+Nashik,Maharashtra,Wheat,2024,1.998,2.2521348367319303,Neural Net (MLP)
+Pune,Maharashtra,Rice,2024,2.816,2.931553109014576,Neural Net (MLP)
+Nagpur,Maharashtra,Rice,2024,3.558,2.629942111740075,Neural Net (MLP)
+Guntur,Andhra Pradesh,Rice,2024,3.668,3.138124068535772,Neural Net (MLP)
+Kurnool,Andhra Pradesh,Rice,2024,4.005,3.151376855037771,Neural Net (MLP)
+Anantapur,Andhra Pradesh,Rice,2024,2.789,1.9002118326981312,Neural Net (MLP)
+Mysuru,Karnataka,Rice,2024,4.309,3.7402268238271703,Neural Net (MLP)
+Dharwad,Karnataka,Wheat,2024,2.706,1.9002630785611767,Neural Net (MLP)
+Belagavi,Karnataka,Rice,2024,4.46,4.469923689987407,Neural Net (MLP)
+Coimbatore,Tamil Nadu,Rice,2024,3.068,2.5953097463654276,Neural Net (MLP)
+Madurai,Tamil Nadu,Rice,2024,2.494,2.1337681274587075,Neural Net (MLP)
+Salem,Tamil Nadu,Rice,2024,3.197,2.918857409314031,Neural Net (MLP)
+Patna,Bihar,Wheat,2024,3.01,3.806347787851008,Neural Net (MLP)
+Patna,Bihar,Rice,2024,3.541,3.3955060712865737,Neural Net (MLP)
+Gaya,Bihar,Wheat,2024,3.18,3.294934103328913,Neural Net (MLP)
+Gaya,Bihar,Rice,2024,2.868,2.8082348200575686,Neural Net (MLP)
+Purnia,Bihar,Wheat,2024,2.792,2.6999846790422106,Neural Net (MLP)
+Purnia,Bihar,Rice,2024,2.852,2.8407269578508596,Neural Net (MLP)
+Raipur,Chhattisgarh,Rice,2024,2.87,2.342545666826919,Neural Net (MLP)
+Bilaspur,Chhattisgarh,Rice,2024,3.026,3.334544958716419,Neural Net (MLP)
+Ludhiana,Punjab,Wheat,2014,4.427,4.781670292191553,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2014,3.882,4.267185202417938,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2014,4.861,4.957809923484153,Late Fusion (stacked)
+Patiala,Punjab,Rice,2014,3.661,4.3354621545621175,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2014,4.492,5.262344358789199,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2014,3.523,4.361025683178155,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2014,4.015,4.558769130175612,Late Fusion (stacked)
+Karnal,Haryana,Rice,2014,3.241,3.8288902237007605,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2014,3.329,3.377039032406434,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2014,3.975,4.778950871529438,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2014,2.814,2.7398436418883896,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2014,2.888,2.4825175690797705,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2014,2.265,2.7523082687409235,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2014,2.584,2.6181015833900654,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2014,2.606,3.080922631566401,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2014,2.344,2.8847190843778434,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2014,1.868,2.7889869838685915,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2014,2.589,2.7188738320111043,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2014,2.56,2.848742459600229,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2014,2.519,3.007705763184471,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2014,1.5,1.3201805206149804,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2014,2.245,2.9191262111551852,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2014,3.055,3.0776132743838067,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2014,2.728,3.6139675611117266,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2014,2.323,2.6815214676337082,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2014,2.175,2.5624495985261966,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2014,3.326,3.5602303391799692,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2014,1.645,1.7683853741576505,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2014,3.492,3.795609364704127,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2014,3.112,3.750734154367146,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2014,2.969,2.869275934900616,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2014,3.195,4.194426543612672,Late Fusion (stacked)
+Patna,Bihar,Wheat,2014,2.331,2.465033435393698,Late Fusion (stacked)
+Patna,Bihar,Rice,2014,2.64,3.19205169660845,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2014,2.477,2.1765919754546204,Late Fusion (stacked)
+Gaya,Bihar,Rice,2014,2.803,3.019757375792881,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2014,2.807,2.7288392002810484,Late Fusion (stacked)
+Purnia,Bihar,Rice,2014,2.02,2.2543570410436384,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2014,2.789,2.722834507573013,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2014,2.832,2.9140103168633287,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2015,4.554,4.461433143590192,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2015,3.789,4.52865504808511,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2015,3.372,4.091235759234861,Late Fusion (stacked)
+Patiala,Punjab,Rice,2015,3.775,4.008152652151131,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2015,4.688,5.214586426414995,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2015,3.135,3.404427018201712,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2015,3.613,4.1195214119119665,Late Fusion (stacked)
+Karnal,Haryana,Rice,2015,3.437,3.9651126282694102,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2015,3.477,3.7354759372931055,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2015,3.93,4.039968323417844,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2015,2.64,2.7703372801423014,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2015,2.451,3.058856138666222,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2015,2.224,2.8266181113609243,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2015,3.552,3.1079366742741437,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2015,3.853,3.386785865237541,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2015,4.097,3.099755908619266,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2015,2.669,2.725286295577389,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2015,3.551,3.2243771901235583,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2015,2.763,2.8289391663056205,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2015,3.339,3.255258981238262,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2015,1.497,2.0316646789132493,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2015,2.184,2.7839334324588094,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2015,1.923,2.9452641679218012,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2015,1.822,2.5259765576056887,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2015,1.979,2.0912766480157954,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2015,2.625,3.2115506005071213,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2015,3.307,3.2999719942960506,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2015,1.77,1.6162353739347641,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2015,4.092,3.422704943041668,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2015,3.644,3.316958184439775,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2015,4.078,3.3784344243779834,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2015,3.986,3.303152171749907,Late Fusion (stacked)
+Patna,Bihar,Wheat,2015,3.073,3.2941565905379586,Late Fusion (stacked)
+Patna,Bihar,Rice,2015,3.007,2.700691053626982,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2015,3.082,2.8813058920956562,Late Fusion (stacked)
+Gaya,Bihar,Rice,2015,2.758,3.186826057869279,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2015,3.093,3.238559218484376,Late Fusion (stacked)
+Purnia,Bihar,Rice,2015,3.49,2.8608470407626845,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2015,1.839,2.288095232157285,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2015,2.437,2.7233942194425698,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2016,4.015,4.0002094931743075,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2016,3.796,3.6946642804188343,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2016,4.732,4.614119063984643,Late Fusion (stacked)
+Patiala,Punjab,Rice,2016,4.318,4.413116901423161,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2016,3.335,4.552594614339631,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2016,3.991,3.931729383220854,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2016,3.107,3.643555015685129,Late Fusion (stacked)
+Karnal,Haryana,Rice,2016,3.34,3.4014331916423295,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2016,3.488,3.8166883289405726,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2016,4.363,3.437057658050521,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2016,2.146,2.3644721340798345,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2016,1.981,2.6342728059070133,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2016,1.794,2.2329605537145794,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2016,2.466,2.7556658876144025,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2016,2.948,2.574940700577918,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2016,2.744,2.7653280890933774,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2016,2.123,3.0865718034525558,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2016,2.793,2.7315534393647307,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2016,2.747,2.822325891300162,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2016,2.637,2.6382758842774092,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2016,1.2,1.1819754284271098,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2016,2.261,3.052510731671907,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2016,2.373,2.7348924303877475,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2016,2.618,2.9083340496060073,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2016,1.945,2.09196068526607,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2016,2.149,2.0660819593680744,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2016,3.594,3.7574659176646135,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2016,2.025,2.073517542826634,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2016,3.965,4.115505414401985,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2016,3.633,3.5684811316869833,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2016,3.794,3.6250230763828295,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2016,3.89,3.6750223174608143,Late Fusion (stacked)
+Patna,Bihar,Wheat,2016,2.259,2.662206944286329,Late Fusion (stacked)
+Patna,Bihar,Rice,2016,2.353,2.7686413463244417,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2016,1.752,2.2188299692003186,Late Fusion (stacked)
+Gaya,Bihar,Rice,2016,2.186,2.3973440669557444,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2016,1.875,2.2670904595776236,Late Fusion (stacked)
+Purnia,Bihar,Rice,2016,2.31,2.3559820848676267,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2016,2.383,2.3852375253712585,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2016,2.269,2.5161763733044555,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2017,4.521,4.310931415729227,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2017,3.74,4.116133350411781,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2017,3.924,3.9560982276381504,Late Fusion (stacked)
+Patiala,Punjab,Rice,2017,3.849,4.206821189179605,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2017,4.423,5.108326692434309,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2017,3.414,3.4757473609510656,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2017,4.192,3.745232288567451,Late Fusion (stacked)
+Karnal,Haryana,Rice,2017,3.345,3.594461653414958,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2017,4.203,3.809736829185409,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2017,4.638,4.368210241916623,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2017,2.6,2.5886574306159438,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2017,2.128,2.44793551618103,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2017,2.555,2.678749880437142,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2017,2.618,2.666666333511146,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2017,2.896,2.6858294716714584,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2017,2.417,2.2517953070220638,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2017,2.18,2.72595783334685,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2017,3.222,3.09930849810602,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2017,2.391,2.7323788845105175,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2017,2.962,2.7011035937478014,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2017,1.119,1.0976273521887716,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2017,2.194,2.6356669270469117,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2017,2.904,2.881169940808496,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2017,2.505,2.7831142018648207,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2017,2.55,2.355722608116751,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2017,3.923,3.7178529150394826,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2017,3.076,3.7029376357586457,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2017,2.043,2.523072060398174,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2017,4.151,3.91591468604002,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2017,2.128,2.326823598001763,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2017,3.46,4.08299120672358,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2017,2.214,2.703066313338072,Late Fusion (stacked)
+Patna,Bihar,Wheat,2017,3.569,2.845724633823076,Late Fusion (stacked)
+Patna,Bihar,Rice,2017,3.314,3.507356061865279,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2017,2.188,2.55224660063481,Late Fusion (stacked)
+Gaya,Bihar,Rice,2017,3.222,3.2875069720513217,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2017,2.527,2.3888046655335984,Late Fusion (stacked)
+Purnia,Bihar,Rice,2017,3.264,3.1298060793609968,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2017,2.81,3.2856667892159037,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2017,2.604,2.46323696908217,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2018,4.907,4.183259914153466,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2018,4.627,3.9257052641293546,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2018,4.171,4.69121121932382,Late Fusion (stacked)
+Patiala,Punjab,Rice,2018,4.315,4.360206395951642,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2018,4.63,4.470832335399492,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2018,3.939,4.1123252164180455,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2018,3.879,4.300647626077687,Late Fusion (stacked)
+Karnal,Haryana,Rice,2018,3.52,3.861635499525298,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2018,3.67,3.705135306638115,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2018,3.899,3.6047351452310297,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2018,2.116,2.5103511548402593,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2018,2.602,2.8187448565953357,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2018,1.958,2.43352519694925,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2018,2.686,2.409584312029544,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2018,3.756,3.4517778153854075,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2018,3.059,3.440251087540669,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2018,2.71,2.902371041992535,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2018,2.886,2.7669167674057573,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2018,2.509,2.4166502344425007,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2018,3.121,2.587611711652649,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2018,1.756,1.7423372289311114,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2018,2.292,2.797115773568829,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2018,2.762,2.467323101369855,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2018,3.361,2.8315593718977055,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2018,2.947,2.8947375417992047,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2018,3.414,3.0114808047587935,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2018,3.627,3.7779410314620696,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2018,1.39,2.1911049924369324,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2018,4.27,3.9983126889865606,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2018,2.932,3.076074954434863,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2018,3.496,3.5847231688409753,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2018,2.249,2.192666085124561,Late Fusion (stacked)
+Patna,Bihar,Wheat,2018,2.719,2.220198787062685,Late Fusion (stacked)
+Patna,Bihar,Rice,2018,3.87,3.0936680098823226,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2018,2.93,2.459764975407521,Late Fusion (stacked)
+Gaya,Bihar,Rice,2018,2.929,3.192147997619002,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2018,2.392,1.8349443987134588,Late Fusion (stacked)
+Purnia,Bihar,Rice,2018,2.914,2.7468168127827286,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2018,2.746,2.7116486717163304,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2018,2.816,2.8364621430180215,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2019,4.989,5.02610586978597,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2019,4.726,4.1070262623173415,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2019,5.249,4.984149767034718,Late Fusion (stacked)
+Patiala,Punjab,Rice,2019,3.95,3.9404831758145207,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2019,5.458,4.741430765426129,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2019,3.907,3.911567700789165,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2019,3.893,3.494740403442257,Late Fusion (stacked)
+Karnal,Haryana,Rice,2019,3.139,3.785175665027774,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2019,3.323,3.787555046828307,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2019,4.641,4.1978168017591075,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2019,2.092,2.3027347871192014,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2019,2.634,2.7974336134750617,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2019,1.71,2.209532795981863,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2019,3.875,2.9970062990730493,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2019,3.668,3.0489618558545644,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2019,2.647,2.4977629567465485,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2019,2.58,2.732506683215216,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2019,3.35,2.858028698096434,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2019,3.125,3.1783512762673043,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2019,3.456,2.832678376771622,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2019,1.031,1.0867685444820838,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2019,2.679,2.6698606632687736,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2019,2.725,3.048377002450388,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2019,2.531,2.4537137266124063,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2019,3.557,3.3204737203658325,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2019,3.324,3.1518682813087766,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2019,4.001,3.20431063847958,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2019,2.534,2.0039864204576525,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2019,4.016,3.5975017488981367,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2019,3.911,4.2814634864154355,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2019,2.337,2.632953601368463,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2019,3.225,3.1084103346120235,Late Fusion (stacked)
+Patna,Bihar,Wheat,2019,2.757,2.415159008569969,Late Fusion (stacked)
+Patna,Bihar,Rice,2019,3.415,2.9482569392252804,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2019,2.775,2.662501733088087,Late Fusion (stacked)
+Gaya,Bihar,Rice,2019,3.627,3.080834890498887,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2019,2.586,2.2185081223749745,Late Fusion (stacked)
+Purnia,Bihar,Rice,2019,2.951,2.672926184898582,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2019,1.996,2.6955811150510107,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2019,2.1,2.3233540095516165,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2020,4.72,4.548956829720049,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2020,4.484,4.339474653689025,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2020,4.321,4.810484856800642,Late Fusion (stacked)
+Patiala,Punjab,Rice,2020,4.028,3.5674799437906155,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2020,5.13,5.114878831250301,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2020,4.033,3.664980000974608,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2020,4.398,4.639962492370474,Late Fusion (stacked)
+Karnal,Haryana,Rice,2020,3.51,3.319008093028433,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2020,4.044,3.947673847388094,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2020,4.017,4.492541884314087,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2020,2.482,2.158787487223531,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2020,2.63,2.7409790264400082,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2020,2.194,2.5770934229064952,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2020,3.318,3.2103597866407165,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2020,3.415,3.264554145897506,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2020,2.878,2.563764305951672,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2020,2.961,3.1900939584613686,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2020,3.338,2.9713210218425945,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2020,2.362,2.366209807398889,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2020,3.327,3.0159877182828247,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2020,1.82,1.5127062744774276,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2020,2.443,2.331739137523374,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2020,3.192,2.687685292874762,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2020,2.081,2.1975100579285765,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2020,3.706,3.170845847664721,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2020,3.339,3.1725240026061794,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2020,3.749,3.7248714288107285,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2020,2.521,1.967867860535629,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2020,3.971,3.9688262430116454,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2020,4.629,3.915732812580848,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2020,4.623,3.7551144176937488,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2020,2.598,3.4329087267214557,Late Fusion (stacked)
+Patna,Bihar,Wheat,2020,2.767,2.5561305773630565,Late Fusion (stacked)
+Patna,Bihar,Rice,2020,3.366,2.8669691424031107,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2020,2.988,2.6949300798165265,Late Fusion (stacked)
+Gaya,Bihar,Rice,2020,3.167,2.8741021293777314,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2020,2.88,2.9371823417599123,Late Fusion (stacked)
+Purnia,Bihar,Rice,2020,2.822,2.849169598861914,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2020,2.069,2.790676565636446,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2020,2.189,2.3305461292762004,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2021,5.457,4.61819356883657,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2021,4.427,4.040027419435069,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2021,5.561,4.733204047629714,Late Fusion (stacked)
+Patiala,Punjab,Rice,2021,4.711,4.400904407491479,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2021,4.74,4.948465310337308,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2021,4.131,3.91215568784002,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2021,3.973,3.642062503961985,Late Fusion (stacked)
+Karnal,Haryana,Rice,2021,3.935,3.7842256982295543,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2021,3.945,3.8263576324909296,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2021,4.41,4.577322960940897,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2021,2.196,2.24663705843676,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2021,2.722,2.759788937009721,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2021,2.864,2.8923873987358633,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2021,2.593,2.665570537742607,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2021,2.629,2.480166264114184,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2021,2.556,2.601946139083811,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2021,1.989,2.480123218306321,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2021,2.488,2.602670934169626,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2021,2.719,2.729264403971,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2021,2.165,2.141487385945876,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2021,1.684,1.8066329376448014,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2021,2.901,2.8588765200381863,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2021,2.898,3.241673653009881,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2021,3.293,3.2916687481366123,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2021,3.252,2.763924674232929,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2021,2.14,2.1751340447341407,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2021,3.503,3.0768137086462573,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2021,1.867,2.4635487991496405,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2021,4.273,3.837520923641107,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2021,3.091,2.5822615653173777,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2021,3.005,2.9555416878661513,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2021,2.972,3.3839013529443185,Late Fusion (stacked)
+Patna,Bihar,Wheat,2021,2.814,2.4751235931456717,Late Fusion (stacked)
+Patna,Bihar,Rice,2021,2.74,2.4623844788960794,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2021,2.567,2.479659881905047,Late Fusion (stacked)
+Gaya,Bihar,Rice,2021,2.941,2.8049573861546593,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2021,2.929,2.7165626083151113,Late Fusion (stacked)
+Purnia,Bihar,Rice,2021,2.648,2.913723977188939,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2021,2.8,3.1543524872902635,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2021,2.412,3.1180681116964912,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2022,4.606,3.828873952570848,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2022,4.95,3.7191383938595606,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2022,4.095,3.6389571919961843,Late Fusion (stacked)
+Patiala,Punjab,Rice,2022,4.889,4.162056493425382,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2022,3.743,3.5570734075152,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2022,4.34,3.1153320133200157,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2022,3.321,3.2685571036581744,Late Fusion (stacked)
+Karnal,Haryana,Rice,2022,3.941,3.2639360269238162,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2022,3.401,3.8752605534831424,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2022,3.799,3.693680475211232,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2022,1.574,1.7073988010045889,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2022,1.682,1.847251342932755,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2022,2.017,2.1730138372287278,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2022,2.283,2.306097379689813,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2022,2.299,2.4090943443081443,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2022,2.571,2.1508084100819107,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2022,2.356,2.4646109984695084,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2022,2.488,2.338662598688167,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2022,2.178,2.109720337536993,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2022,1.933,2.1260204598462424,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2022,0.848,1.1676801845696374,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2022,2.519,2.891978566383064,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2022,3.114,3.058718034860904,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2022,3.292,2.775957489603652,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2022,2.448,2.4267784649589896,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2022,1.907,2.3456918148008623,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2022,3.886,3.5703171563873246,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2022,1.4,1.6894649825788197,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2022,4.415,3.9644148433859585,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2022,3.942,2.929390357685936,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2022,4.072,3.5555515001999773,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2022,4.249,3.904900636747722,Late Fusion (stacked)
+Patna,Bihar,Wheat,2022,2.008,1.9315179153522357,Late Fusion (stacked)
+Patna,Bihar,Rice,2022,3.422,3.191888668656074,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2022,2.132,2.2319712982986943,Late Fusion (stacked)
+Gaya,Bihar,Rice,2022,3.183,3.119322590749048,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2022,1.863,1.9236648732901371,Late Fusion (stacked)
+Purnia,Bihar,Rice,2022,3.238,3.2710705870151724,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2022,2.44,2.760249787943678,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2022,2.457,2.7922191179824227,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2023,3.779,4.245354027333725,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2023,4.85,4.524497920235552,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2023,3.853,4.398464171737505,Late Fusion (stacked)
+Patiala,Punjab,Rice,2023,3.771,4.406833523983418,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2023,4.928,4.70765721027694,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2023,4.027,4.029454660028229,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2023,2.573,3.4944369730682316,Late Fusion (stacked)
+Karnal,Haryana,Rice,2023,3.652,3.894313807607416,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2023,2.756,3.912881325838092,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2023,4.174,4.299371955895739,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2023,2.542,2.8146088430734526,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2023,2.046,1.9339836296997874,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2023,1.911,2.5916987585909554,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2023,2.481,2.432722627614849,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2023,2.837,2.7227294005999214,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2023,3.496,3.3744241031182414,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2023,2.617,2.9280026082991517,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2023,3.162,2.711554287284091,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2023,3.207,2.9936851753631455,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2023,2.743,3.1959281029817603,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2023,1.181,1.4966330005407997,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2023,1.947,2.8018716128930956,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2023,2.858,2.866558476146175,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2023,2.742,2.8420145963636574,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2023,3.459,3.4536107008309456,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2023,1.854,2.314200644229438,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2023,3.397,3.2013945603176253,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2023,1.721,1.5808119439067423,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2023,3.937,4.0363548329621555,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2023,4.025,3.5088880534471465,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2023,2.161,2.605148351286518,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2023,2.773,3.236676461040795,Late Fusion (stacked)
+Patna,Bihar,Wheat,2023,2.615,2.6630125823357593,Late Fusion (stacked)
+Patna,Bihar,Rice,2023,3.1,3.1122106836188577,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2023,2.546,2.7313271678849387,Late Fusion (stacked)
+Gaya,Bihar,Rice,2023,3.569,3.269274326230783,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2023,2.492,2.362467340518449,Late Fusion (stacked)
+Purnia,Bihar,Rice,2023,2.512,2.8693473582203284,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2023,2.501,2.9509044579321,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2023,2.559,2.9177381217118317,Late Fusion (stacked)
+Ludhiana,Punjab,Wheat,2024,4.764,4.504678389384603,Late Fusion (stacked)
+Ludhiana,Punjab,Rice,2024,4.973,4.152448389525279,Late Fusion (stacked)
+Patiala,Punjab,Wheat,2024,4.294,4.356482059974811,Late Fusion (stacked)
+Patiala,Punjab,Rice,2024,4.509,4.065986445429353,Late Fusion (stacked)
+Amritsar,Punjab,Wheat,2024,5.571,4.83230854333757,Late Fusion (stacked)
+Amritsar,Punjab,Rice,2024,4.642,3.9537244556882407,Late Fusion (stacked)
+Karnal,Haryana,Wheat,2024,3.392,3.2189623746570257,Late Fusion (stacked)
+Karnal,Haryana,Rice,2024,3.848,3.7464782090347506,Late Fusion (stacked)
+Hisar,Haryana,Wheat,2024,4.305,4.129398898306775,Late Fusion (stacked)
+Faridabad,Haryana,Wheat,2024,4.576,4.369301240103262,Late Fusion (stacked)
+Jaipur,Rajasthan,Wheat,2024,2.216,2.389405496909468,Late Fusion (stacked)
+Kota,Rajasthan,Wheat,2024,2.651,2.4793193131740376,Late Fusion (stacked)
+Ajmer,Rajasthan,Wheat,2024,1.635,2.163894574226877,Late Fusion (stacked)
+Meerut,Uttar Pradesh,Wheat,2024,3.079,3.1854313971167767,Late Fusion (stacked)
+Agra,Uttar Pradesh,Wheat,2024,4.215,3.5793602083289624,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Wheat,2024,3.385,3.6166008646167236,Late Fusion (stacked)
+Kanpur,Uttar Pradesh,Rice,2024,2.55,2.5738440434533976,Late Fusion (stacked)
+Indore,Madhya Pradesh,Wheat,2024,3.189,3.0193709003724885,Late Fusion (stacked)
+Bhopal,Madhya Pradesh,Wheat,2024,2.558,2.376639356437004,Late Fusion (stacked)
+Ujjain,Madhya Pradesh,Wheat,2024,3.413,3.1525567526941605,Late Fusion (stacked)
+Nashik,Maharashtra,Wheat,2024,1.998,1.6393936019537159,Late Fusion (stacked)
+Pune,Maharashtra,Rice,2024,2.816,3.063777892667648,Late Fusion (stacked)
+Nagpur,Maharashtra,Rice,2024,3.558,2.770134114977915,Late Fusion (stacked)
+Guntur,Andhra Pradesh,Rice,2024,3.668,3.0452171685043035,Late Fusion (stacked)
+Kurnool,Andhra Pradesh,Rice,2024,4.005,3.3232252452060274,Late Fusion (stacked)
+Anantapur,Andhra Pradesh,Rice,2024,2.789,2.4285905329479798,Late Fusion (stacked)
+Mysuru,Karnataka,Rice,2024,4.309,3.4164684177942433,Late Fusion (stacked)
+Dharwad,Karnataka,Wheat,2024,2.706,2.316122086598101,Late Fusion (stacked)
+Belagavi,Karnataka,Rice,2024,4.46,4.148149306399075,Late Fusion (stacked)
+Coimbatore,Tamil Nadu,Rice,2024,3.068,2.732641045876479,Late Fusion (stacked)
+Madurai,Tamil Nadu,Rice,2024,2.494,2.391397189139505,Late Fusion (stacked)
+Salem,Tamil Nadu,Rice,2024,3.197,2.7494941668540926,Late Fusion (stacked)
+Patna,Bihar,Wheat,2024,3.01,3.1099103269911597,Late Fusion (stacked)
+Patna,Bihar,Rice,2024,3.541,3.2538526452420355,Late Fusion (stacked)
+Gaya,Bihar,Wheat,2024,3.18,2.8023652066769187,Late Fusion (stacked)
+Gaya,Bihar,Rice,2024,2.868,2.866769727484972,Late Fusion (stacked)
+Purnia,Bihar,Wheat,2024,2.792,2.5440246983408317,Late Fusion (stacked)
+Purnia,Bihar,Rice,2024,2.852,2.52582028918307,Late Fusion (stacked)
+Raipur,Chhattisgarh,Rice,2024,2.87,2.571100534631851,Late Fusion (stacked)
+Bilaspur,Chhattisgarh,Rice,2024,3.026,2.5294759092487813,Late Fusion (stacked)
